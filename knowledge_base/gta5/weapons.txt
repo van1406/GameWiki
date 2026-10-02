@@ -1,0 +1,83 @@
+# GTA 5 — Weapons
+
+Overview of the main weapon categories available in Grand Theft Auto V.
+
+=== Melee Weapons ===
+Game: GTA 5
+Category: Weapons
+Melee weapons include the Fist, Knife, Bat, Crowbar, Hammer, Golf Club, and Pool Cue.
+They are silent but require getting close to the target.
+
+=== Pistols ===
+Game: GTA 5
+Category: Weapons
+Pistol: The standard sidearm available from the start. Moderate damage and fire rate.
+Pistol .50 (Combat Pistol): Higher damage than the standard pistol.
+Heavy Pistol: Semi-automatic with a large magazine, good for mid-range fights.
+Vintage Pistol: A stylish pistol with lower damage but higher accuracy.
+AP Pistol: Fully automatic pistol, unlocked after completing certain missions and
+required for drive-by shooting during The Jewel Store Job setups.
+
+=== Submachine Guns ===
+Game: GTA 5
+Category: Weapons
+Micro SMG: Compact and fully automatic, effective while driving.
+SMG: More accurate and more damaging than the Micro SMG, with a larger magazine.
+Assault SMG: Higher rate of fire and magazine capacity, unlocked at higher rank.
+
+=== Shotguns ===
+Game: GTA 5
+Category: Weapons
+Pump Shotgun: Standard pump-action shotgun with high close-range damage.
+Sawed-Off Shotgun: Double-barreled shotgun that can be fired one in each hand.
+Heavy Shotgun: Mag-fed shotgun with extended range.
+Musket: Single-shot historical weapon available as a special item.
+
+=== Assault Rifles ===
+Game: GTA 5
+Category: Weapons
+Assault Rifle: Reliable fully automatic rifle for medium-range combat.
+Carbine Rifle: Accurate and versatile, it is the rifle used in the Smart approach of
+The Jewel Store Job; the player must buy it from Ammu-Nation before the heist.
+Special Carbine: Heavy rifle with high damage, unlocked later in the game.
+Bullpup Rifle: Compact rifle with fast fire rate, acquired during story missions.
+
+=== Sniper Rifles ===
+Game: GTA 5
+Category: Weapons
+Sniper Rifle: Bolt-action rifle for long-range headshots.
+Heavy Sniper: Higher damage that can destroy vehicles in a few shots.
+Marksman Rifle: Semi-automatic rifle for fast follow-up shots at range.
+
+=== Heavy Weapons ===
+Game: GTA 5
+Category: Weapons
+RPG (Rocket Launcher): Fires homing or standard rockets; destroys vehicles quickly.
+Grenade Launcher: Launches grenades at medium range.
+Minigun: Fully automatic heavy gun with very high fire rate.
+Grenades and Sticky Bombs: Throwable explosives for ambushes and vehicle kills.
+Railgun: Extremely powerful single-shot weapon available in the enhanced edition.
+
+=== Throwables and Utility ===
+Game: GTA 5
+Category: Weapons
+Flashbangs, Molotov Cocktails, Pipe Bombs, and Tear Gas are throwable items.
+The Parachute and Fire Extinguisher are utility items stored in the inventory.
+
+=== Buying Weapons and Ammo ===
+Game: GTA 5
+Category: Game Mechanics
+How do I get weapons and ammunition? Buy weapons and ammo at Ammu-Nation stores
+(marked with a gun icon on the map); stock unlocks as the story progresses. Ammo
+is bought per weapon and also found as pickups or dropped by enemies. Attachments
+— scopes, suppressors, extended clips, flashlights, tints — are purchased at the
+counter and change accuracy, range, and magazine size. Missions may also drop
+weapon pickups; your current loadout carries into every mission.
+
+=== Weapon Upgrades ===
+Game: GTA 5
+Category: Game Mechanics
+Weapons can be customized at Ammu-Nation with scopes, suppressors, extended clips,
+flashlights, and tints. Attachments change accuracy, range, and magazine size.
+Ammu-Nation stores are marked on the map and unlock more weapons as the story
+progresses.

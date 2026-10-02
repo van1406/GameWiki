@@ -1,0 +1,197 @@
+# Minecraft — Mobs
+
+A field guide to the creatures (mobs) found in Minecraft. Each mob lists what it
+is, where it spawns, its behavior, drops, how to fight it, and useful tips.
+
+=== Zombie ===
+Game: Minecraft
+Category: Mob
+What it is: A hostile undead mob with 20 health points (10 hearts).
+Where it spawns: In dark places — caves, unlit buildings, and shaded surfaces at
+night; they burn in direct sunlight.
+Behavior: Walks toward the player and attacks in melee; baby zombies are smaller,
+faster, and harder to hit. Zombies can break wooden doors on hard difficulty.
+Drops: Rotten flesh, with occasional rare drops of iron ingots, carrots, or
+potatoes.
+How to fight it: A sword kills them in a few hits; a shield blocks their melee
+attacks, and sunlight will finish off surface zombies on its own.
+Useful tips: Light up your base with torches so they never spawn inside; keep a
+shield up when fighting groups.
+
+=== Skeleton ===
+Game: Minecraft
+Category: Mob
+What it is: A hostile undead archer with 20 health points (10 hearts).
+Where it spawns: In dark areas like caves and unlit surfaces at night; they burn
+in sunlight. The stray is a cold variant found in icy biomes.
+Behavior: Shoots arrows from a distance and backs away from the player to keep its
+range.
+Drops: Bones and arrows.
+How to fight it: Hold up a shield to block arrows, then close the distance and
+finish it with a sword; a bow works well from cover.
+Useful tips: Bones can be used to tame wolves and craft bone meal; strafing side to
+side makes their shots miss.
+
+=== Creeper ===
+Game: Minecraft
+Category: Mob
+What it is: A silent green hostile mob that explodes.
+Where it spawns: In dark areas — caves and unlit surfaces at night; it does not
+burn in sunlight.
+Behavior: Walks toward the player silently, then lights up with a short hissing
+fuse before exploding. The explosion damages blocks and the player.
+Drops: Gunpowder, used to craft TNT and fireworks.
+How to fight it: Strike it with a sword and immediately back away before the fuse
+finishes, repeating until it dies; a bow kills it from a safe distance. Never
+fight one next to your build.
+Useful tips: Armor does not reduce explosion damage much, so distance is the best
+defense; keep your base well lit so creepers cannot spawn inside.
+
+=== Enderman ===
+Game: Minecraft
+Category: Mob
+What it is: A tall, neutral black mob with 40 health points (20 hearts) that
+teleports.
+Where it spawns: In dark areas of the Overworld, the Nether, and the End.
+Behavior: Wanders and picks up blocks; becomes hostile if you look directly at its
+face or attack it. It takes damage from water.
+Drops: Ender pearls, used to craft eyes of ender to find the Stronghold.
+How to fight it: Look at its feet to stay safe, then strike its legs with a sword;
+water (a splash of rain or a bucket) hurts it and stops it teleporting.
+Useful tips: Wearing a pumpkin on your head keeps endermen neutral when you look
+at them; never make eye contact in the End without armor.
+
+=== Spider ===
+Game: Minecraft
+Category: Mob
+What it is: A climbing hostile/neutral mob with 16 health points (8 hearts).
+Where it spawns: In dark areas; in daylight it is neutral, in low light it turns
+hostile.
+Behavior: Climbs walls and jumps at the player; aggressive only in darkness or
+when attacked.
+Drops: String and spider eyes (string for bows and fishing rods, spider eyes for
+poison potions).
+How to fight it: A sword handles them quickly; keep a light source nearby so they
+stay neutral during the day.
+Useful tips: Block off cave entrances so spiders cannot climb into your base.
+
+=== Villager ===
+Game: Minecraft
+Category: Mob
+What it is: A passive humanoid that lives in villages and trades with the player.
+Where it spawns: In villages across the Overworld, taking jobs from workstation
+blocks (composters, lecterns, blast furnaces, and more).
+Behavior: Wanders the village, works at its job site, hides indoors at night, and
+breeds when there are enough beds and food.
+Drops: Nothing — killing villagers is punished by the village iron golems.
+How to fight it: You should not fight them — trade instead.
+Useful tips: Trade with villagers to buy and sell items for emeralds; different
+professions (farmer, librarian, armorer, cleric) offer different trades.
+
+=== Iron Golem ===
+Game: Minecraft
+Category: Mob
+What it is: A large defensive mob with 100 health points (50 hearts) that protects
+villagers.
+Where it spawns: Naturally in villages, or built from four iron blocks in a T
+shape with a carved pumpkin on top.
+Behavior: Patrols the village, throws hostile mobs into the air, and does not take
+knockback; it attacks players who repeatedly harm villagers.
+Drops: Iron ingots and a poppy when killed.
+How to fight it: Only if you must — use a sword and keep moving, since its hits
+launch you; attacking villagers first will make it turn on you.
+Useful tips: Build your own golem to defend a base; it is the best early defense
+against creepers and zombies.
+
+=== Wolf ===
+Game: Minecraft
+Category: Mob
+What it is: A tameable neutral mob with 8 health points (4 hearts), gaining 3
+more hearts after taming.
+Where it spawns: In forest and taiga biomes in packs.
+Behavior: Neutral until attacked; can be tamed with bones, after which it follows
+the player, sits on command, and fights mobs that attack its owner.
+Drops: Nothing of value.
+How to fight it: Avoid packs — a whole pack attacks if you hit one; individual
+wolves fall to a sword quickly.
+Useful tips: Tame several wolves with bones, feed them meat to heal them, and they
+become a traveling guard dog squad.
+
+=== Cow, Pig, and Chicken ===
+Game: Minecraft
+Category: Mob
+What it is: Passive farm animals.
+Where it spawns: On grassy surfaces in the Overworld, or bred in animal farms.
+Behavior: Wander aimlessly; can be bred with wheat (cows), carrots or potatoes
+(pigs), and seeds (chickens).
+Drops: Cows drop leather and raw beef, pigs drop raw porkchops, and chickens drop
+raw chicken and feathers.
+How to fight it: One punch or sword hit is usually enough — they do not fight back.
+Useful tips: Breed animals for a renewable food and leather supply; chickens drop
+feathers needed for arrows.
+
+=== Slime ===
+Game: Minecraft
+Category: Mob
+What it is: A green hostile blob that splits when killed; health varies by size.
+Where it spawns: In swamps at night and in specific deep underground chunks.
+Behavior: Hops toward the player and deals damage on contact; larger slimes split
+into smaller ones when killed.
+Drops: Slimeballs from the smallest slimes, used for sticky pistons and leads.
+How to fight it: Kill the big one, then clear the small ones — only the smallest
+slimes drop loot and they barely damage you.
+Useful tips: Slimeballs are essential for sticky pistons in redstone builds.
+
+=== Blaze ===
+Game: Minecraft
+Category: Mob
+What it is: A fiery flying mob of the Nether that drops blaze rods.
+Where it spawns: In Nether fortresses, spawned from blaze spawners and naturally
+near fortress platforms.
+Behavior: Hovers and shoots volleys of fireballs, diving down for melee attacks
+that set the player on fire; often appears in groups.
+Drops: Blaze rods, the material for blaze powder, eyes of ender, and brewing fuel.
+How to fight it: Take cover from the fire volleys, then rush in with a sword
+between shots; a bow works from range. Snowballs and water also damage blazes.
+Useful tips: Bring a shield and fire resistance potions — blazes are the most
+dangerous regular Nether mob and blaze rods are mandatory for reaching the End.
+
+=== The Wither ===
+Game: Minecraft
+Category: Mob
+What it is: A hostile boss mob with 300 health points (150 hearts) on normal
+difficulty.
+Where it spawns: Summoned by the player — four soul sand or soul soil in a T shape
+with three wither skeleton skulls on top.
+Behavior: Shoots explosive skulls, applies the Wither effect that drains health,
+and destroys blocks around it.
+Drops: A nether star, used to craft a beacon.
+How to fight it: Summon it in an open area or tunnel, wear full protection armor,
+use a bow to chip its health, and finish it with a strength-enchanted sword.
+Useful tips: The wither effect ignores armor — bring regeneration potions and
+golden apples; fighting it underground limits its ability to fly away.
+
+=== The Ender Dragon ===
+Game: Minecraft
+Category: Mob
+What it is: The final boss of Minecraft with 200 health points (100 hearts),
+found in the End dimension.
+Where it spawns: The End dimension, reached through a fully lit End portal in the
+Stronghold.
+Behavior: Flies around the central pillars healing from end crystals on top of
+them, swoops at the player, and breathes dragon breath that damages over time.
+Drops: 12,000 experience points and, on the first kill, a dragon egg appears on
+the exit portal.
+How to fight it: First destroy the end crystals on the obsidian pillars (shoot
+them or pillar up and melee the caged ones), then attack the dragon with a sword
+whenever it perches on the portal, and retreat between its charges.
+Useful tips: Bring a bow with plenty of arrows, blocks to pillar up with, water
+buckets to clear dragon breath, and food — the fight is a marathon, not a sprint.
+
+=== Mob Spawning Mechanics ===
+Game: Minecraft
+Category: Game Mechanics
+Hostile mobs spawn in light level 0 in recent versions (historically light level 7
+or below) on solid blocks away from the player. Spawning is limited to the
+128-block range around the player. Placing torches and lighting up caves prevents
+spawns.

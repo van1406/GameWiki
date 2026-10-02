@@ -1,0 +1,121 @@
+# GTA 5 — Wanted Level
+
+How the wanted level system works in Grand Theft Auto V and exactly how to remove
+wanted levels from 1 to 5 stars.
+
+=== Wanted Level ===
+Game: GTA 5
+Category: Game Mechanics
+The wanted level is the star rating shown in the top-right corner of the screen,
+from 1 to 5 stars. Crimes committed in front of witnesses raise it: punching
+civilians, hitting police, stealing cars with witnesses present, and shooting
+people all add stars. Police respond with more force for every star — cars,
+roadblocks, helicopters, and tactical teams. The wanted level stays active until
+you escape: break line of sight with every officer and stay hidden until the
+escape meter empties and the stars flash away. Committing more crimes while wanted
+keeps the meter topped up.
+
+=== How the Wanted Level System Works ===
+Game: GTA 5
+Category: Game Mechanics
+- Each star adds a heavier police response: patrol officers, cruisers, roadblocks,
+  police helicopters, and NOOSE tactical teams.
+- While any officer can see you, the escape meter does not drop.
+- Once you are out of sight, the circular escape meter under the stars drains; when
+  it empties, the wanted level is removed.
+- Getting spotted again stops the drain, so stay hidden until the meter is gone.
+- Dying or being busted also clears the wanted level, but costs hospital or bail
+  money.
+- Switching to another protagonist clears the wanted level of the character you
+  switched away from.
+
+=== Removing a 1-Star Wanted Level ===
+Game: GTA 5
+Category: Game Mechanics
+How do I lose a 1-star wanted level? A single star means a single patrol response.
+Get out of the officers' line of sight — run around a corner, into an alley, or just
+keep driving until the blue cones on the minimap lose you — then stop or stay in
+cover while the small escape meter drains. A 1-star level is normally cleared in a
+few seconds of breaking line of sight; you rarely need to hide for long.
+
+=== Removing a 2-Star Wanted Level ===
+Game: GTA 5
+Category: Game Mechanics
+How do I lose a 2-star wanted level? Two stars bring more cruisers that will chase
+and ram you. Break line of sight first by taking fast turns out of the police cones
+on the minimap, then get out of view — duck into an alley, a side street, or a
+parking structure — and wait for the escape meter to drain. If cruisers are still
+following, keep moving until none of them can see you, then hide on foot or in a
+parked car around a corner.
+
+=== Removing a 3-Star Wanted Level ===
+Game: GTA 5
+Category: Game Mechanics
+How do I lose a 3-star wanted level? Three stars add a police helicopter that
+tracks you from above, so staying on open streets will not work. Break the ground
+units' line of sight and then get under cover from the air: drive through alleys,
+under overpasses, into tunnels, or into parking garages so the helicopter cannot
+see you. Stay hidden until the escape meter drains. Fighting every cruiser is a
+losing battle — evasion is the reliable method at 3 stars.
+
+=== Removing a 4-Star Wanted Level ===
+Game: GTA 5
+Category: Game Mechanics
+How do I lose a 4-star wanted level? Four stars bring NOOSE tactical teams and more
+aggressive roadblocks on top of the cruisers and helicopter. Do not try to shoot it
+out: get a fast vehicle, break line of sight by turning off main roads, and use
+tunnels, underpasses, and covered parking to hide from the helicopter. Leave the
+vehicle somewhere out of sight, hide on foot around a corner or behind a building,
+and wait for the escape meter to finish draining.
+
+=== Removing a 5-Star Wanted Level ===
+Game: GTA 5
+Category: Game Mechanics
+How do I remove, lose, get rid of, or escape a 5-star wanted level? Five stars is
+the maximum police response: NOOSE teams, helicopters, and constant roadblocks
+everywhere. Fighting is almost never worth it. The reliable way to clear 5 stars is
+to break line of sight and hide until the escape meter empties:
+1. Get out of the open — drive fast off the main roads into alleys, tunnels,
+   underpasses, parking garages, or covered areas the helicopter cannot see into.
+2. Keep moving until the police cones on the minimap lose you.
+3. Leave your vehicle somewhere out of sight and hide on foot behind a wall or in a
+   corner.
+4. Stay hidden while the escape meter drains — if a cop spots you, the drain stops,
+   so relocate deeper into cover.
+5. When the meter empties the stars flash and disappear, and the wanted level is
+   removed.
+Switching characters or fast-traveling after death also clears it, at the cost of
+hospital bills.
+
+=== How to Evade the Police ===
+Game: GTA 5
+Category: Game Mechanics
+How do I evade police in GTA 5? Evasion has two parts: breaking line of sight and
+staying hidden. Drive or run out of the blue vision cones shown on the minimap —
+sharp turns, alleys, and tunnels break pursuit quickly. Once no officer can see you,
+the escape meter starts draining; stay out of sight until it finishes. Helicopters
+at 3 stars and above keep visual contact from the air, so move under cover such as
+overpasses, tunnels, and parking structures. Roadblocks at high stars are best
+rammed or avoided by turning off the road before reaching them.
+
+=== Hiding from the Police ===
+Game: GTA 5
+Category: Game Mechanics
+How does hiding from police work? Hiding means staying out of the sight of every
+police unit, including the helicopter. Good hiding spots are alleys behind
+buildings, tunnels and underpasses, parking garages, and open lots away from street
+lights and patrols. The escape meter under the stars only drains while you are not
+seen; being spotted pauses it, so move deeper into cover instead of staying put if
+officers are circling. Staying inside a personal vehicle is fine as long as nothing
+can see it — but leaving the car somewhere obvious makes it easier for patrols to
+spot you.
+
+=== Crimes and How Stars Are Added ===
+Game: GTA 5
+Category: Game Mechanics
+Minor crimes in front of witnesses (assault, car theft, hitting civilians) start at
+1 star. Shooting at police, blowing up vehicles, and attacking people in view of
+officers quickly raise the rating toward 3 stars, and serious violence or attacking
+NOOSE units pushes it to 4 or 5. Crimes committed with no witnesses around do not
+add stars at all, so isolated locations are safer. Killing witnesses before they
+call the police can stop a wanted level from starting in the first place.

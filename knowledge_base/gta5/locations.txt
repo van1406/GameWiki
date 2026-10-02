@@ -1,0 +1,110 @@
+# GTA 5 — Locations
+
+A guide to the main regions, landmarks, and points of interest in Grand Theft Auto V.
+
+=== Los Santos ===
+Game: GTA 5
+Category: Location
+Type: City (based on Los Angeles)
+Los Santos is the main city of GTA 5 and the southern half of the map. It contains the
+downtown financial district, beaches, suburbs, and the airport.
+
+=== Rockford Hills ===
+Game: GTA 5
+Category: Location
+Type: Upscale district (based on Beverly Hills)
+Rockford Hills is the wealthy district north of downtown Los Santos. It contains the
+Vangelico jewelry store on Portola Drive, which is the target of The Jewel Store Job
+heist, as well as golf clubs and luxury car dealerships.
+
+=== Vinewood ===
+Game: GTA 5
+Category: Location
+Type: Entertainment district (based on Hollywood)
+Vinewood sits in the hills north of downtown and features the Vinewood sign, the
+Vinewood Bowl amphitheater, and many film studios and boulevards.
+
+=== Downtown Los Santos ===
+Game: GTA 5
+Category: Location
+Type: Business district
+The skyscraper core of Los Santos, home to the Union Depository where the gold vault
+of The Big Score is located, and Maze Bank Tower, the tallest building in the city.
+
+=== Vespucci Beach ===
+Game: GTA 5
+Category: Location
+Type: Beach (based on Venice Beach)
+Vespucci Beach has a long boardwalk, a gym, and a pier with an amusement park.
+
+=== South Los Santos ===
+Game: GTA 5
+Category: Location
+Type: Inner-city neighborhood (based on South Central LA)
+The starting area for Franklin, home to Grove Street and the gang territories of the
+Families and the Ballas.
+
+=== Blaine County ===
+Game: GTA 5
+Category: Location
+Type: Rural county (based on Imperial and Riverside Counties)
+The northern half of the map, a desert region containing Sandy Shores, Paleto Bay,
+the Alamo Sea, and Mount Chiliad.
+
+=== Sandy Shores ===
+Game: GTA 5
+Category: Location
+Type: Desert town
+A dusty town on the east shore of the Alamo Sea. It is Trevor's home and the base of
+Trevor Philips Enterprises.
+
+=== Paleto Bay ===
+Game: GTA 5
+Category: Location
+Type: Small coastal town (based on Paleto Bay in GTA San Andreas)
+A quiet town on the north coast with a bank that is robbed in The Paleto Score.
+
+=== Mount Chiliad ===
+Game: GTA 5
+Category: Location
+Type: Mountain landmark
+The tallest peak on the map, located in the northwest of Blaine County. A cable car
+and a dirt trail lead to the summit, and a jetpack myth is associated with it.
+
+=== Fort Zancudo ===
+Game: GTA 5
+Category: Location
+Type: Military base
+A heavily guarded military base in the western hills. Entering it raises a four-star
+wanted level immediately; the P-996 LAZER jets are kept here.
+
+=== Los Santos International Airport ===
+Game: GTA 5
+Category: Location
+Type: Airport (based on LAX)
+LSIA is in the south of Los Santos with long runways used for stealing planes and
+racing missions.
+
+=== Sandy Shores Airfield ===
+Game: GTA 5
+Category: Location
+Type: Airstrip
+A small desert airstrip used by Trevor for smuggling operations.
+
+=== Vangelico Jewelry Store ===
+Game: GTA 5
+Category: Location
+Type: Jewelry store
+Where is Vangelico? The Vangelico jewelry store is on Portola Drive in Rockford
+Hills, the upscale district north of downtown Los Santos (the in-game Beverly
+Hills). It is the target of The Jewel Store Job heist — the crew hits it for its
+display cases — and the store is marked on the map in Rockford Hills. What is
+Vangelico used for? After the heist it reopens as a normal shop selling jewelry.
+
+=== Point of Interest Mechanics ===
+Game: GTA 5
+Category: Game Mechanics
+- The in-game internet and phone let the player buy vehicles, properties, and clothes.
+- Random encounters and strangers & freaks missions are marked with letter icons on
+  the map.
+- Stunt jumps are scattered across the map and reward cash when completed.

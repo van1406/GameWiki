@@ -1,0 +1,122 @@
+# Minecraft — Progression Guides
+
+Step-by-step how-to guides for Minecraft's main progression: first night, diamonds,
+the Nether, and the End.
+
+=== Surviving the First Night ===
+Game: Minecraft
+Category: Progression
+How do I survive the first night? 
+1. Punch a tree to get wood logs, craft planks, then a crafting table and a wooden
+   pickaxe.
+2. Mine stone to upgrade to stone tools, and dig coal for torches.
+3. Find sheep for wool and craft a bed (3 wool + 3 planks), or gather enough coal
+   for torches.
+4. Before sunset, either build a small closed shelter with a door or dig into a
+   hillside and seal the entrance; light the inside with torches.
+5. Sleep in the bed to skip the night, or mine safely indoors until morning.
+Tips: Hostile mobs spawn in the dark, so light everything; never wander at night
+without a sword and food.
+
+=== Finding Diamonds ===
+Game: Minecraft
+Category: Progression
+How do I find diamonds? Mine down to below Y level 16 — diamonds are most common
+between Y -58 and Y -53, just above the bedrock layer. Bring an iron pickaxe or
+better (diamond ore drops nothing without one), plenty of torches, and a water
+bucket for lava. The classic method is branch mining: dig a main tunnel and carve
+short side branches every few blocks at the deepest safe level. Watch for lava
+pockets at the bottom of the world. Fortune III on a pickaxe multiplies diamond
+drops once you reach enchanting.
+
+=== Entering the Nether ===
+Game: Minecraft
+Category: Progression
+How do I make a Nether portal / enter the Nether? Mine at least 10 obsidian blocks
+(a diamond pickaxe is required to mine obsidian) with a lava source and water
+bucket, or find a ruined portal. Build a rectangular frame 4 blocks tall and 5
+wide (corners optional), then light the inside with flint and steel to open the
+purple portal. Step into it to enter the Nether. Bring gold armor, food, a sword,
+and fire resistance potions — the Nether is hostile.
+
+=== Finding a Nether Fortress ===
+Game: Minecraft
+Category: Progression
+How do I find a Nether fortress? Fortresses are dark structures of nether brick
+found anywhere in the Nether. From your portal, bridge out across open areas and
+watch for large bridges and towers; exploring in a straight line covers more
+ground. Bring fire resistance potions, a shield, and lots of blocks for bridging
+over lava. Fortresses contain blaze spawners (needed for blaze rods), nether wart,
+and wither skeletons — mark your route with torches so you can find the way back.
+
+=== Reaching the End ===
+Game: Minecraft
+Category: Progression
+How do I reach the End? Craft eyes of ender from ender pearls (dropped by
+endermen) and blaze powder (from blaze rods). Throw an eye of ender and follow it
+— it floats toward the buried Stronghold. Dig down to the portal room, place an
+eye of ender in each of the twelve portal frame slots, and jump into the activated
+portal. Prepare first: full diamond armor, a good sword and bow, plenty of food,
+building blocks, and a bed or water bucket for the dragon fight.
+
+=== Defeating the Ender Dragon ===
+Game: Minecraft
+Category: Progression
+How do I defeat the Ender Dragon? The fight has two phases:
+1. Destroy the end crystals on top of the obsidian pillars — shoot them with a bow
+   or pillar up with blocks and melee them (some are covered by iron cages; climb
+   and hit them through the opening). Crystals heal the dragon, so they must all
+   go down first.
+2. Attack the dragon whenever it perches on the exit portal: rush in with a
+   strength or sharpness-enchanted sword, land several hits, and back away before
+   it takes off and knocks you back.
+Tips: Bring a bow with many arrows, blocks, food, and a water bucket to clear
+dragon breath (it damages over time — collect it with glass bottles instead).
+Beds explode in the End and experienced players use that explosion damage against
+the perched dragon, at the cost of the bed. Killing the dragon grants 12,000
+experience points and spawns the dragon egg on the exit portal.
+
+=== Enchanting ===
+Game: Minecraft
+Category: Progression
+How does enchanting work? Craft an enchanting table from 2 diamonds, 4 obsidian,
+and 1 book, then place it with 15 bookshelves arranged one block apart around it
+to reach level 30 enchants. Enchanting spends experience levels plus lapis lazuli:
+put the item and lapis in the table, choose an offered enchantment, and the item
+gains it. Useful enchantments include Efficiency and Fortune for mining,
+Unbreaking and Mending for durability, Sharpness and Looting for weapons, and
+Protection for armor. Combine enchantments on an anvil with enchanted books, and
+use a grindstone to disenchant items for experience back.
+
+=== Villager Trading ===
+Game: Minecraft
+Category: Progression
+How does villager trading work? Villagers trade based on their profession, which
+they take from a nearby workstation block — a composter makes a farmer, a lectern
+a librarian, a blast furnace an armorer, a brewing stand a cleric, a cartography
+table a cartographer, and so on. Trade items for emeralds and back; each villager
+has a limited set of trades that restocks twice a day when the villager works at
+its job site. Trading repeatedly levels the villager up (novice to master),
+unlocking better trades and discounts. Librarians can sell enchanted books, making
+them the most valuable profession for gear.
+
+=== Farming ===
+Game: Minecraft
+Category: Progression
+How does farming work? Till dirt or grass blocks with a hoe to create farmland and
+keep it within four blocks of water so it stays hydrated. Plant wheat from seeds,
+carrots, potatoes, beetroot, and nether wart (in the Nether on soul sand). Crops
+grow over time — bone meal instantly fertilizes them. Animals can be farmed by
+penning two of the same animal and feeding them their favorite food (wheat for
+cows and sheep, carrots for pigs, seeds for chickens) to breed them. Automatic
+farms use water streams, dispensers, and redstone timers to harvest crops.
+
+=== Redstone ===
+Game: Minecraft
+Category: Progression
+How does redstone work? Redstone dust carries a power signal up to 15 blocks from a
+power source such as a lever, button, redstone torch, or pressure plate. Repeaters
+extend the signal and add delays; comparators read container fullness and compare
+signals; pistons push blocks; and dispensers fire items. These parts build automatic
+doors, farms, lighting systems, and traps. Start simple — a lever wired to a door —
+then add repeaters and torch logic for more complex machines.

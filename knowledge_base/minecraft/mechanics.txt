@@ -1,0 +1,82 @@
+# Minecraft — Game Mechanics
+
+Core gameplay systems of Minecraft: survival, mining, brewing, and more.
+
+=== Health and Hunger ===
+Game: Minecraft
+Category: Game Mechanics
+The player has 20 health points (10 hearts) and 20 hunger points. Hunger drains while
+sprinting, jumping, and fighting. When hunger is above 18, health regenerates slowly.
+When hunger reaches 0, health slowly drains. Eating food restores hunger; cooked food
+restores more than raw food.
+
+=== Mining and Tool Tiers ===
+Game: Minecraft
+Category: Game Mechanics
+Tool tiers from lowest to highest: wood, stone, iron, diamond, netherite.
+Wooden and stone tools mine most basic blocks; iron is required for diamond ore,
+diamond for obsidian, and any pickaxe tier works on dirt and wood. Using the wrong tool
+drops nothing, for example mining ores with a wooden pickaxe or stone with a wooden axe.
+
+=== Experience and Enchanting ===
+Game: Minecraft
+Category: Game Mechanics
+Experience orbs drop from mining ores, killing mobs, and smelting. Levels are spent at
+an enchanting table, which requires one book, two diamonds, and four obsidian to craft,
+plus lapis lazuli to enchant. Enchantments include Efficiency, Unbreaking, Fortune,
+Silk Touch, Sharpness, and Protection. An anvil combines enchanted books and renames
+items; a grindstone disenches items for experience back.
+
+=== Brewing Potions ===
+Game: Minecraft
+Category: Game Mechanics
+A brewing stand is crafted from one blaze rod and three cobblestone and uses blaze
+powder as fuel. The base is a water bottle plus nether wart to make an awkward potion.
+Common potions: Healing (glistering melon), Strength (blaze powder), Fire Resistance
+(magma cream), Swiftness (sugar), and Night Vision (golden carrot). Gunpowder turns a
+potion into a splash potion; dragon's breath makes a lingering potion.
+
+=== The Nether ===
+Game: Minecraft
+Category: Game Mechanics
+The Nether is a hell-like dimension reached by building a portal from 10 to 14 obsidian
+blocks in a rectangular frame and igniting it with flint and steel. One block in the
+Nether equals eight blocks in the Overworld, so Nether travel is fast. Beds explode in
+the Nether, and water cannot be placed without a cauldron trick.
+
+=== The End ===
+Game: Minecraft
+Category: Game Mechanics
+The End is reached through a Stronghold portal frame filled with twelve eyes of ender.
+The dimension contains the Ender Dragon boss and End cities with shulkers, elytra, and
+elytra-boosting fireworks. The exit portal appears when the dragon dies.
+
+=== Redstone Basics ===
+Game: Minecraft
+Category: Game Mechanics
+Redstone dust transmits power up to 15 blocks from a power source such as a lever,
+button, torch, or pressure plate. Repeaters extend and delay the signal, comparators
+read container fullness, and pistons push blocks. These components automate farms,
+doors, and storage systems.
+
+=== Farming ===
+Game: Minecraft
+Category: Game Mechanics
+Crops need farmland created with a hoe on dirt or grass blocks, and water within four
+blocks to stay hydrated. Wheat grows from seeds in 5 to 10 minutes with bone meal
+instantly. Animals breed when fed their favorite food, producing a baby after a short
+delay.
+
+=== Raid Mechanics ===
+Game: Minecraft
+Category: Game Mechanics
+Killing a raid captain grants the Bad Omen effect. Entering a village with Bad Omen
+starts a raid with waves of pillagers, vindicators, ravagers, and evokers. Winning the
+raid grants the Hero of the Village effect, which gives discounted villager trades.
+
+=== Day and Night Cycle ===
+Game: Minecraft
+Category: Game Mechanics
+A full Minecraft day lasts 20 minutes: 10 minutes of daylight, a short sunset and
+sunrise, and 7 minutes of night. Sleeping in a bed skips the night. Hostile mobs spawn
+in darkness, so lighting up the area at night is important for survival.

@@ -1,0 +1,120 @@
+# GTA 5 — Characters
+
+Profiles of the main playable characters and supporting cast of Grand Theft Auto V.
+
+=== Michael De Santa ===
+Game: GTA 5
+Category: Character
+Role: Playable protagonist, former bank robber
+Michael is a retired bank robber living in Rockford Hills with his wife Amanda and his
+children Jimmy and Tracey. He lives under a secret deal with FIB agent Dave Norton,
+who faked Michael's death during the North Yankton bank robbery. Michael struggles with
+his family life and his urge to keep pulling heists. His special ability is Bullet Time,
+which slows down time while aiming.
+Favorite activities: Watching movies at the Eclipse Theater, drinking whiskey.
+
+=== Trevor Philips ===
+Game: GTA 5
+Category: Character
+Role: Playable protagonist, career criminal
+Trevor is a volatile career criminal and gunrunner who lives in Sandy Shores and runs
+Trevor Philips Enterprises. He is Michael's former partner in crime and believes Michael
+died in North Yankton until the story reunites them. Trevor's special ability is Red Mist,
+which lets him take less damage and deal more damage while enraged.
+
+=== Franklin Clinton ===
+Game: GTA 5
+Category: Character
+Role: Playable protagonist, aspiring gangster
+Franklin is a young hustler from South Los Santos who leaves his old gang, the Families,
+to work for richer clients. He is mentored by Michael and eventually becomes a partner
+in heists. Franklin's special ability is Driving Focus, which slows time while driving
+to let him steer through tight spots.
+
+=== Lester Crest ===
+Game: GTA 5
+Category: Character
+Role: Heist planner and hacker
+Lester is a brilliant strategist, hacker, and long-time partner of Michael and Trevor.
+He plans every major heist in GTA 5, chooses the approach, and sells the crew's stolen
+goods. He later becomes the head of SecuroServ and gives the protagonist assassination
+missions that affect stock prices.
+
+=== Devin Weston ===
+Game: GTA 5
+Category: Character
+Role: Antagonist, billionaire investor
+Devin Weston is a ruthless billionaire venture capitalist who uses the crew for his own
+gain and promises to make them rich. He is one of the main antagonists of the story.
+
+=== Steve Haines ===
+Game: GTA 5
+Category: Character
+Role: Antagonist, FIB agent
+Steve Haines is a corrupt FIB agent who blackmails Michael and Franklin into doing
+dangerous jobs for the FIB against the IAA.
+
+=== Lamar Davis ===
+Game: GTA 5
+Category: Character
+Role: Supporting character, gang member
+Lamar is Franklin's loud-mouthed best friend and a member of the Grove Street Families.
+He drags Franklin into trouble several times during the story.
+
+=== Amanda De Santa ===
+Game: GTA 5
+Category: Character
+Role: Supporting character
+Amanda is Michael's wife. She is obsessed with tennis and yoga and often clashes with
+Michael over his lifestyle.
+
+=== Tracey and Jimmy De Santa ===
+Game: GTA 5
+Category: Character
+Role: Supporting characters
+Tracey is Michael's daughter who wants to be famous, and Jimmy is his lazy son who
+spends his time playing video games.
+
+=== Special Ability Mechanics ===
+Game: GTA 5
+Category: Game Mechanics
+Each protagonist has a unique special ability that fills up by driving well, getting
+headshots, or taking damage. Activating it slows time and turns the screen a
+character-specific color: blue for Michael, green for Trevor, and yellow for Franklin.
+Abilities can be used whenever the character-colored meter has charge — it empties
+while the ability runs, then recharges when the ability is off. Activate with the
+special-ability button (both thumbsticks pressed together on controllers).
+
+=== Character Switching ===
+Game: GTA 5
+Category: Game Mechanics
+How do I switch characters? Hold down on the D-pad to open the character switch
+wheel, highlight Michael, Franklin, or Trevor, and release — the camera moves to
+that character and you control them immediately. Each character is somewhere
+different on the map: Michael in Rockford Hills, Franklin in South Los Santos,
+Trevor in Sandy Shores. Switching also clears the wanted level of the character
+you switched away from.
+
+=== Who Is Michael ===
+Game: GTA 5
+Category: Character
+Michael De Santa (born Michael Townley) is a playable protagonist: a former bank
+robber who faked his death in the North Yankton prologue and now lives in a Rockford
+Hills mansion with Amanda, Jimmy, and Tracey. He plans the crew's heists with
+Lester and his special ability is Bullet Time, which slows time while aiming.
+
+=== Who Is Franklin ===
+Game: GTA 5
+Category: Character
+Franklin Clinton is a playable protagonist: a young hustler from South Los Santos
+who leaves the Families gang to work with Michael and eventually co-plans the
+heists. His special ability is Driving Focus, which slows time while driving to
+steer through tight spots.
+
+=== Who Is Trevor ===
+Game: GTA 5
+Category: Character
+Trevor Philips is a playable protagonist: a volatile career criminal and gunrunner
+in Sandy Shores who runs Trevor Philips Enterprises and is Michael's old partner
+in crime. His special ability is Red Mist, which lets him take less damage and
+deal more damage while enraged.

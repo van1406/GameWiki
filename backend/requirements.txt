@@ -1,0 +1,17 @@
+# GameWiki AI backend dependencies
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+python-dotenv>=1.0
+requests>=2.31
+
+# RAG stack
+langchain>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+faiss-cpu>=1.8
+sentence-transformers>=3.0
+pypdf>=4.2
+# Windows: Smart App Control blocks the scipy 1.18.1 build on some machines
+# (it breaks sklearn -> sentence-transformers). 1.17.x is unaffected.
+scipy==1.17.1

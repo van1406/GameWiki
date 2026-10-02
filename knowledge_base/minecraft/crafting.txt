@@ -1,0 +1,150 @@
+# Minecraft — Crafting
+
+Crafting recipes and crafting system basics for Minecraft. Each recipe lists its
+materials, the pattern, how to craft it, and what it is used for.
+
+=== Crafting Table ===
+Game: Minecraft
+Category: Crafting
+Materials: 4 planks (any wood type)
+Recipe: 2x2 square of planks filling all four slots of the crafting grid
+How to Craft: Open the 2x2 grid in your inventory, place one plank in each of the
+four slots, and take the crafting table from the result slot.
+Uses: Place the table on the ground and use it to open the 3x3 crafting grid that
+unlocks most recipes in the game.
+
+=== Torch ===
+Game: Minecraft
+Category: Crafting
+Materials: 1 stick + 1 coal or charcoal
+Recipe: Coal (or charcoal) directly above a stick
+How to Craft: Place the coal above the stick in the crafting grid (any grid works —
+the recipe is shapeless) and take the result; each craft makes 4 torches.
+Uses: Torches provide a light level of 14 that prevents hostile mob spawns in dark
+areas, lighting caves, houses, and tunnels. They can also be placed on floors and
+walls as decoration.
+
+=== Chest ===
+Game: Minecraft
+Category: Crafting
+Materials: 8 planks
+Recipe: Ring of planks around the edge of the 3x3 grid with an empty center
+How to Craft: Fill every slot of the middle and outer rows except the center slot
+with planks, then take the chest.
+Uses: A chest stores 27 slots of items. Two chests placed side by side merge into
+a large chest with 54 slots.
+
+=== Furnace ===
+Game: Minecraft
+Category: Crafting
+Materials: 8 cobblestone
+Recipe: Ring of cobblestone around the edge of the 3x3 grid with an empty center
+How to Craft: Fill the outer ring of the grid with cobblestone, leave the center
+empty, and take the furnace.
+Uses: The furnace smelts ore into ingots and cooks food. It burns fuel such as
+coal, charcoal, planks, or lava buckets.
+
+=== Iron Ingot ===
+Game: Minecraft
+Category: Crafting
+Materials: 1 iron ore + fuel (coal, charcoal, or planks)
+Recipe: Not crafted in a grid — smelted in a furnace
+How to Craft: Place iron ore in the top slot of the furnace and fuel in the bottom
+slot; the smelted iron ingot appears in the result slot.
+Uses: Iron ingots are the base material for tools, armor, buckets, minecarts,
+shields, and anvils.
+
+=== Diamond Sword ===
+Game: Minecraft
+Category: Crafting
+Materials: 2 diamonds + 1 stick
+Recipe: Two diamonds stacked vertically in the middle column, one stick below them
+How to Craft: Open a crafting table, place the diamonds in the two upper middle
+slots, put the stick in the bottom middle slot, and take the sword.
+Uses: The diamond sword deals 7 attack damage (Java Edition, before enchantments)
+and is the main melee weapon for fighting mobs and bosses. It can be enchanted with
+Sharpness, Smite, Looting, and Unbreaking.
+
+=== Diamond Pickaxe ===
+Game: Minecraft
+Category: Crafting
+Materials: 3 diamonds + 2 sticks
+Recipe: Three diamonds across the top row, two sticks stacked in the middle column
+below the center diamond
+How to Craft: In a crafting table, fill the top row with diamonds, place sticks in
+the center and bottom-center slots, and take the pickaxe.
+Uses: A diamond pickaxe mines obsidian and is required to reach the Nether portal
+loop efficiently; it also mines diamond and ancient debris ore and lasts longer
+than iron.
+
+=== Iron Sword ===
+Game: Minecraft
+Category: Crafting
+Materials: 2 iron ingots + 1 stick
+Recipe: Two iron ingots stacked vertically in the middle column, one stick below
+How to Craft: Place the ingots in the two upper middle slots of the crafting table,
+the stick in the bottom middle slot, and take the sword.
+Uses: The iron sword deals 6 attack damage and is the reliable mid-game weapon
+before you find diamonds.
+
+=== Shield ===
+Game: Minecraft
+Category: Crafting
+Materials: 6 planks + 1 iron ingot
+Recipe: Top row — plank, iron ingot, plank; middle row — three planks; bottom row —
+one plank in the center slot (a Y shape with the iron ingot at the top)
+How to Craft: Open a crafting table, put the iron ingot in the top-center slot with
+a plank on each side, fill the middle row with three planks, place one plank in the
+bottom-center slot, and take the shield.
+Uses: Holding right-click (use) blocks incoming melee and arrow damage from the
+front. It is the best defense against skeletons and creepers at close range.
+
+=== Bow ===
+Game: Minecraft
+Category: Crafting
+Materials: 3 sticks + 3 string
+Recipe: Sticks and string arranged in a diagonal arc (stick-string-stick in the
+left and right columns with string in the middle)
+How to Craft: In a crafting table, arrange three sticks and three string in the
+bow pattern shown in the recipe book, then take the bow.
+Uses: A ranged weapon that shoots arrows; it can be enchanted with Power, Infinity,
+Flame, and Punch. Infinity makes arrows effectively endless.
+
+=== Bed ===
+Game: Minecraft
+Category: Crafting
+Materials: 3 wool + 3 planks
+Recipe: Wool across the top row, planks across the middle row
+How to Craft: Open a crafting table, place wool in the three top slots, planks in
+the three middle slots, and take the bed; the wool must all be the same color.
+Uses: Beds set the spawn point and skip the night when slept in. Sleeping fails if
+hostile mobs are nearby. Beds explode in the Nether and the End.
+
+=== TNT ===
+Game: Minecraft
+Category: Crafting
+Materials: 5 gunpowder + 4 sand
+Recipe: Alternating gunpowder and sand in a checkerboard pattern
+How to Craft: In a crafting table, place gunpowder in the four corners and the
+center slots, sand in the remaining slots, and take the TNT.
+Uses: TNT is detonated with flint and steel or a redstone signal for mining blasts
+and traps. Gunpowder drops from creepers.
+
+=== Stick ===
+Game: Minecraft
+Category: Crafting
+Materials: 2 planks
+Recipe: Two planks stacked vertically
+How to Craft: Place one plank above another in any crafting grid and take the four
+sticks.
+Uses: Sticks are the handle for nearly every tool, weapon, and torch recipe.
+
+=== Crafting Table Tips ===
+Game: Minecraft
+Category: Game Mechanics
+- The recipe book (green icon) shows available recipes and can auto-fill patterns.
+- Shaped recipes require the exact pattern; shapeless recipes accept any arrangement.
+- Some recipes require specific tool tiers: iron pickaxe or better for diamonds,
+  diamond or netherite pickaxe for obsidian.
+- How do I craft an item? Open a crafting table, check the recipe book for the
+  recipe, place the materials in the pattern, and take the result.

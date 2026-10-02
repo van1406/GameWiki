@@ -1,0 +1,340 @@
+# GTA 5 — Mission Guide
+
+Structured walkthroughs of the main story missions in Grand Theft Auto V. Every mission
+lists its overview, how to start, characters, location, objectives, step-by-step
+completion, vehicles, weapons, events, completion, rewards, and tips.
+
+=== Mission: Prologue ===
+Game: GTA 5
+Category: Mission
+Mission Overview:
+- A bank robbery in Ludendorff, North Yankton, set 19 years before the main story.
+  Michael and Trevor rob the bank while accomplices hold hostages, and the job ends in
+  tragedy when Michael is shot by an unknown gunman who is later revealed to be Dave
+  Norton.
+How to Start:
+- The Prologue is the first mission of the game and starts automatically when you
+  begin a new game.
+Characters:
+- Michael, Trevor, the bank crew, hostages, police, and Dave Norton.
+Location:
+- Ludendorff, North Yankton — a snowy town that only appears in the prologue.
+Objectives:
+- Take control of the bank and hold the hostages.
+- Get the money from the vault area.
+- Fight past the police and reach the snowmobiles.
+- Escape Ludendorff with the crew.
+How to Complete:
+1. Move through the bank with the crew and keep the hostages under control.
+2. Grab the cash in the vault area.
+3. When the police surround the building, fight your way out to the snowmobiles.
+4. Flee across the snow and follow the crew to the escape point.
+5. The mission ends with Michael being shot by Dave Norton, which fakes Michael's
+   death and sets up the entire story.
+Vehicles:
+- Snowmobiles used for the escape.
+Weapons:
+- Firearms for the robbery and the escape shootout.
+Mission Events:
+- Hostage control, a police shootout, and the faked death of Michael.
+Completion:
+- The crew escapes North Yankton, and the story jumps ahead 19 years to Los Santos.
+Rewards:
+- Unlocks the main story of GTA 5.
+Tips:
+- The prologue doubles as the game's tutorial — stay behind cover during the shootout
+  and follow the on-screen prompts.
+
+=== Mission: The Jewel Store Job ===
+Game: GTA 5
+Category: Mission
+Mission Overview:
+- The first proper heist in GTA 5. Lester Crest plans a robbery of the Vangelico
+  jewelry store in Rockford Hills, and Michael must choose between a loud
+  smash-and-grab and a quiet break-in.
+How to Start:
+- Complete the setup missions "Casing the Jewel Store" and "Vangelico Meet Up", buy
+  the Carbine Rifles from Ammu-Nation if you want the Smart approach, then meet
+  Lester at the garment factory planning room.
+Characters:
+- Michael (crew leader), Lester Crest (planner), hired gunman Karl Abolnik or
+  Gustavo Mota, drivers, and a hacker chosen before the mission.
+Location:
+- Vangelico jewelry store, Portola Drive, Rockford Hills; the getaway ends at the
+  crew lockup.
+Objectives:
+- Travel to the Vangelico jewelry store with the crew.
+- Neutralize the guards or alarms, depending on the chosen approach.
+- Take the jewels from the display cases.
+- Escape the police response on the Loud approach (none on the Smart approach).
+- Deliver the loot to the lockup.
+How to Complete:
+Loud approach:
+1. Drive to the jewel store with Karl, Gustavo, and the crew.
+2. Park the bike behind the store and throw a grenade into the skylight.
+3. Enter the store, intimidate the civilians, and grab the jewels from the cases.
+4. Fight the LSPD officers who arrive outside.
+5. Ride the bikes into the sewer tunnel to escape the police.
+6. Reach the lockup to finish the mission.
+Smart approach (requires buying the Carbine Rifles from Ammu-Nation before the mission):
+1. Meet the crew at the store with the rifles.
+2. Use the tranquilizer darts on the guards on the roof of the building next door.
+3. Drill through the roof and drop into the store.
+4. Spray the gas canisters to knock out the civilians silently.
+5. Take the jewels from the display cases without police involvement.
+6. Leave the store calmly and deliver the loot to the lockup.
+Vehicles:
+- Motorcycles used for the Loud escape through the sewer; ordinary cars to reach the
+  store on the Smart approach.
+Weapons:
+- Carbine Rifles for the Smart approach (bought from Ammu-Nation beforehand),
+  grenades for the Loud approach skylight, and your equipped weapons for the
+  police shootout.
+Mission Events:
+- A guard neutralization phase, the robbery itself, and on the Loud approach a full
+  LSPD response with a bike chase into the sewers.
+Completion:
+- The crew delivers the jewels to the lockup, Lester fences the loot, and each
+  crew member receives their cut. This completes the first heist and unlocks the
+  rest of the heist strand.
+Rewards:
+- Loud approach: $4,946,150 total take (about $9,892,300 before cuts).
+- Smart approach: $5,014,650 total take, with no wanted level during the heist.
+- Lester's cut: 5%; gunman, driver, and buyer cuts are chosen by the player.
+Tips:
+- The Smart approach avoids the police entirely — buy the Carbine Rifles first.
+- Higher-skilled crew members cost a larger cut but perform better.
+- Gold medals reward objectives such as headshots and time limits on mission replay.
+
+=== Mission: The Merryweather Heist ===
+Game: GTA 5
+Category: Mission
+Mission Overview:
+- Trevor wants to steal a package from a Merryweather security convoy. The crew
+  follows a convoy across Blaine County and then attacks a Merryweather ship in the
+  ocean, choosing between a frontal assault or a submarine bomb.
+How to Start:
+- Given by Trevor Philips after completing "Blitz Play" and "Friends Reunited".
+Characters:
+- Trevor Philips, Michael, Franklin, hired crew, and Merryweather private soldiers.
+Location:
+- Convoy routes across Blaine County, and a Merryweather freighter in the ocean off
+  the coast of Los Santos.
+Objectives:
+- Follow the Merryweather convoy through Blaine County and learn where the package
+  is taken.
+- Get out to the Merryweather ship at sea.
+- Steal the package from the ship.
+- Escape back to shore with the package.
+How to Complete:
+1. Follow the convoy by road without losing it and watch it deliver the package to
+   the freighter.
+2. Choose an approach for the ship attack:
+   - Frontal assault: take a boat out with the crew, fight the Merryweather guards
+     on deck, grab the package, and return to shore.
+   - Submarine: pilot the submarine under the hull, plant a bomb, and retrieve the
+     package after the blast.
+3. Fight off Merryweather soldiers during the escape.
+4. Deliver the package to finish the mission.
+Vehicles:
+- Road vehicles for the convoy tail, a boat for the assault approach, and a
+  submarine for the bomb approach.
+Weapons:
+- Your equipped weapons; Merryweather guards are well-armed private military
+  contractors, so bring rifles and explosives.
+Mission Events:
+- A cross-county convoy tail, a naval battle, and the first direct clash between the
+  crew and Merryweather.
+Completion:
+- The crew escapes with the package and the story advances; Merryweather remains an
+  enemy for the rest of the game.
+Rewards:
+- No direct cash payout, but the mission advances the story.
+Tips:
+- Keep a safe distance while following the convoy — getting too close or too far
+  fails the tail.
+- The submarine approach causes less direct firefighting; the assault approach is a
+  straight shootout.
+
+=== Mission: Blitz Play ===
+Game: GTA 5
+Category: Mission
+Mission Overview:
+- A setup mission for the Union Depository approach. The crew steals an armored
+  Granger by ramming it off the road, tows it to a lockup, and repaints it so it can
+  be used later.
+How to Start:
+- Given by Lester Crest and Martin Madrazo during the heist strand.
+Characters:
+- Michael, Franklin, Trevor, Lester, and hired crew members.
+Location:
+- Fleeca Bank and an armored truck depot in Los Santos, ending at a lockup.
+Objectives:
+- Intercept and ram the armored vehicle off the road.
+- Tow the damaged vehicle back to the lockup.
+- Repaint and repair the vehicle for future use.
+How to Complete:
+1. Take the tow truck with the crew and find the armored Granger on the road.
+2. Ram or hook the vehicle and drag it off the road.
+3. Tow it back to the lockup.
+4. Repaint and repair the vehicle so it is ready for the heist preparations.
+Vehicles:
+- A tow truck and the stolen armored Granger.
+Weapons:
+- Standard weapons for defense during the intercept.
+Mission Events:
+- A road intercept and vehicle recovery that sets up the final heist.
+Completion:
+- The armored vehicle is secured, unlocking further heist setups.
+Rewards:
+- Unlocks further heist setups.
+Tips:
+- Ram the target vehicle against a solid obstacle so it stops quickly and the tow is
+  easier.
+
+=== Mission: The Paleto Score ===
+Game: GTA 5
+Category: Mission
+Mission Overview:
+- The crew robs the Blaine County Savings Bank in Paleto Bay using an armored truck
+  disguised as an FIB vehicle. The plan fails when the truck breaks down and the crew
+  must fight through police and military forces on the main street before escaping by
+  train.
+How to Start:
+- Given by Lester Crest after completing "The Merryweather Heist" and "Blitz Play".
+Characters:
+- Michael, Trevor, Franklin, Lester, and hired crew.
+Location:
+- Blaine County Savings Bank, Paleto Bay; the escape runs down the main street and
+  onto the railway line.
+Objectives:
+- Drive the disguised armored truck to the bank in Paleto Bay.
+- Blow the vault and take the money.
+- Survive the police and military response on Paleto Bay's main street.
+- Reach the train and escape.
+How to Complete:
+1. Arrive at the bank in the disguised truck.
+2. Blast or drill into the vault and load the cash.
+3. The getaway vehicle breaks down outside — fight through the police and National
+   Guard forces along the main street.
+4. Regroup and escape on the train.
+5. Reach safety to finish the mission.
+Vehicles:
+- The armored truck disguised as an FIB vehicle, and the train used for the escape.
+Weapons:
+- Heavy weapons are recommended: the fight on the main street includes police and
+  military resistance, so rifles, snipers, and explosives help.
+Mission Events:
+- The vault robbery, a vehicle breakdown, a full-scale street battle, and a train
+  escape.
+Completion:
+- The crew gets out of Paleto Bay with the money, moving the heist strand toward the
+  final score.
+Rewards:
+- About $8,160,000 total take, split between the crew.
+Tips:
+- Stock up on armor, snacks, and explosives before starting — the street fight is one
+  of the longest firefights in the game.
+
+=== Mission: The Big Score ===
+Game: GTA 5
+Category: Mission
+Mission Overview:
+- The final and largest heist of GTA 5: stealing gold from the Union Depository in
+  downtown Los Santos.
+How to Start:
+- Given by Lester Crest after completing "The Paleto Score" and "Architect's Plans".
+Characters:
+- Michael, Franklin, Trevor, Lester, and the hired gunman, driver, and hacker.
+Location:
+- Union Depository, Downtown Los Santos, with escapes through the subway tunnels or
+  across downtown.
+Objectives:
+- Get into the Union Depository and reach the gold vault.
+- Load out the gold.
+- Escape Los Santos with the gold and deliver it to the buyer.
+How to Complete:
+Subtle approach:
+1. The crew infiltrates the depository using a drill and a garbage truck.
+2. Load the gold and walk out disguised as armored guards.
+3. Escape through the subway tunnels.
+4. Deliver the gold to the buyer to complete the heist.
+Obvious approach:
+1. The crew uses a tow cable to drag a vault door off a truck.
+2. Fight across downtown Los Santos in a four-man crew and repel the police with
+   firepower.
+3. Fly the gold out of the city.
+Vehicles:
+- A drill, a garbage truck, and getaway cars for the subtle approach; helicopters
+  and armored vehicles for the obvious approach.
+Weapons:
+- The obvious approach is a running gun battle — bring heavy weapons, body armor,
+  and explosives.
+Mission Events:
+- Vault infiltration, an escape through the city, and a large police response on the
+  obvious route.
+Completion:
+- The gold is delivered, Lester takes his cut, and each protagonist receives their
+  share, leading into the final mission.
+Rewards:
+- Up to $1,200,000,000 total take, with the largest share depending on crew cuts.
+Tips:
+- Choose high-skill crew for gunman and driver roles — their cuts are worth it on the
+  biggest payout in the game.
+- The subtle approach avoids most of the fight; the obvious approach is faster but
+  heavily contested.
+
+=== Mission: Ending Choices ===
+Game: GTA 5
+Category: Mission
+Mission Overview:
+- The final mission offers three endings. The canon ending is "Ending C — Deathwish",
+  in which Michael, Trevor, and Franklin work together to kill Devin Weston, Steve
+  Haines, and Stretch. The other two options let Franklin kill either Trevor or
+  Michael.
+How to Start:
+- Reach the final mission after The Big Score; Devin Weston orders Franklin to kill
+  Michael, and Steve Haines orders him to kill Trevor.
+Characters:
+- Franklin Clinton, Michael De Santa, Trevor Philips, Devin Weston, Steve Haines,
+  Stretch, and Lester Crest (phone guidance).
+Location:
+- Los Santos — the three targets are dealt with in different parts of the city and
+  Blaine County.
+Objectives:
+- Choose an ending: kill Trevor, kill Michael, or the Deathwish (Ending C) plan.
+- On Ending C, eliminate all three targets with the crew working together.
+How to Complete (Ending C — Deathwish):
+1. Call Lester for a plan to save everyone.
+2. Split the three targets between Franklin, Michael, and Trevor.
+3. Each protagonist eliminates their target with the crew's support.
+4. Survive the final confrontations and meet at the Vinewood sign.
+5. The three friends reconcile and the story ends.
+Vehicles:
+- Personal vehicles for moving between targets; a helicopter appears in parts of the
+  final mission.
+Weapons:
+- Bring your best weapons — the ending involves multiple firefights.
+Mission Events:
+- The choice itself, three coordinated hits, and the final reconciliation.
+Completion:
+- Ending C completes the game with all three protagonists alive; the epilogue shows
+  their lives after the final job.
+Rewards:
+- Completing the story unlocks the full map for free roam with all three characters.
+Tips:
+- Ending C is the canonical ending — the other two choices permanently kill a
+  protagonist, so save before deciding.
+
+=== General Mission Mechanics ===
+Game: GTA 5
+Category: Game Mechanics
+- Gold medals require optional objectives such as headshots, time limits, or
+  specific vehicles used.
+- Failed missions can be restarted instantly from the pause menu.
+- Crew members take a percentage of every heist take; higher-skilled crew members
+  cost more but can earn more money overall.
+- Some missions require buying equipment beforehand, such as rifles for the
+  Smart approach of The Jewel Store Job.
+- Mission objectives are listed in the top right of the screen and map markers show
+  where to go next.

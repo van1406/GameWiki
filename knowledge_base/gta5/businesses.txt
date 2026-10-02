@@ -1,0 +1,62 @@
+# GTA 5 — Money, Businesses, and Properties
+
+How money works in GTA 5: income sources, purchasable properties, businesses, and
+the stock market.
+
+=== Making Money in GTA 5 ===
+Game: GTA 5
+Category: Game Mechanics
+How do characters earn money in GTA 5? The main source is heists — each one pays
+millions, with the Big Score paying the most. On top of that: story and stranger
+missions pay cash, robbing stores (aim a weapon at the clerk until they hand over
+the register) gives quick money but may raise a wanted level, completing stunt
+jumps and races pays rewards, and properties and businesses generate income
+passively over time. Every protagonist starts with their own share of past heist
+takings.
+
+=== Properties ===
+Game: GTA 5
+Category: Game Mechanics
+How do properties work? Properties are bought from map locations marked with a
+dollar sign — garages, safehouses, a marina, an airfield, a taxi company, a cinema,
+and more. Each purchased property generates income over time, shown in its
+description, and some unlock extra side missions or perks (for example taxi
+missions or movie theater revenue). Buying property is a long-term investment:
+cash accumulates as you play, and property missions tied to the purchase can pay
+back the cost quickly.
+
+=== Businesses ===
+Game: GTA 5
+Category: Game Mechanics
+How do businesses work? Owned businesses such as the Downtown Cab Co., the Vinewood
+cinema, the marina, and the airfield work as income-generating assets: they pay
+out over time automatically after purchase. Some businesses come with side missions
+that raise their earnings. Businesses are bought the same way as properties — find
+the for-sale blip on the map, purchase it, and the passive income begins.
+
+=== Stock Market ===
+Game: GTA 5
+Category: Game Mechanics
+Can I invest money in GTA 5? Yes — two stock markets exist: LCN (affected by
+in-game events) and BAWSAQ (tied to player activity). Lester's assassination
+missions are designed around the stock market: invest in the target company's
+competitor before the mission and the stock swings afterward for a profit. The
+stock market is accessed through the in-game phone or computer browser under
+Financial Services.
+
+=== Robbing Stores ===
+Game: GTA 5
+Category: Game Mechanics
+How do I rob a store? Walk into any shop, aim a weapon at the clerk, and wait for
+them to hand over the cash from the register. Leaving before they finish, or
+shooting, can raise a wanted level. Store robberies are quick one-off payouts and
+the clerk's fear meter fills faster if you keep the gun aimed.
+
+=== Spending Money ===
+Game: GTA 5
+Category: Game Mechanics
+Where does money go? Cash is spent on vehicles and property from websites,
+upgrades at Los Santos Customs and Ammu-Nation, weapons and ammunition, clothes,
+haircuts, and bribes such as hospital and bail fees when you are busted or killed.
+Keeping a stock of armor and ammo before missions is worth the cost — hospital
+bills from failed fights cost more than the armor.

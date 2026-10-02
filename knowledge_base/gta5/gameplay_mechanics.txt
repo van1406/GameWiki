@@ -1,0 +1,127 @@
+# GTA 5 — Gameplay How-To
+
+Practical gameplay answers: switching characters, special abilities, weapons,
+vehicles, money, and using the map.
+
+=== Switching Characters ===
+Game: GTA 5
+Category: Game Mechanics
+How do I switch characters in GTA 5? Hold down on the D-pad (the character switch
+wheel appears in the bottom corner), highlight the portrait of Michael, Franklin,
+or Trevor with the left stick, and release. The camera flies to that character and
+you take control of them wherever they are on the map. Switching is available
+anytime outside missions, and switching away from a wanted character also clears
+that character's wanted level. Each protagonist lives in a different part of the
+city — Michael in Rockford Hills, Franklin in South Los Santos, Trevor in Sandy
+Shores.
+
+=== Special Abilities ===
+Game: GTA 5
+Category: Game Mechanics
+What is each character's special ability and when can I use it?
+- Michael's Bullet Time slows time while aiming, making headshots easy.
+- Trevor's Red Mist reduces the damage he takes and increases the damage he deals
+  while enraged.
+- Franklin's Driving Focus slows time while driving, letting him steer through
+  tight gaps at speed.
+Each ability runs on a character-colored meter (blue for Michael, green for Trevor,
+yellow for Franklin) that fills by driving well, getting headshots, or taking
+damage. Activate the ability with the special-ability button (both thumbsticks
+pressed together on console controllers) whenever the meter has charge; it lasts
+until the meter empties and then recharges while unused.
+
+=== Changing Weapons ===
+Game: GTA 5
+Category: Game Mechanics
+How do I change weapons? Open the weapon wheel with the weapon-wheel button (hold
+L1 on PlayStation, LB on Xbox, or the wheel key on PC) and pick a weapon with the
+stick or mouse — the game slows down while the wheel is open. Weapons you own are
+grouped into slots: melee, pistols, SMGs, shotguns, rifles, snipers, heavy, and
+throwables. On missions you automatically carry your current loadout.
+
+=== Getting Weapons ===
+Game: GTA 5
+Category: Game Mechanics
+How do I get weapons? Weapons are bought at Ammu-Nation stores, which are marked
+with a gun icon on the map and unlock more stock as the story progresses. You also
+pick up weapons and ammunition dropped by enemies, and missions often supply
+weapon pickups. Higher-tier weapons such as the Carbine Rifle and sniper rifles
+become purchasable once their missions unlock them.
+
+=== Ammunition ===
+Game: GTA 5
+Category: Game Mechanics
+How does ammunition work? Every gun has its own ammo pool, shown next to the weapon
+in the wheel. Ammo is bought at Ammu-Nation (buying for a weapon you own), found as
+pickups around the map, and dropped by enemies. Throwables like grenades and
+Molotovs are limited and restocked at Ammu-Nation. Ammo has a maximum cap per
+weapon, so stock up before heists and big firefights.
+
+=== Weapon Categories ===
+Game: GTA 5
+Category: Game Mechanics
+What weapon categories exist in GTA 5? Melee, Pistols, Submachine Guns, Shotguns,
+Assault Rifles, Sniper Rifles, Heavy Weapons (RPG, grenade launcher, minigun), and
+Throwables (grenades, sticky bombs, Molotovs, tear gas). Each category has its own
+slot on the weapon wheel, and Ammu-Nation sells attachments — scopes, suppressors,
+extended clips — that change accuracy, range, and magazine size.
+
+=== Getting a Vehicle ===
+Game: GTA 5
+Category: Game Mechanics
+How do I get a vehicle? The simplest way is to take any parked or moving car on the
+street (stealing with witnesses around raises a wanted level). Your personal
+vehicle is delivered by the mechanic when you call from the phone. Vehicles can
+also be bought from websites on the in-game internet — Legendary Motorsport for
+sports cars, Southern San Andreas Super Autos for everyday cars, and Warstock Cache
+& Carry for military vehicles — with delivery to your garage.
+
+=== Storing Vehicles ===
+Game: GTA 5
+Category: Game Mechanics
+How do I store vehicles? Drive a car into your safehouse garage and it is saved as
+a personal vehicle, replacing any spot it takes. Personal vehicles with insurance
+can be replaced by the mechanic if destroyed. Garage space is limited at each
+property, so keep the cars you care about and sell or replace the rest at Los Santos
+Customs.
+
+=== Customizing Vehicles ===
+Game: GTA 5
+Category: Game Mechanics
+How do I customize vehicles? Drive into a Los Santos Customs shop (marked on the
+map) to upgrade with new engine, brakes, transmission, turbo, suspension, armor,
+windows, paint jobs, horns, lights, and plates. Upgrades cost cash and some parts
+unlock as you progress. Customization improves handling, speed, and durability and
+applies permanently to that personal vehicle.
+
+=== Finding Specific Vehicles ===
+Game: GTA 5
+Category: Game Mechanics
+How do I find a specific vehicle? Buy most cars from the in-game websites for
+direct delivery. Vehicles that are not for sale can be found spawning in the parts
+of the city where that type belongs — sports cars around Rockford Hills and the
+marina, muscle cars in South Los Santos, off-road vehicles in Blaine County, and
+aircraft at Los Santos International Airport and Sandy Shores Airfield. Military
+vehicles like the P-996 LAZER are at Fort Zancudo, where taking one raises a
+four-star wanted level instantly. The mechanic also delivers your stored personal
+vehicles anywhere on the map.
+
+=== Using the Map and GPS ===
+Game: GTA 5
+Category: Game Mechanics
+Where is a location on the map? Open the pause-menu map, move the cursor to any
+point, and set a waypoint to draw a GPS route on your minimap. Mission markers show
+as colored blips, Ammu-Nation as a gun, Los Santos Customs as a spray can, and
+property purchases as dollar signs. Following the purple GPS line on the minimap is
+the fastest way to reach any destination.
+
+=== Earning Money ===
+Game: GTA 5
+Category: Game Mechanics
+How do I earn money? The biggest payouts come from heists — the Jewel Store Job
+through the Big Score pay millions. Story missions and side jobs pay smaller
+amounts, strangers & freaks missions give cash rewards, completing stunt jumps and
+races pays out, and robbing stores by aiming a weapon at the clerk hands over the
+register cash (and may start a wanted level). Properties and businesses generate
+passive income over time, and Lester's assassination missions can be played around
+the stock market for large investment profits.

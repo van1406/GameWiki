@@ -1,0 +1,68 @@
+# Minecraft — Dimensions
+
+Practical guides to the two dimensions beyond the Overworld: the Nether and the End.
+
+=== Nether ===
+Game: Minecraft
+Category: Dimension
+How to enter: Build a portal frame of obsidian — 10 to 14 blocks in a rectangular
+frame at least 4 blocks tall and 5 wide (the corner blocks are optional) — and
+light the inside with flint and steel. The purple portal teleports you into the
+Nether on the other side.
+Important locations: Nether fortresses (dark nether-brick structures with bridges
+and blaze spawners), Bastion Remnants (piglin fortresses with gold treasure),
+lava oceans, glowstone ceilings, and ancient debris buried around Y 8 to Y 22.
+Important mobs: Blazes (fortresses), ghasts (open caverns), piglins (hostile
+unless you wear gold armor), hoglins, magma cubes, wither skeletons, and zombie
+piglins (neutral until attacked).
+Resources: Nether quartz, nether gold, glowstone, basalt, nether wart, blaze rods,
+soul sand, and ancient debris, which smelts into netherite scrap.
+Survival tips: Beds explode in the Nether — never try to sleep. Water buckets do
+not place water, so bring fire resistance potions instead. Wear gold armor so
+piglins stay neutral, carry flint and steel to relight portals, and bridge carefully
+over lava. One block walked in the Nether equals eight blocks in the Overworld, so
+Nether travel is very fast.
+
+=== The End ===
+Game: Minecraft
+Category: Dimension
+How to enter: Find the Stronghold by throwing eyes of ender (crafted from ender
+pearls and blaze powder), which float toward it. Fill the End portal frame with
+twelve eyes of ender and jump in.
+Important locations: The central island with the exit portal and obsidian pillars
+topped by end crystals; the outer islands with End cities, end ships (which hold
+elytra), and chorus fruit groves reached through end gateway portals after the
+dragon dies.
+Important mobs: The Ender Dragon (boss), endermen (neutral until looked at), and
+shulkers in End cities, which shoot homing bullets that give Levitation.
+Resources: End stone, purpur blocks, chorus fruit, shulker shells, and elytra from
+End ships.
+Survival tips: Avoid looking at endermen or wear a carved pumpkin; bring blocks to
+bridge between pillars, a bow for the dragon and crystals, and plenty of food.
+Dragon breath can be collected in glass bottles for lingering potions.
+
+=== Nether Fortress ===
+Game: Minecraft
+Category: Dimension
+How to find: Nether fortresses generate throughout the Nether — explore open
+caverns and lava seas looking for dark nether-brick structures with long bridges
+and fenced corridors. They can be far from your portal, so bring extra blocks,
+food, fire resistance, and a sword.
+Why visit them: Fortresses hold blaze spawners (blaze rods for reaching the End),
+nether wart gardens at the base of stairs, wither skeletons on the bridges, and
+chests with loot. Blaze rods and nether wart make fortresses mandatory for
+progression.
+Survival tips: Fight blazes on the bridge with cover from the pillars, block off
+wider corridors to limit wither skeleton rushes, and mark your way home with
+torches.
+
+=== The End Portal ===
+Game: Minecraft
+Category: Dimension
+How to find: Craft eyes of ender from four ender pearls and four blaze powder,
+then throw one — it flies toward the Stronghold. Follow until it stops going
+sideways, dig down, and find the portal room.
+How to activate: Place an eye of ender in each of the twelve frame slots; when all
+twelve are filled, the black portal activates and you can jump into the End.
+Tips: Bring twelve eyes of ender at minimum plus extra pearls to throw; the portal
+room's silverfish spawner can be destroyed before it causes trouble.

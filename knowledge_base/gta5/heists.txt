@@ -1,0 +1,93 @@
+# GTA 5 — Heists
+
+The heist system in GTA 5: what heists are, how to prepare them, approaches, crew
+choices, and payouts.
+
+=== What Is a Heist in GTA 5 ===
+Game: GTA 5
+Category: Game Mechanics
+A heist is a large planned robbery that Lester Crest organizes for the crew. Every
+heist has preparation missions, crew roles (gunmen, drivers, and hackers), and often
+two approaches — a loud one and a quiet one. Heists are the biggest source of money
+in the game and are started after their setup missions are complete.
+
+=== Heist: The Jewel Store Job ===
+Game: GTA 5
+Category: Heist
+What it is: The first heist of the game — a robbery of the Vangelico jewelry store
+in Rockford Hills.
+Preparations: Complete "Casing the Jewel Store" and "Vangelico Meet Up". For the
+Smart approach, buy the Carbine Rifles from Ammu-Nation before the mission.
+Approaches: Loud (grenade through the skylight, grab jewels, fight police out) or
+Smart (tranquilize roof guards, drill through the roof, gas the civilians, walk out
+clean).
+Participants: Michael, Lester as planner, plus a hired gunman, driver, and hacker.
+Objectives: Reach the store, defeat the guards or alarms, take the jewels, escape,
+deliver the loot to the lockup.
+Payout: Loud about $4,946,150 total take; Smart about $5,014,650 with no wanted
+level. Lester takes 5%.
+
+=== Heist: The Merryweather Heist ===
+Game: GTA 5
+Category: Heist
+What it is: Stealing a package from Merryweather security by attacking their ship
+at sea.
+Preparations: Complete "Blitz Play" and "Friends Reunited".
+Approaches: Assault the freighter with a boat and crew, or use a submarine to plant
+a bomb under the hull.
+Participants: Trevor as planner, Michael, Franklin, and hired crew.
+Objectives: Tail the convoy in Blaine County, hit the ship, take the package,
+escape to shore.
+Payout: No direct cash — the mission advances the main story.
+
+=== Heist: The Paleto Score ===
+Game: GTA 5
+Category: Heist
+What it is: A bank robbery in Paleto Bay using an armored truck disguised as an FIB
+vehicle.
+Preparations: Complete "The Merryweather Heist" and "Blitz Play".
+Approaches: One route — the truck breaks down and the crew fights out of town.
+Participants: Michael, Trevor, Franklin, Lester, and hired crew.
+Objectives: Drive to the bank, take the money, survive the police and military
+response, escape by train.
+Payout: About $8,160,000 total take, split between the crew.
+
+=== Heist: The Big Score ===
+Game: GTA 5
+Category: Heist
+What it is: The final and largest heist — stealing gold from the Union Depository.
+Preparations: Complete "The Paleto Score" and "Architect's Plans".
+Approaches: Subtle (drill, garbage truck, walk out as guards, subway escape) or
+Obvious (tow cable on the vault door, fight across downtown, fly the gold out).
+Participants: Michael, Franklin, Trevor, Lester, plus gunman, driver, and hacker.
+Objectives: Enter the depository, load the gold, escape Los Santos, deliver the
+gold to the buyer.
+Payout: Up to $1,200,000,000 total take — the biggest payout in the game.
+
+=== Choosing Heist Approaches ===
+Game: GTA 5
+Category: Game Mechanics
+Lester presents two approaches before each major heist. The loud approach is a
+direct fight with bigger risks and police response; the quiet approach requires
+extra equipment or preparation but avoids much of the combat. The chosen approach
+changes the objectives and sometimes the payout — the Smart approach of the Jewel
+Store Job pays slightly more and skips the wanted level entirely.
+
+=== Choosing Crew and Cuts ===
+Game: GTA 5
+Category: Game Mechanics
+Before each heist you pick gunman, drivers, and a hacker, and set each member's
+percentage cut. Skilled crew cost more but do their jobs better: better gunmen
+provide more covering fire, better drivers make faster getaways, and better hackers
+shorten hacking sequences and raise the take. Low-cost crew may take less money but
+perform worse, which can cost more in the long run. Lester always takes 5%.
+
+=== Heist Preparations ===
+Game: GTA 5
+Category: Game Mechanics
+Heists are unlocked by completing their preparation and setup missions, for example
+"Blitz Play" as a setup for the bigger scores. Some preparations require buying
+equipment — such as the Carbine Rifles for the Jewel Store Job's Smart approach —
+so check the mission briefing and shop at Ammu-Nation before starting. Heist
+preparation boards in Lester's garment factory planning room show the selected
+approach, crew, and cuts before you confirm the job.

@@ -1,0 +1,87 @@
+# GTA 5 — Vehicles
+
+Overview of notable vehicles in Grand Theft Auto V by category.
+
+=== Sports and Super Cars ===
+Game: GTA 5
+Category: Vehicles
+Infernus: A classic supercar with very high top speed, inspired by the Lamborghini Diablo.
+Zentorno: Mid-engine supercar with sharp styling and excellent acceleration, a fan favorite.
+Truffade Adder: Hypercar based on the Bugatti Veyron; one of the fastest cars in the game.
+Comet: Rear-engine sports car based on the Porsche 911.
+Elegy RH8: Free high-performance sports car available through the Legendary Motorsport
+website after linking a Rockstar account.
+
+=== Muscle Cars ===
+Game: GTA 5
+Category: Vehicles
+Dominator: Aggressive muscle car with strong acceleration but loose handling.
+Gauntlet: Classic American muscle car with balanced performance.
+Sabre Turbo: Vintage muscle car often used by gangs in South Los Santos.
+
+=== Motorcycles ===
+Game: GTA 5
+Category: Vehicles
+Bati 801: Fast sports bike, ideal for quick getaways and races.
+Sanchez: Off-road dirt bike used in countryside missions.
+Faggio: Slow but iconic scooter found all over Los Santos.
+Blazer: All-terrain quad bike; used in some Trevor's missions in Blaine County.
+
+=== Emergency and Utility ===
+Game: GTA 5
+Category: Vehicles
+Police Cruiser: Standard LSPD patrol car with decent speed.
+Police Riot Van: Armored van used during wanted levels.
+Fire Truck: Emergency vehicle with a water cannon.
+Ambulance: Heals the player when entering with low health after a job.
+
+=== Aircraft ===
+Game: GTA 5
+Category: Vehicles
+Buzzard Attack Chopper: Armed helicopter with homing missiles; purchase from
+Warstock Cache & Carry for about $1,750,000.
+Maverick: Civilian helicopter used for sightseeing and escaping.
+P-996 LAZER: Military fighter jet found at Fort Zancudo; highly wanted if stolen.
+Miljet: Large transport plane.
+Dodo: Seaplane that can land on water.
+
+=== Boats ===
+Game: GTA 5
+Category: Vehicles
+Dinghy: Small rubber boat used in coastal missions.
+Jetsam: Luxury yacht available for purchase through the Dynasty 8 website.
+Seashark: Fast jet ski found at beaches and marinas.
+
+=== Off-Road and SUVs ===
+Game: GTA 5
+Category: Vehicles
+Karin Kuruma (Armored): Armored sports sedan with bulletproof windows, highly
+recommended for drive-by missions and heist setups; bought from Southern San Andreas
+Super Autos.
+Granger: Full-size SUV frequently used by gangs and as an FIB vehicle.
+Baller: Luxury SUV based on the Range Rover.
+
+=== Finding, Buying, and Storing Vehicles ===
+Game: GTA 5
+Category: Game Mechanics
+How do I find or get a vehicle? Steal parked cars from the street, call the
+mechanic to deliver your personal vehicle, or buy cars from the in-game websites:
+Legendary Motorsport (sports and super cars), Southern San Andreas Super Autos
+(everyday cars), and Warstock Cache & Carry (military vehicles like the Buzzard).
+Unsold vehicles spawn in their natural areas — supercars around Rockford Hills,
+off-road trucks in Blaine County, aircraft at Los Santos International Airport and
+Sandy Shores Airfield. Store a car by driving it into a safehouse garage; it
+becomes a personal vehicle that insurance lets the mechanic replace if destroyed.
+Customize any car at Los Santos Customs with engine, brakes, turbo, armor, paint,
+and more.
+
+=== Vehicle Mechanics ===
+Game: GTA 5
+Category: Game Mechanics
+- Vehicles can be upgraded at Los Santos Customs with new engines, brakes, turbo,
+  transmission, armor, and paint jobs.
+- Every vehicle has visible damage states: the engine smokes and eventually fails if
+  it takes too much damage.
+- The player can call the mechanic to deliver a personal vehicle, and insurance makes
+  stolen personal cars replaceable after destruction.
+- Vehicles do not use fuel; they run indefinitely as long as the engine is not destroyed.

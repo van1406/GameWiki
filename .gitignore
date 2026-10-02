@@ -1,0 +1,33 @@
+# Environment (never commit secrets)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Vector store (rebuilt by python backend/ingest.py)
+vector_store/*
+!vector_store/.gitignore
+
+# Embedding model cache
+.model_cache/
+huggingface/
+*.faiss
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+groq api key.txt

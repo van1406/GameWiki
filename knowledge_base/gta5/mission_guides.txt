@@ -1,0 +1,140 @@
+# GTA 5 — Mission Walkthroughs
+
+Practical step-by-step answers for questions like "How do I complete this mission?",
+"How do I finish this mission?", "What are the objectives?", and "Where do I go?".
+
+=== Walkthrough: The Jewel Store Job ===
+Game: GTA 5
+Category: Mission Walkthrough
+Question this answers: How do I complete or finish the Jewel Store Job heist, and
+what are its objectives?
+Objectives in order:
+1. Get to the Vangelico jewelry store on Portola Drive, Rockford Hills with the crew.
+2. Deal with the guards and alarms using the approach you chose.
+3. Take all the jewels from the display cases.
+4. Escape — fight the police on the Loud approach, or walk out clean on the Smart
+   approach.
+5. Deliver the loot to the lockup to complete the mission.
+Where to go:
+- The store is in Rockford Hills; the planning room where the mission starts is
+  Lester's garment factory downtown; the mission ends at the crew lockup.
+How to finish it:
+- Loud: grenade through the skylight, grab the jewels, fight the LSPD outside, then
+  ride the bikes into the sewer tunnel and reach the lockup.
+- Smart: tranquilize the roof guards, drill through the roof, gas the civilians,
+  take the jewels quietly, and leave without a wanted level.
+Tips:
+- Buy the Carbine Rifles from Ammu-Nation before starting if you plan the Smart
+  approach, or the mission forces the Loud route.
+
+=== Walkthrough: The Merryweather Heist ===
+Game: GTA 5
+Category: Mission Walkthrough
+Question this answers: How do I complete the Merryweather Heist and what are the
+objectives?
+Objectives in order:
+1. Follow the Merryweather convoy across Blaine County without losing it.
+2. Track the package to the freighter at sea.
+3. Attack the ship using one of two approaches.
+4. Grab the package and escape back to shore.
+Where to go:
+- The convoy drives through Blaine County roads; the ship is off the coast in the
+  Pacific Ocean.
+How to finish it:
+- Assault approach: take a boat with the crew, clear the guards on the deck, take
+  the package, and sail back.
+- Submarine approach: pilot the submarine under the hull, plant the bomb, then
+  retrieve the package.
+Tips:
+- Keep your distance during the tail — too close or too far and the mission fails.
+
+=== Walkthrough: Blitz Play ===
+Game: GTA 5
+Category: Mission Walkthrough
+Question this answers: How do I complete Blitz Play and what are the objectives?
+Objectives in order:
+1. Get the tow truck with the crew.
+2. Find the armored Granger on the road and ram it off the road.
+3. Tow the vehicle back to the lockup.
+4. Repaint and repair it for later heist setups.
+Where to go:
+- The intercept happens on the Los Santos roads; the lockup is where the vehicle is
+  stored and rebuilt.
+How to finish it:
+- Hook the armored vehicle with the tow truck, drag it to the lockup, and finish the
+  repaint cutscene.
+Tips:
+- Ram the target into a wall or barrier so it stops quickly.
+
+=== Walkthrough: The Paleto Score ===
+Game: GTA 5
+Category: Mission Walkthrough
+Question this answers: How do I complete the Paleto Score heist and what are the
+objectives?
+Objectives in order:
+1. Drive the FIB-disguised armored truck to the Blaine County Savings Bank in
+   Paleto Bay.
+2. Open the vault and take the money.
+3. Fight through the police and military response on the main street after the
+   truck breaks down.
+4. Reach the railway and escape by train.
+Where to go:
+- Paleto Bay on the north coast; the bank sits on the main street, and the train
+  line runs behind the town.
+How to finish it:
+- Blast the vault, load the cash, survive the street battle with heavy weapons, and
+  board the train to escape.
+Tips:
+- Buy armor, snacks, and explosives first — this is one of the game's biggest
+  firefights.
+
+=== Walkthrough: The Big Score ===
+Game: GTA 5
+Category: Mission Walkthrough
+Question this answers: How do I complete the Big Score, the final GTA 5 heist, and
+what are the objectives?
+Objectives in order:
+1. Get into the Union Depository in downtown Los Santos.
+2. Reach the gold vault and load out the gold.
+3. Escape the city and deliver the gold to the buyer.
+Where to go:
+- The Union Depository is in downtown Los Santos; escapes run through the subway
+  tunnels (subtle) or across downtown to the helicopters (obvious).
+How to finish it:
+- Subtle: drill in with the garbage truck, walk out as armored guards, escape
+  through the tunnels.
+- Obvious: tow the vault door off with a cable, fight across downtown, and fly the
+  gold out.
+Tips:
+- Crew cuts matter most here — hire skilled gunman, driver, and hacker for the
+  biggest payout.
+
+=== Walkthrough: Prologue ===
+Game: GTA 5
+Category: Mission Walkthrough
+Question this answers: How do I complete the Prologue and what are the objectives?
+Objectives in order:
+- Rob the bank in Ludendorff and control the hostages.
+- Get the cash from the vault.
+- Fight the police to the snowmobiles.
+- Escape North Yankton.
+How to finish it:
+- Follow the crew through the bank, take the money, fight out to the snowmobiles,
+  and flee across the snow to the escape point — the mission ends with Michael being
+  shot by Dave Norton.
+Tips:
+- This is the tutorial mission: stay in cover and follow the prompts.
+
+=== Walkthrough: Ending Choices ===
+Game: GTA 5
+Category: Mission Walkthrough
+Question this answers: How do I finish the final mission of GTA 5 and what happens?
+How to finish it:
+- The canon route is Ending C (Deathwish): Lester helps plan one final job where
+  Franklin, Michael, and Trevor work together to eliminate Stretch, Steve Haines,
+  and Devin Weston, then meet at the Vinewood sign.
+Where to go:
+- Each protagonist goes after their own target across Los Santos and Blaine County.
+Tips:
+- Save your game before choosing — the other two endings permanently kill Michael or
+  Trevor.

@@ -1,0 +1,99 @@
+# Minecraft — Items
+
+Key items, blocks, and materials in Minecraft.
+
+=== Diamond ===
+Game: Minecraft
+Category: Item
+Type: Resource
+Diamonds are found only below Y level 16, most often between Y -58 and Y -53, and are
+mined with an iron pickaxe or better. They are used for diamond tools, armor, and a
+netherite upgrade ingredient via a smithing table.
+
+=== Netherite Ingot ===
+Game: Minecraft
+Category: Item
+Type: Resource
+Netherite is crafted by combining one netherite scrap with four gold ingots. Netherite
+scrap comes from smelting ancient debris, which spawns rarely in the Nether around
+Y 8 to Y 22. Netherite tools and armor are stronger than diamond and do not burn in lava.
+
+=== Ender Pearl ===
+Game: Minecraft
+Category: Item
+Type: Material
+Ender pearls drop from endermen. Throwing one teleports the player a short distance.
+Crafting four pearls with four blaze powder creates eyes of ender, which point to the
+Stronghold for the End portal.
+
+=== Blaze Rod ===
+Game: Minecraft
+Category: Item
+Type: Material
+Blaze rods drop from blazes in Nether fortresses. They are fuel for brewing stands and
+craft into blaze powder, needed for eyes of ender and to charge an end crystal.
+
+=== Golden Apple ===
+Game: Minecraft
+Category: Item
+Type: Food
+A golden apple is crafted with eight gold blocks around one apple, or found in chests.
+Eating it grants Absorption and Regeneration for a short time, useful in PvP and against
+the Wither.
+
+=== Shield ===
+Game: Minecraft
+Category: Item
+Type: Tool
+Crafted from six planks and one iron ingot. Holding right-click blocks incoming melee
+and arrow damage from the front. Banner patterns can be applied to customize shields
+in Bedrock Edition.
+
+=== Bow ===
+Game: Minecraft
+Category: Item
+Type: Weapon
+Crafted from three sticks and three string. Arrows are crafted from flint, a stick, and
+a feather. A bow can be enchanted with Power, Infinity, Flame, and Punch.
+
+=== Iron Pickaxe ===
+Game: Minecraft
+Category: Item
+Type: Tool
+Crafted from three iron ingots and two sticks. It is the minimum tier needed to mine
+diamond ore, and it mines most stone blocks quickly.
+
+=== Compass ===
+Game: Minecraft
+Category: Item
+Type: Navigation
+Crafted from four iron ingots and one redstone dust. It points to the world spawn
+point. A lodestone compass points to a lodestone instead when used on one.
+
+=== Map ===
+Game: Minecraft
+Category: Item
+Type: Navigation
+Crafted from one paper and four compasses. Maps record explored terrain; an empty map
+in hand creates a fresh map of the area. Cartography tables can lock and copy maps.
+
+=== Copper Ore and Blocks ===
+Game: Minecraft
+Category: Item
+Type: Resource
+Copper ore smelts into copper ingots, used for crafting lightning rods, copper blocks,
+and the spyglass. Copper exposed to air gradually oxidizes into a green patina, which
+can be waxed with honeycomb to stop the change.
+
+=== Totem of Undying ===
+Game: Minecraft
+Category: Item
+Type: Utility
+Dropped by evokers in woodland mansions and raids. Holding it in the off-hand prevents
+death once, restoring health and granting absorption at the cost of the totem.
+
+=== Item Stacking ===
+Game: Minecraft
+Category: Game Mechanics
+Most items stack to 64. Ender pearls, snowballs, eggs, and end crystals stack to 16.
+Tools, weapons, armor, and food with different damage values do not stack together.
