@@ -1,0 +1,131 @@
+# Minecraft — Farming
+
+Crops, animals, mob farms, and automation: how to feed yourself and fuel a
+trading hall from the very first day.
+
+=== Farming Mechanics ===
+Game: Minecraft
+Category: Farming
+How does farming work? Till dirt or grass blocks with a hoe to create farmland
+and keep it within four blocks of water so it stays hydrated (hydrated
+farmland is darker and grows crops faster). Crops need light to grow and
+cannot be planted on farmland that has trampled back to dirt — jumping or
+placing blocks on farmland reverts it. Bone meal fertilizes any crop
+instantly. Crops grow through several stages over time; harvesting breaks the
+top-growth crop and leaves seeds to replant. Animals can be farmed by penning
+two of the same species and feeding them their favorite food to breed them.
+
+=== Wheat ===
+Game: Minecraft
+Category: Farming
+How to obtain: Punch tall grass for seeds, till farmland, plant the seeds,
+and harvest the golden wheat when fully grown.
+Uses: Bread (three wheat in a row = one of the best early foods), cookies,
+cakes, and breeding food for cows and sheep.
+Practical tips: The first crop every player should plant — a 9x9 farm with a
+water source in the middle feeds you indefinitely. Wheat farms also supply
+your trading hall: farmers buy wheat for emeralds.
+
+=== Carrots and Potatoes ===
+Game: Minecraft
+Category: Farming
+How to obtain: Both are rare zombie drops early on and generate in village
+farm plots; carrots plant directly (no seed stage) and potatoes likewise.
+Uses: Carrots breed pigs, craft golden carrots (the longest night-vision and
+strong horse food), and are eaten raw; potatoes can be eaten raw or baked in
+a furnace for baked potatoes — one of the cheapest high-saturation foods.
+Practical tips: Plant a full row of each as soon as you find a village;
+they multiply quickly with bone meal and need no seed stage.
+
+=== Beetroot ===
+Game: Minecraft
+Category: Farming
+How to obtain: Beetroot seeds come from beetroot crops found in village farms
+and from shipwreck chests; plant seeds, harvest beetroot.
+Uses: Beetroot soup (a filling bowl meal), red dye, and beetroot seeds are
+chicken breeding food.
+Practical tips: A minor food crop, but farmers buy beetroot for emeralds and
+it stacks with your other village crop trades.
+
+=== Sugar Cane ===
+Game: Minecraft
+Category: Farming
+How to obtain: Plant sugar cane on sand, dirt, or grass directly next to water;
+it grows up to three blocks tall and can be planted on the block above water
+too.
+Uses: Sugar for speed potions and cookies, and paper — paper makes bookshelves
+(for your enchanting setup), maps, and fireworks rockets (elytra fuel).
+Practical tips: Plant long single rows along your pond's edge and harvest the
+bottom two blocks, leaving the base to regrow automatically.
+
+=== Bamboo ===
+Game: Minecraft
+Category: Farming
+How to obtain: Found growing in jungles (and from wandering trader or shipwreck
+chests); plant it on dirt, grass, sand, or moss and it spreads fast.
+Uses: Scaffolding for building, smelting fuel (inefficient but abundant), and
+decorative sticks; pandas eat it.
+Practical tips: Bamboo grows faster than any other plant — a small jungle
+patch becomes a renewable scaffolding and fuel farm with almost no effort.
+
+=== Animals and Breeding ===
+Game: Minecraft
+Category: Farming
+How do I farm animals? Pen two of the same animal, feed each its favorite
+food, and a baby spawns after a short delay with a small experience bonus:
+- Cows and sheep: wheat
+- Pigs: carrots, potatoes, or beetroots
+- Chickens: any seeds
+- Wolves: any meat
+- Cats: raw fish
+- Horses: golden apples or golden carrots
+Baby animals grow into adults in minutes and can be bred again after a short
+cooldown. Keep one male and female of each species in labeled pens and breed
+them on a schedule — cooked meat, leather, feathers, and wool then never run
+out.
+
+=== Mob Farms ===
+Game: Minecraft
+Category: Farming
+What is a mob farm? Any build that collects mob drops automatically. The
+simplest designs are:
+- Spawner farm: find a dungeon spawner (zombie or skeleton), clear a room
+  around it, funnel mobs into a water channel, and drop them to low health so
+  you can finish them for XP and loot.
+- Dark-room farm: an unlit platform high in the sky where mobs spawn, with
+  water streams pushing them to a central chute.
+- Enderman or other XP farms: built after the End for massive experience.
+Safety: Light up surrounding caves so spawns concentrate in your farm, use
+hoppers under collection points to fill chests, and stand within 16 blocks of
+the spawner to keep it active.
+
+=== Basic Automated Farms ===
+Game: Minecraft
+Category: Farming
+How do I automate a farm?
+- Collection: run water streams to a central point where a hopper feeds a
+  chest; hopper minecarts under a large field pick up items through blocks.
+- Harvesting: a dispenser with a water bucket flushes grown crops when
+  triggered; pistons can smash melons and pumpkins.
+- Detection: observers watch a fully grown crop and fire the harvest pulse.
+- Convenience: auto-smelters use a hopper to feed a furnace and another to
+  pull food out; fuel can be fed from above.
+Start simple — a water-flush wheat or carrot field with hopper collection
+already gives passive food, then add observers and redstone as your redstone
+supply grows.
+
+=== Practical Farming Tips ===
+Game: Minecraft
+Category: Farming
+- Water hydrates farmland up to four blocks in every direction — one water
+  block can cover a 9x9 plot.
+- Light farms with torches so crops grow at night and mobs cannot spawn in
+  your rows.
+- Fence animal pens so they cannot trample crops or escape; gates make
+  entrances.
+- Keep a composter next to the farm: excess crops become bone meal, which
+  grows the next batch instantly.
+- Farmers restock their trade twice a day — feed your trading-hall farmer and
+  harvest for a steady emerald income.
+- Never build farms directly under trees: leaf shadows and falling saplings
+  make a mess.

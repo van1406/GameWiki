@@ -56,6 +56,56 @@ Survival tips: Fight blazes on the bridge with cover from the pillars, block off
 wider corridors to limit wither skeleton rushes, and mark your way home with
 torches.
 
+=== Bastion Remnants ===
+Game: Minecraft
+Category: Dimension
+What it is: Massive blackstone fortresses inhabited by piglins and the far
+deadlier piglin brutes — the treasure vaults of the Nether.
+Where to find them: Bastions generate in most Nether biomes; their towering
+blackstone walls are visible from a distance across open caverns.
+Loot: Gold blocks, stacks of gold ingots, diamonds, iron, obsidian, and
+netherite upgrade smithing templates found in bastion chests.
+Survival tips: Wear gold armor so regular piglins stay neutral (brutes
+attack regardless), never mine gold or open chests in their sight, and
+approach from above with blocks ready. Bartering gold with piglins inside a
+safe room is the fastest way to stockpile ender pearls.
+
+=== Nether Resources and How to Get Them ===
+Game: Minecraft
+Category: Dimension
+What does the Nether give you, and how?
+- Blaze rods: kill blazes at fortress spawners (craft into blaze powder for
+  brewing fuel, eyes of ender, and strength potions).
+- Nether wart: harvest the gardens at the bases of fortress stairs.
+- Ancient debris: mine at y 8 to 22 with a diamond pickaxe, smelt into
+  netherite scrap.
+- Quartz and nether gold: mine the orange quartz and gold ore veins for
+  experience — quartz crafts comparators and observers, and gold feeds piglin
+  bartering.
+- Glowstone: break the glowing ceiling clusters (silk touch collects them
+  whole) for light and potion potency.
+- Soul sand and soul soil: from soul sand valleys — slows movement, grows
+  nether wart, and spawns the Wither with skulls.
+- Basalt and blackstone: from basalt deltas and basalt biomes — blast-proof
+  building blocks.
+Practical tip: Every Nether run should return with rods, wart, and a few
+pieces of ancient debris.
+
+=== End Cities and the Elytra ===
+Game: Minecraft
+Category: Dimension
+Where to find them: After the Ender Dragon falls, an end gateway portal
+opens on the island's edge — throw an ender pearl (or bridge) through it to
+reach the outer islands, then look for tall purpur towers on the horizon.
+What they contain: Shulker-guarded chests with enchanted diamond gear,
+iron, diamonds, emeralds, and experience; end ships moored beside the towers
+hold the elytra in an item frame.
+Why go: The elytra changes the game — pair it with firework rockets for
+unlimited flight, and collect shulker shells for portable shulker boxes.
+Survival tips: Bridge with a wall between islands so endermen cannot knock
+you off, carry slow falling for levitation safety, and fight shulkers from
+range behind cover.
+
 === The End Portal ===
 Game: Minecraft
 Category: Dimension

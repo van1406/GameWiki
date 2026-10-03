@@ -1,0 +1,108 @@
+# Forza Horizon 6 — Racing, Street Racing, Touge, Drag and Time Attack
+
+The event types you race in Forza Horizon 6: festival races, Street Races,
+Touge Battles, Drag Meets, Time Attack Circuits and Rivals.
+
+=== Racing ===
+Game: Forza Horizon 6
+Category: Events
+What racing events are there? Official events of the Horizon Festival
+include Road, Dirt and Cross Country Races, each with specialised car
+themes, plus Time Attack Circuits, Drag Meets, PR Stunts and Bonus Boards.
+Road races stay on paved circuits and sprints, Dirt races use gravel and
+trail routes, and Cross Country races cut through rough terrain across
+biomes. Every event publishes a car class restriction (D, C, B, A, S1, S2 or
+R), and your Wristband controls which invitations you receive. After you
+beat an event once, the Race Customizer lets you replay it with any car in
+your garage. Festival Playlist Championships add themed multi-race events
+such as "Retro Hot Hatch - C Class" or "Modern Supercars - S1 Class".
+
+=== Street Racing ===
+Game: Forza Horizon 6
+Category: Events
+How does street racing work? Street Races are documented events set on road
+routes with a street character — examples from the Festival Playlist include
+Nachi Run, River Descent, Daikoku Chase, Tokyo City Docks Charge, Kita Ine
+and Matsumi Climb. They run under car themes such as Modern Super Saloons,
+Retro Sports Cars and 1980s Retro Super Saloons with class restrictions
+(A Class, B Class, C Class in documented examples). Street racing is also
+part of how the game represents Japanese car culture — urban street racing
+and Daikoku car meets were called out by the developers as core to the
+setting. Fast cars with strong braking (see the street racing
+recommendations) suit the mix of speed and tight urban corners.
+
+=== Touge Battles ===
+Game: Forza Horizon 6
+Category: Events
+What are Touge Battles? Touge Battles are a new Forza Horizon 6 event type
+where you race down a Japanese hillside at night — mountain-pass racing
+inspired by Japan's touge culture and titles like Initial D. Touge races
+also feed your Discover Japan progression: completing Street and Touge
+Races earns Stamps in your Collection Journal, and Touge shows up in
+Festival Playlist Weekly Challenges too. In the multiplayer suite there is
+also Touge Showdown, a Horizon Play mode that runs two-player head-to-head
+championships of three races. Touge and mountain routes favour cars with
+exceptional handling and braking — the S15 Silvia WTAC is the documented
+standout, and routes like the Hokubu Time Circuit in the mountain valleys
+capture that same communal time-trial spirit.
+
+=== Drag Meets ===
+Game: Forza Horizon 6
+Category: Events
+How do I participate in Drag Meets? Drag Meets are open-world events in Forza
+Horizon 6 — you drive to a Drag Meet location and line up with other
+players. They hold up to twelve players, use a synchronized start tree, and
+feature in-game leaderboards. A documented Drag Meet is located at the
+Urakawa Space Center, and Drag Meets also appear in the Festival Playlist
+Horizon Life schedule (for example the Irokawa Quarter Mile with an S1 class
+target of 11.000 seconds, and the Ito Half Mile). Drag Meets are one of the
+festival's official activities, and short drag-style events also appear as
+race types and time trials. Bring a car with strong Launch and Acceleration
+— the documented drag specialists are the Nissan GT-R R35 Forza Edition and
+the Toyota Tacoma TRD Pro Forza Edition.
+
+=== Time Attack ===
+Game: Forza Horizon 6
+Category: Events
+How does Time Attack work? Time Attack circuits are open-world events where
+you compete to set the best time on a race circuit. Their leaderboards are
+filtered based on your class, and they are not permanent — they reset every
+season. Time Attack Circuits are also one of the official festival event
+types you use to earn Wristband progress. Documented examples include the
+Hokobu Time Circuit — a mountain-valley Time Attack mission the designers
+called a homage to real Japanese car culture, where the goal is simply to
+set your best time and challenge your friends — plus Soni Circuit and
+Sekibe Time Attack in the Festival Playlist, with class and time targets
+such as "Japan - A Class - 1:06.000". The Premium Edition also includes a
+Time Attack Car Pack.
+
+=== Rivals ===
+Game: Forza Horizon 6
+Category: Events
+How do Rivals events work? In Rivals you race against a ghost to beat its
+time — documented daily challenges ask you to "beat a Rivals Ghost" in
+specific conditions, such as in any Japanese car, or in a car from the
+1980s. Rivals is one of the ongoing activities called out as remaining
+content for players to dig into after reaching the Gold Wristband.
+
+=== PR Stunts ===
+Game: Forza Horizon 6
+Category: Events
+What PR stunts are in the game? Documented PR stunt types are Speed Traps,
+Speed Zones, Danger Signs, Trailblazers and Drift Zones, each with a class
+restriction and a star rating or score target — for example "Bamboo Hilltop
+Speed Trap, A Class, 110.0 mph", "Airfield Takeoff Danger Sign, 698.8 feet"
+and "Seaside Trail Drift Zone, 85,000 points". Earning 3 stars at
+Trailblazers and Danger Signs is a recurring festival challenge, and bonus
+boards (XP boards) are scattered around the world — one is hidden behind
+Nachi Falls.
+
+=== Showcases and Rush Events ===
+Game: Forza Horizon 6
+Category: Events
+What are the special events? Two special event types gate your Wristband
+progress: Showcase Events — the classic cinematic Horizon races, such as
+"Mech My Day" where an Acura NSX races the in-game mecha Chaser Zero — and
+Horizon Rush, new obstacle challenges designed to be played over and over
+where you show off your skills. Both must be completed to obtain your next
+Wristband.

@@ -1,0 +1,170 @@
+# Minecraft — Mining and Ores
+
+Every ore in Minecraft: where it generates, what tool it needs, what it is used
+for, and practical mining strategies.
+
+=== How Mining Works ===
+Game: Minecraft
+Category: Mining
+Mining breaks blocks to collect resources. Each block requires a pickaxe, and
+ores only drop items when mined with the right pickaxe tier — wooden for coal,
+stone for copper, iron, and lapis, iron or better for gold, redstone, diamond,
+and emerald, and diamond or better for ancient debris. Using a lower-tier or
+wrong tool breaks the block but drops nothing. Smelting ore blocks in a furnace
+(or a blast furnace for ores) turns them into ingots. Fortune increases drops
+and Silk Touch collects the ore block itself for later processing.
+
+=== Coal Ore ===
+Game: Minecraft
+Category: Mining
+What it is: The most common ore, found in stone and deepslate through the
+Overworld — on mountain faces, in cliff sides, and in caves at nearly every
+depth.
+Mining requirements: A wooden pickaxe or better.
+Uses: Smelted into coal for furnace fuel, crafted into torches (coal above a
+stick makes four torches), blocks of coal for storage, and crafting blocks of
+coal. Mining coal also grants experience points.
+Practical tips: Collect coal on your first mining trip — it fuels early smelting
+and lights your tunnels. Mine exposed coal in cave walls as you explore and
+keep a stack for torches.
+
+=== Iron Ore ===
+Game: Minecraft
+Category: Mining
+What it is: A widespread ore in stone and deepslate, common in caves, ore veins,
+mountains, and exposed cliff faces from the surface down through the stone
+layers. It also comes from iron golems, dungeon and shipwreck chests, and
+villager trades.
+Mining requirements: A stone pickaxe or better; smelt it in a furnace to get
+iron ingots (raw iron can also be smelted).
+Uses: The backbone of mid-game gear — iron tools, armor, shields, buckets,
+shears, anvils, hoppers, and minecarts.
+Practical tips: Iron is the most useful early ore; aim for a full set of iron
+tools and armor plus a bucket before hunting diamonds. Blast furnaces smelt ores
+twice as fast as regular furnaces.
+
+=== Copper Ore ===
+Game: Minecraft
+Category: Mining
+What it is: An orange ore found in the upper layers of the world, most
+commonly around y 48, and frequently exposed on mountain sides and in caves.
+Mining requirements: A stone pickaxe or better.
+Uses: Smelted into copper ingots for copper blocks, lightning rods, the
+spyglass, and copper bulbs. Copper slowly oxidizes and turns green over time;
+scraping it with an axe or waxing it with honeycomb controls the change.
+Practical tips: Copper is decorative rather than critical — collect it while
+mining other ores, and use lightning rods in thunderstorm-heavy builds.
+
+=== Gold Ore ===
+Game: Minecraft
+Category: Mining
+What it is: A deep ore that generates below y 32 in the Overworld, most
+commonly near bedrock, plus nether gold ore scattered through the Nether and
+extra gold in badlands.
+Mining requirements: An iron pickaxe or better; smelt into gold ingots.
+Uses: Golden apples, powered rails, clocks, gold tools (fast but fragile),
+trading with piglins, and wearing gold armor so piglins stay neutral in the
+Nether.
+Practical tips: Mine deepslate gold on the way to diamonds, and never visit
+the Nether without a couple of gold pieces equipped.
+
+=== Redstone Ore ===
+Game: Minecraft
+Category: Mining
+What it is: A glowing red ore found deep underground below y 16, most common
+near the bottom of the world around y -59 to y -54.
+Mining requirements: An iron pickaxe or better; drops redstone dust and
+experience.
+Uses: Redstone dust, repeaters, comparators, pistons, observers, dispensers,
+droppers, note blocks, and redstone torches — the entire automation system.
+Practical tips: Combine a redstone trip with a diamond trip: both are most
+abundant near bedrock. Fortune does not increase redstone drops, so mine it
+directly.
+
+=== Lapis Lazuli Ore ===
+Game: Minecraft
+Category: Mining
+What it is: A deep blue ore that generates mostly between y -64 and y 64 and
+peaks around y 0.
+Mining requirements: A stone pickaxe or better.
+Uses: Enchanting at an enchanting table consumes lapis lazuli, and lapis is
+also used for blue dye and in certain decorative blocks.
+Practical tips: Grab a few stacks before your first enchanting session — every
+enchant spends lapis — and remember Fortune works on lapis ore.
+
+=== Diamond Ore ===
+Game: Minecraft
+Category: Mining
+What it is: The most sought-after ore, found only below y level 16, most
+commonly between y -58 and y -53, just above the bedrock layer.
+Mining requirements: An iron pickaxe or better — diamond ore mined with a
+wooden or stone pickaxe drops nothing.
+Uses: Diamond tools, armor, an enchanting table, a jukebox, and a smithing
+table ingredient for netherite upgrades.
+How to find: Dig a main tunnel down to about y -59, then carve short side
+branches every few blocks (branch mining). Bring torches, food, and a water
+bucket for lava.
+Practical tips: Enchant with Fortune III to multiply drops and with Silk Touch
+to bank ore blocks for later. Watch for lava pockets near bedrock — swim up
+against the flow rather than through it.
+
+=== Emerald Ore ===
+Game: Minecraft
+Category: Mining
+What it is: The only ore that generates exclusively in mountain biomes
+(meadows, groves, snowy slopes, and jagged peaks), scattered in small veins.
+Mining requirements: An iron pickaxe or better.
+Uses: Emeralds are the universal currency for villager trading — every
+villager trade uses emeralds.
+Practical tips: You rarely need to mine emeralds: farmers and other villagers
+buy and sell them. Mine mountain veins only when you need a quick stack before
+a trading session.
+
+=== Ancient Debris and Netherite ===
+Game: Minecraft
+Category: Mining
+What it is: A blast-resistant ore found only in the Nether around y 8 to y 22,
+in small veins of one to three blocks, usually hidden inside Nether terrain.
+Mining requirements: A diamond or netherite pickaxe — anything less breaks the
+block without dropping it. Ancient debris is immune to ghast fireballs and
+bed explosions.
+How to obtain Netherite: Mine ancient debris, smelt it into netherite scrap in
+a furnace, then craft one netherite ingot from four netherite scrap and four
+gold ingots. Upgrade diamond gear to netherite at a smithing table — modern
+versions require a netherite upgrade smithing template, which can be found in
+bastion remnant chests.
+Practical tips: Strip-mine at y 15 in the Nether with a diamond pickaxe and
+fire resistance on; TNT or beds clear surrounding blocks quickly because
+ancient debris never explodes. Netherite gear is stronger than diamond,
+repairs with netherite ingots, and does not burn in lava or fire.
+
+=== Tool Tiers and Mining Requirements ===
+Game: Minecraft
+Category: Mining
+Pickaxe tiers from weakest to strongest: wooden, stone, iron, golden, diamond,
+netherite.
+- Wooden pickaxe: mines coal and basic stone.
+- Stone pickaxe: adds copper, iron, and lapis ore.
+- Iron pickaxe: adds gold, redstone, diamond, and emerald ore.
+- Diamond and netherite pickaxes: mine everything, including obsidian and
+  ancient debris.
+Golden pickaxes mine very fast but break quickly and count as wooden tier for
+drop requirements. Axes, shovels, and hoes are for their own block types —
+using the right tool is always faster and drops more.
+
+=== Practical Mining Tips ===
+Game: Minecraft
+Category: Mining
+How do I mine safely and efficiently?
+- Never dig straight down: you can fall into lava or a deep cave. Dig a
+  staircase or use the "dig two columns and check the block beside you" method.
+- Always carry a water bucket: it puts out fire, breaks long falls, and turns
+  lava into obsidian or cobblestone.
+- Light tunnels as you go so mobs cannot spawn behind you.
+- Bring food, a shield, and a stack of cobblestone to bridge over gaps.
+- Mark your branch-mine tunnels with torches on one consistent side so you can
+  find the way out.
+- Smelt in a blast furnace for ores and cook food in a regular furnace; a
+  hopper feeding a furnace creates a semi-automatic smelter.
+- Enchant with Fortune III before a big ore run and keep Unbreaking III gear
+  for long mining trips.

@@ -188,6 +188,204 @@ whenever it perches on the portal, and retreat between its charges.
 Useful tips: Bring a bow with plenty of arrows, blocks to pillar up with, water
 buckets to clear dragon breath, and food — the fight is a marathon, not a sprint.
 
+=== Drowned ===
+Game: Minecraft
+Category: Mob
+What it is: A hostile undead zombie that spawns underwater.
+Where it spawns: In oceans, rivers, and flooded caves at night; they also
+rise from water on land at night. Some drowned spawn already holding a
+trident.
+Behavior: Walks slowly on land but swims quickly toward you in water; a
+trident-carrying drowned throws its trident from range.
+Drops: Rotten flesh, sometimes copper ingots, and nautilus shells; a drowned
+that drops its trident gives you one of the rarest weapons in the game.
+How to fight it: Fight them on land where you have the advantage, block
+trident throws with a shield, and finish them with a sword.
+Useful tips: Keep your harbor and canal walls tall — drowned climb out of
+the water near your base. Water breathing potions make ocean fights fair.
+
+=== Witch ===
+Game: Minecraft
+Category: Mob
+What it is: A hostile potion-throwing mob with 26 health points (13 hearts).
+Where it spawns: In dark areas at night like other monsters, and naturally in
+swamp huts.
+Behavior: Drinks potions to heal itself or gain fire resistance, then throws
+splash potions of harming, poison, and slowness at the player from range.
+Drops: Glass bottles, sugar, redstone, glowstone dust, sticks, spider eyes,
+and gunpowder — a mini brewing-kit loot table.
+How to fight it: Rush it with a sword before it can drink, or use a bow;
+strafing makes its splash potions miss. Kill it quickly — poison witches are
+the dangerous ones.
+Useful tips: Swamp huts are free witch loot; witches also drop brewing
+ingredients, so their drops stock your potion chest.
+
+=== Phantom ===
+Game: Minecraft
+Category: Mob
+What it is: A hostile flying undead mob that burns away at sunrise.
+Where it spawns: In the sky at night when a player has not slept for three
+or more in-game days (the insomnia mechanic).
+Behavior: Circles above the player, then swoops down in dive attacks,
+screeching as it lines up each pass.
+Drops: Phantom membrane — used to repair elytra and to brew potions of slow
+falling.
+How to fight it: Hit it as it dives past (a sword swing mid-air works), or
+use a bow; it cannot attack while circling.
+Useful tips: Sleep in a bed every night and phantoms never spawn. If you
+need membranes, stay awake deliberately and fight them above a lit roof.
+
+=== Ghast ===
+Game: Minecraft
+Category: Mob
+What it is: A giant floating hostile mob of the Nether with 10 health points
+(5 hearts) but devastating fireball attacks.
+Where it spawns: In the open caverns of the Nether, especially over lava
+seas.
+Behavior: Drifts aimlessly, screams, and fires explosive fireballs at the
+player when it has a line of sight.
+Drops: Ghast tears (used for regeneration potions and end crystals) and
+gunpowder.
+How to fight it: Deflect its fireball back with a well-timed sword swing,
+or shoot it with a bow between volleys; fire resistance removes the risk of
+its attacks entirely.
+Useful tips: Build your Nether portal with a roof and keep blocks around it —
+a ghast can destroy unprotected builds and fireballs knock you into lava.
+
+=== Zombified Piglin ===
+Game: Minecraft
+Category: Mob
+What it is: A neutral undead Nether mob (the zombified form of the piglin).
+Where it spawns: Throughout the Nether wastes and near nether gold ore, in
+groups of up to several at a time.
+Behavior: Neutral until one is attacked — then every zombified piglin in
+range swarms the attacker, and they do not burn in sunlight (they are
+Nether-native).
+Drops: Rotten flesh and gold nuggets, with a rare chance of a gold ingot.
+How to fight it: Attack from cover and keep backing away — they have no
+ranged attacks and pile up quickly in the open.
+Useful tips: They are a great gold-nugget farm if you have a safe enclosed
+arena; lava or fall traps handle packs that follow you through a portal.
+
+=== Piglin ===
+Game: Minecraft
+Category: Mob
+What it is: A neutral (unless provoked) humanoid Nether mob that loves gold.
+Where it spawns: In nether wastes and bastion remnants, usually in groups.
+Behavior: Attacks anyone who is not wearing at least one piece of gold
+armor; piglins get angry if you mine gold in front of them or open their
+chests. Throw a gold ingot at one and it barters: it examines the ingot and
+tosses back a random item (ender pearls, obsidian, string, arrows, and
+more).
+Drops: Rotten flesh when killed.
+How to fight it: Wear gold armor to stay peaceful, or fight with a sword —
+they come in packs, so keep moving.
+Useful tips: Bartering is the only renewable source of some Nether items;
+barter with a stack of gold ingots in a safe room for ender pearls before the
+End.
+
+=== Hoglin ===
+Game: Minecraft
+Category: Mob
+What it is: A large hostile boar-like beast of the Nether.
+Where it spawns: Crimson forests in small groups.
+Behavior: Charges and flings the player with its tusks; it flees briefly after
+taking damage and is repelled by crimson fungi and warped fungus.
+Drops: Raw porkchops and leather — real food and crafting material from the
+Nether.
+How to fight it: Hit and back away while it reels from damage; warped fungus
+placed around your build keeps them out.
+Useful tips: A crimson forest hoglin pen is a renewable food source in the
+Nether — funnel them into a pen with warped trapdoors they will not cross.
+
+=== Wither Skeleton ===
+Game: Minecraft
+Category: Mob
+What it is: A tall, black undead skeleton that attacks with a stone sword and
+the Wither effect.
+Where it spawns: In Nether fortresses, on the dark nether-brick corridors and
+bridges.
+Behavior: Sneaks toward the player and strikes in melee; a successful hit
+applies Wither, which turns your hearts black and drains health over time.
+Drops: Coal, bones, and rarely a wither skeleton skull — three skulls plus
+soul sand summon the Wither boss.
+How to fight it: Fight on open ground where you can circle, use a sword with
+Knockback to keep it at range, and drink milk or regeneration potions to
+clear the Wither effect.
+Useful tips: Block fortress corridors to one-block gaps so only one skeleton
+faces you at a time; skulls are the long-term goal of every fortress run.
+
+=== Guardian ===
+Game: Minecraft
+Category: Mob
+What it is: A hostile fish-like monument guard with spines and a laser
+attack.
+Where it spawns: In and around ocean monuments.
+Behavior: Sits at range, charges a bright laser beam, then fires it — the
+beam grows stronger the longer it is locked on. Its spines damage anything
+that melee-hits it, and it flops toward players who get close on land.
+Drops: Prismarine shards, prismarine crystals, and raw cod.
+How to fight it: Close the distance and strike between beam charges; a bow
+works from cover as well. Its spines punish careless contact, so time your
+hits instead of spamming.
+Useful tips: Water breathing potions and doors or soul sand for air pockets
+make monument raids possible; kill the elder guardians first so Mining
+Fatigue stops slowing every block you break.
+
+=== Elder Guardian ===
+Game: Minecraft
+Category: Mob
+What it is: The rare, larger guardian that guards ocean monuments — exactly
+three live in each monument.
+Where it spawns: Inside ocean monuments, one in each wing plus the central
+treasure area.
+Behavior: Fires the same charging laser as a guardian and periodically
+sends Mining Fatigue to every nearby player, slowing block breaking to a
+crawl so you cannot tear into the monument.
+Drops: Prismarine crystals and a wet sponge.
+How to fight it: Bring a solid sword, clear the small guardians first for
+room, then corner each elder against a wall and burst it down before the
+next Mining Fatigue wave.
+Useful tips: Sponges dry out wet rooms and are the trophy of a monument
+raid; kill the three elders before mining anything valuable.
+
+=== Shulker ===
+Game: Minecraft
+Category: Mob
+What it is: A stationary box-like mob native to End cities that fires
+homing bullets.
+Where it spawns: Clinging to the floors, walls, and ceilings of End cities
+and their ships, often in pairs.
+Behavior: Stands still until attacked; opens its shell and shoots a guiding
+shulker bullet that curves after the player and inflicts Levitation on hit —
+floating up uncontrolled into a ceiling is the real danger.
+Drops: Shulker shells, used to craft shulker boxes (portable storage that
+keeps its contents when moved).
+How to fight it: Shoot it from range, or duck behind walls so the homing
+bullet crashes into the terrain; never fight one directly under a low
+ceiling.
+Useful tips: Wear a Slow Falling potion or keep an elytra ready so levitation
+never drops you to death; collect several shells for a shulker box set.
+
+=== Warden ===
+Game: Minecraft
+Category: Mob
+What it is: A blind, extremely tanky deep-dark guardian that hunts by
+vibration — the most dangerous mob in the game.
+Where it spawns: In ancient cities deep underground, summoned when players
+trigger sculk shriekers.
+Behavior: Blind but hypersensitive to sound: footsteps, blocks breaking, and
+projectiles all give away your position. It attacks with melee in close
+range and with a sonic boom that ignores armor entirely.
+Drops: Nothing — the Warden is designed to be avoided, not farmed.
+How to fight it: You should not fight it. Sneak everywhere in the deep dark,
+walk on wool to muffle vibrations, and avoid breaking blocks. If it
+emerges, run toward open tunnels; it can dig after you and kills in one or
+two hits.
+Useful tips: The sculk sensors around it trigger shriekers — destroy
+shriekers before they can summon a second one, and loot ancient cities only
+while crouched.
+
 === Mob Spawning Mechanics ===
 Game: Minecraft
 Category: Game Mechanics

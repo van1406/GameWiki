@@ -50,7 +50,7 @@ export default function Message({ msg }) {
         )}
         {notFound && (
           <p className="mt-2 text-[11px] text-amber-200/70">
-            No sufficiently relevant information was retrieved, so nothing was invented.
+            No matching information was found in the knowledge base, so nothing was invented.
           </p>
         )}
 
@@ -82,14 +82,6 @@ export default function Message({ msg }) {
                 </div>
               ))}
             </div>
-          </div>
-        )}
-
-        {/* Retrieval meta */}
-        {msg.found !== false && typeof msg.chunks === 'number' && (
-          <div className="mt-3 text-[10px] uppercase tracking-wider text-slate-600">
-            Retrieved {msg.chunks} chunk{msg.chunks === 1 ? '' : 's'}
-            {typeof msg.score === 'number' ? ` · best match ${msg.score.toFixed(2)}` : ''}
           </div>
         )}
       </div>

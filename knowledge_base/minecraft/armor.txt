@@ -1,0 +1,136 @@
+# Minecraft — Armor
+
+Armor materials, progression, protection values, durability, and how to obtain
+and upgrade every armor set.
+
+=== Armor Pieces ===
+Game: Minecraft
+Category: Armor
+Four armor pieces cover the body: helmet (head), chestplate (torso), leggings
+(legs), and boots (feet). Each piece is crafted from its material in a
+crafting table using the same pattern for every tier — helmet: 5 material in a
+U, chestplate: 8 (all but the top-center), leggings: 7, boots: 4. Equip armor
+from the inventory or press the armor-slot shortcut to put a full set on.
+
+=== Leather Armor ===
+Game: Minecraft
+Category: Armor
+Materials: Leather — 7 pieces craft a full set (helmet 5, chestplate 8,
+leggings 7, boots 4 per piece pattern).
+How to obtain: Crafted from leather dropped by cows, horses, and llamas; also
+found in pillager outposts and fishing loot.
+Protection: The weakest armor — a full set blocks around 28% of damage.
+Special use: Leather armor can be dyed any color in a crafting grid or cauldron.
+Tips: Only worth crafting on day one before any iron is found.
+
+=== Chainmail Armor ===
+Game: Minecraft
+Category: Armor
+What it is: A mid-tier armor set that cannot be crafted — chainmail exists
+only as loot.
+How to obtain: Rare drops from zombies and skeletons, chest loot, and armorer
+villager trades.
+Protection: Better than leather but weaker than iron.
+Durability and repair: It cannot be repaired with a material (there is no
+chainmail crafting material), so combine two identical pieces on an anvil or
+use Mending to keep it going.
+Tips: Treat chainmail as a bonus — wear it until your first full iron set is
+ready, then replace it.
+
+=== Iron Armor ===
+Game: Minecraft
+Category: Armor
+Materials: 24 iron ingots for a full set (helmet 5, chestplate 8, leggings 7,
+boots 4 ingots per piece).
+How to obtain: Smelt iron ore (or raw iron) and craft each piece.
+Protection: A full set gives 15 armor points — 60% damage reduction.
+Tips: Iron armor is the workhorse set: cheap, repairable, and good enough for
+the Nether with fire resistance. Get a full set plus a shield before mining
+diamonds.
+
+=== Gold Armor ===
+Game: Minecraft
+Category: Armor
+Materials: Gold ingots, same patterns as other tiers.
+How to obtain: Crafted from gold ingots, found in chests, or traded from
+armorer villagers.
+Protection: Weak and very low durability — the worst combat armor.
+Special use: Wearing any gold armor piece makes piglins and brutes neutral
+toward you in the Nether, which is its main purpose.
+Tips: Carry one gold piece (boots or a helmet) for Nether trips and wear your
+real armor around it.
+
+=== Diamond Armor ===
+Game: Minecraft
+Category: Armor
+Materials: 24 diamonds for a full set.
+How to obtain: Find diamonds below y 16, then craft each piece in a crafting
+table.
+Protection: A full set gives 20 armor points — 80% damage reduction — plus
+armor toughness that helps against strong hits.
+Tips: Enchant the set with Protection, Unbreaking, and Mending before wearing
+it into the End. Diamond is the standard endgame-quality gear.
+
+=== Netherite Armor ===
+Game: Minecraft
+Category: Armor
+How to obtain: Upgrade each diamond armor piece at a smithing table with one
+netherite ingot (four netherite scrap + four gold ingots); modern versions
+also need a netherite upgrade smithing template found in bastion remnant
+chests.
+Protection: Same 20 armor points as diamond but with higher armor toughness,
+more durability, and knockback resistance; netherite armor does not burn in
+fire or lava.
+Tips: Upgrade chestplate and leggings first for the toughness bonus, and keep
+the diamond set enchanted — enchantments carry over through the upgrade.
+
+=== Armor Progression ===
+Game: Minecraft
+Category: Armor
+What is the armor progression?
+1. Leather (or chainmail loot) on day one.
+2. Full iron as soon as you smelt iron — the practical mid-game set.
+3. Diamond once you return from your first deep mine.
+4. Netherite after visiting the Nether and mining ancient debris.
+Each step raises armor points and toughness. Boots are usually upgraded last;
+the chestplate gives the most overall value.
+
+=== Protection and Armor Toughness ===
+Game: Minecraft
+Category: Armor
+How does protection work? Each armor point blocks 4% of incoming damage, so
+20 points (full diamond or netherite) blocks 80%. Armor toughness (on diamond
+and netherite) reduces damage from strong hits such as creeper explosions and
+fall damage.
+Enchantments stack with armor: Protection reduces all damage types, while
+Fire, Blast, and Projectile Protection specialize against fire/explosions,
+creepers and TNT, and arrows. Feather Falling on boots reduces fall damage,
+and Thorns reflects a little damage back to attackers.
+Tips: A full Protection IV set is the single biggest survivability upgrade in
+the game; combine special protections only when you face a known threat such
+as the Wither or a ghast-heavy Nether run.
+
+=== Durability and Repair ===
+Game: Minecraft
+Category: Armor
+Durability from lowest to highest: leather, gold, chainmail, iron, diamond,
+netherite. Armor takes damage when you take damage.
+How to repair: On an anvil, combine the damaged piece with its material or an
+identical piece; enchanted gear keeps its enchantments. Mending repairs armor
+automatically from experience orbs, and Unbreaking slows wear.
+Tips: Keep a spare iron set in a chest for Nether trips where lava can end a
+run, and put Mending on your best set once you reach villager trading.
+
+=== Getting and Upgrading Armor ===
+Game: Minecraft
+Category: Armor
+How do I get better armor quickly?
+1. Punch cows for leather or loot chainmail from mobs while gathering wood.
+2. Mine iron as soon as you have a stone pickaxe and craft a full iron set.
+3. Bring an iron pickaxe, food, and a water bucket down to y -59 branch mines
+   for diamonds.
+4. Craft the diamond set and enchant it at level 30 with a full bookshelf
+   setup.
+5. In the Nether, mine ancient debris at y 8 to y 22 and upgrade diamond
+   pieces to netherite at a smithing table.
+6. Repair everything with Mending and Unbreaking so one set lasts forever.

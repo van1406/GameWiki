@@ -1,0 +1,144 @@
+# Minecraft — Redstone
+
+Redstone from the first lever to working machines: components, mechanics, and
+practical builds you can copy.
+
+=== Redstone Basics ===
+Game: Minecraft
+Category: Redstone
+How does redstone work? Redstone dust carries a power signal up to 15 blocks
+from a power source such as a lever, button, redstone torch, or pressure
+plate. A signal loses one strength per block of dust, so it dies after 15;
+repeaters refresh it back to full. Powered dust glows bright red; unpowered
+dust is dark. Redstone components only work when they receive power: pistons
+extend, lamps light, dispensers fire, and doors open.
+
+=== Redstone Dust ===
+Game: Minecraft
+Category: Redstone
+What it is: The wire of Minecraft — crafted from four redstone dust drops
+(mine redstone ore with an iron pickaxe below y 16).
+How to use: Place it on top of solid, transparent-ok blocks to connect
+components; it climbs one block at a time like a staircase and cannot climb a
+full wall. Dust powers the block it sits on and the component next to it.
+Tips: Silk Touch mines redstone ore for placement elsewhere; a single redstone
+line between a lever and a door is the simplest circuit in the game.
+
+=== Levers and Buttons ===
+Game: Minecraft
+Category: Redstone
+- Lever: a permanent on/off toggle — flip it to power the line until flipped
+  back. Best for doors, lamps, and pistons you want to hold a state.
+- Buttons: a short pulse that turns off by itself (stone and wooden buttons
+  differ slightly in length; wooden buttons can be triggered by arrows).
+- Pressure plates: wooden plates trigger under items and mobs; stone plates
+  only under players and living mobs — perfect for secret doors and traps.
+Tips: Levers remember state, buttons do not — use a lever for machines you
+toggle and buttons for gates you pass through.
+
+=== Pistons and Sticky Pistons ===
+Game: Minecraft
+Category: Redstone
+Materials: Piston = 3 planks + 4 cobblestone + 1 iron ingot + 1 redstone
+dust; sticky piston = piston + 1 slimeball.
+How they work: A powered piston pushes up to 12 blocks (and entities) one
+block forward. Sticky pistons push and then pull the block back when power
+releases.
+Tips: Slimeballs come from slimes (swamps and deep slime chunks), so start a
+slime farm if you build redstone heavily. Use pistons for hidden doors and
+automatic harvesting — but pistons cannot move chests, furnaces, or other
+container blocks.
+
+=== Observers ===
+Game: Minecraft
+Category: Redstone
+What it does: An observer watches the block it faces and emits a short
+redstone pulse whenever that block changes — crops growing, a door opening,
+a furnace finishing, or any block update.
+How to craft: Built from cobblestone, redstone dust, and nether quartz in a
+crafting table (the recipe book shows the exact pattern with the 'face'
+on the output side).
+Tips: Observers are the heart of automatic farms: one watches the crop, the
+pulse fires a dispenser of water or a piston, and the harvest flushes into
+your hoppers.
+
+=== Redstone Repeaters ===
+Game: Minecraft
+Category: Redstone
+How they work: A repeater takes a weak signal and outputs full strength —
+extending a line another 15 blocks — and adds a delay of one to four redstone
+ticks that you set by clicking it. Repeaters are directional: they only
+forward a signal one way, which also makes them useful as diodes and as
+long-delay timing elements.
+Recipe: Stone, redstone torches, and redstone dust in a crafting table.
+Tips: Space repeaters every 15 blocks for long wires, chain them for precise
+timing in doors and item sorters, and remember a repeater powers the block in
+front of it.
+
+=== Redstone Torches ===
+Game: Minecraft
+Category: Redstone
+How it works: A redstone torch powers a line by default and turns OFF when
+the block it is attached to receives power — this inversion makes it a NOT
+gate, the basis of logic circuits. Torch towers carry signals vertically
+upward (each torch powers the block above, which inverts the next torch).
+Tips: Torches also burn out if toggled too fast, which is the classic
+'stuck-on' bug in unstable clocks.
+
+=== Comparators ===
+Game: Minecraft
+Category: Redstone
+What it does: A comparator reads the contents of a container (a chest, hopper,
+furnace, brewing stand, or shulker box) and outputs a redstone signal
+proportional to how full it is — the fuller the container, the stronger the
+signal. In compare mode it passes a signal only if it is stronger than the
+side input; flip it to subtract mode to subtract the side signal.
+Recipe: Nether quartz, stone, and three redstone torches.
+Tips: Comparators are how automatic sorters and full-container alarms work:
+a hopper behind a comparator with a redstone lock turns any chest into a
+filtered storage system.
+
+=== Hoppers ===
+Game: Minecraft
+Category: Redstone
+Materials: 5 iron ingots + 1 chest.
+Recipe: Five iron ingots in a V shape with the chest in the bottom-center
+slot.
+How they work: A hopper pulls items from a container above it and pushes
+items into the container it points at (its spout aims down by default —
+rotate it with sneak-click against the target). Hoppers move one item at a
+time every short interval and lock when powered by redstone.
+Tips: Hoppers under farms collect drops automatically; a hopper feeding a
+furnace and another pulling the output makes an automatic smelter.
+
+=== Basic Redstone Machines ===
+Game: Minecraft
+Category: Redstone
+What are good first redstone builds?
+- Automatic door: two sticky pistons on each side of a hallway wired to
+  pressure plates — step on the plate and the blocks retract.
+- Lever-controlled lighting: a lever through a wall to a redstone lamp
+  circuit lights a room without torches.
+- Automatic farm harvest: observer watches a crop, pulses a dispenser with a
+  water bucket, and water flushes everything into a hopper chest.
+- Auto-smelter: chests on top of and beside furnaces with hoppers feeding
+  fuel and ore in and pulling items out.
+- Simple item sorter: a hopper locked by a comparator lets only matching
+  items pass into its chest — the base of any storage room.
+- Redstone clock: two repeaters in a loop with a torch create a repeating
+  pulse that drives flashing lights or farm timers.
+
+=== Practical Redstone Tips ===
+Game: Minecraft
+Category: Redstone
+- Plan on a grid: redstone dust on the floor is easy to misread — mark lines
+  with wool under them.
+- Repeaters refresh signals and add delay; comparators measure containers;
+  torches invert — those three components solve most problems.
+- Power the block a component sits on (a lever on the wall powers the block
+  behind the dust below it).
+- Isolate circuits: a line crossing another carries power into it — route
+  with slabs or step overs.
+- Test small: build one cell of a machine first, then tile it.
+- Bring glowstone or redstone lamps so you can see signal strength while
+  testing — powered dust glows visibly.

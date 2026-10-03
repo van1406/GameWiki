@@ -1,13 +1,15 @@
 import { useEffect, useRef, useState } from 'react'
 import { askQuestion, getGames, getHealth } from './api.js'
 import { examplesFor } from './data/examples.js'
+import { appendMessage, clearGame, messagesFor } from './chatState.js'
 import Message from './components/Message.jsx'
 
 export default function App() {
   const [games, setGames] = useState([])
   const [game, setGame] = useState('')
   const [question, setQuestion] = useState('')
-  const [messages, setMessages] = useState([])
+  // One independent conversation per game: { gta5: [...], minecraft: [...] }
+  const [chatHistory, setChatHistory] = useState({})
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
   const [bootError, setBootError] = useState('')
@@ -16,21 +18,61 @@ export default function App() {
   const idRef = useRef(0)
   const bottomRef = useRef(null)
 
-  // Load available games + service status once on mount.
+  // Load available games + service status on mount.
+  //
+  // The backend can still be starting (or restarting) when the page opens. A
+  // single failed fetch used to latch the UI into "Index missing" /
+  // "No games available" until the user reloaded by hand, so a failure is now
+  // retried with a backoff and the error clears as soon as a retry succeeds.
   useEffect(() => {
-    getGames()
-      .then((list) => {
+    let cancelled = false
+    let attempt = 0
+    let timer = null
+
+    async function loadBootData() {
+      let ready = true
+
+      try {
+        const list = await getGames()
+        if (cancelled) return
         setGames(list)
-        if (list.length > 0) setGame(list[0].id)
-        else setBootError('No games found in knowledge_base/. Add game folders and run ingestion.')
-      })
-      .catch((e) => setBootError(e.message))
-    getHealth()
-      .then(setHealth)
-      .catch(() => {})
+        if (list.length > 0) {
+          setGame((current) => current || list[0].id)
+          setBootError('')
+        } else {
+          setBootError('No games found in knowledge_base/. Add game folders and run ingestion.')
+        }
+      } catch (e) {
+        if (cancelled) return
+        setBootError(e.message) // visible right away; cleared by a successful retry
+        ready = false
+      }
+
+      try {
+        const status = await getHealth()
+        if (!cancelled) setHealth(status)
+      } catch {
+        ready = false
+      }
+
+      if (!ready && !cancelled) {
+        attempt += 1
+        timer = setTimeout(loadBootData, Math.min(750 * 2 ** (attempt - 1), 5000))
+      }
+    }
+
+    loadBootData()
+    return () => {
+      cancelled = true
+      clearTimeout(timer)
+    }
   }, [])
 
-  // Keep the newest message in view.
+  // Only the selected game's conversation is ever rendered — switching games
+  // shows that game's own history (or an empty chat the first time).
+  const messages = messagesFor(chatHistory, game)
+
+  // Keep the newest message of the selected game in view.
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth', block: 'end' })
   }, [messages, loading])
@@ -49,25 +91,26 @@ export default function App() {
       setError('Please select a game first.')
       return
     }
+    // Capture the game the question belongs to — the answer must land in that
+    // game's conversation even if the selector changes while it loads.
+    const targetGame = game
+    const targetName = selectedGame?.name || game
+    const userMsg = { id: ++idRef.current, role: 'user', text: q }
     setError('')
     setQuestion('') // clear the input (covers both form submit and example chips)
-    setMessages((prev) => [...prev, { id: ++idRef.current, role: 'user', text: q }])
+    setChatHistory((prev) => appendMessage(prev, targetGame, userMsg))
     setLoading(true)
     try {
-      const res = await askQuestion(game, q)
-      setMessages((prev) => [
-        ...prev,
-        {
-          id: ++idRef.current,
-          role: 'assistant',
-          text: res.answer,
-          sources: res.sources || [],
-          found: res.found !== false,
-          chunks: res.retrieved_chunks,
-          score: res.top_score,
-          gameName: selectedGame?.name || game,
-        },
-      ])
+      const res = await askQuestion(targetGame, q)
+      const answerMsg = {
+        id: ++idRef.current,
+        role: 'assistant',
+        text: res.answer,
+        sources: res.sources || [],
+        found: res.found !== false,
+        gameName: targetName,
+      }
+      setChatHistory((prev) => appendMessage(prev, targetGame, answerMsg))
     } catch (e) {
       setError(e.message)
     } finally {
@@ -76,7 +119,8 @@ export default function App() {
   }
 
   function clearChat() {
-    setMessages([])
+    // Clears only the currently selected game's conversation.
+    setChatHistory((prev) => clearGame(prev, game))
     setError('')
   }
 
@@ -107,7 +151,7 @@ export default function App() {
                     ? 'border-emerald-400/30 bg-emerald-400/10 text-emerald-300'
                     : 'border-rose-400/30 bg-rose-400/10 text-rose-300'
                 }`}
-                title="Vector index status"
+                title="Knowledge base status"
               >
                 <span className={`h-1.5 w-1.5 rounded-full ${indexReady ? 'bg-emerald-400' : 'bg-rose-400'}`} />
                 {indexReady ? 'Index ready' : 'Index missing'}
@@ -223,8 +267,8 @@ export default function App() {
         )}
         {!error && health && !health.index_available && (
           <div className="rounded-xl border border-amber-400/30 bg-amber-500/10 px-4 py-3 text-sm text-amber-200">
-            Vector index not built yet — run <code className="rounded bg-black/40 px-1.5 py-0.5">python backend/ingest.py</code>{' '}
-            to enable answers.
+            The knowledge base index is not ready yet — run the ingestion step to
+            enable answers.
           </div>
         )}
 
@@ -265,7 +309,7 @@ export default function App() {
       {/* ---------------------------------------------------------- footer */}
       <footer className="border-t border-white/5 py-5">
         <p className="text-center text-xs text-slate-500">
-          GameWiki AI · Retrieval-Augmented Generation over your own knowledge base · answers cite their sources
+          GameWiki AI · Answers drawn from your own knowledge base · every answer cites its sources
         </p>
       </footer>
     </div>

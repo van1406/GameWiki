@@ -93,12 +93,13 @@ class AskRequest(BaseModel):
 @app.get("/health")
 def health() -> dict:
     info = read_index_info()
+    llm = {k: v for k, v in llm_info().items() if k != "api_base"}
     return {
         "status": "ok",
         "index_available": GameWikiRAG.index_available(),
         "ingested_at": info.get("ingested_at") if info else None,
         "games_ingested": ingested_games(),
-        "llm": llm_info(),
+        "llm": llm,
         "fallback_answer": FALLBACK_ANSWER,
     }
 

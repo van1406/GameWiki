@@ -1,0 +1,113 @@
+# Forza Horizon 6 — Multiplayer, Convoys and Horizon Play
+
+Playing with friends: cross-play, Convoys, Shared World Meetups, and the
+Horizon Play modes including The Eliminator, Hide & Seek and Spec Racing.
+
+=== Multiplayer ===
+Game: Forza Horizon 6
+Category: Multiplayer
+What multiplayer options does Forza Horizon 6 have? The festival is designed
+to be played with friends: you can drive together on the map, play Horizon
+Festival and Discover Japan events in co-op, join Shared World Meetups,
+earn cooperative LINK skills, build custom races together in CoLab, and
+compete in the Horizon Play suite of online modes (The Eliminator, Hide &
+Seek, Touge Showdown, Spec Racing, Horizon Racing and Horizon Drift).
+Cross-play and cross-save are supported between PC and Xbox, with cross-save
+also covering Steam and PlayStation 5. Online console multiplayer requires a
+Game Pass subscription that includes online multiplayer.
+
+=== Convoys ===
+Game: Forza Horizon 6
+Category: Multiplayer
+How do I join a Convoy? A Convoy is your group of friends driving together
+in the open world. Documented steps:
+1. Open the pause menu.
+2. Navigate to the Online tab.
+3. Select Convoy, then Create Convoy.
+4. Invite your friends from your friends list — they accept the invitation
+   and appear in your Convoy.
+Alternatively, if someone invites you, click the notification saying you
+have been invited and agree to the invitation to join their Convoy. On PC
+(Steam) you can also open the overlay friends list (Shift+Tab), right-click
+a friend who is in a Convoy and choose Join Game — returning to free roam
+makes you a member of that Convoy. Once you are in a Convoy you can drive
+the map together, enter events together and visit Car Meets as a group.
+
+=== Playing with Friends ===
+Game: Forza Horizon 6
+Category: Multiplayer
+How do I play with friends? Everything social runs through Convoys and the
+friends list: create a Convoy from the pause menu's Online tab and invite
+people, or accept their invite. Friends in your Convoy can roam Japan with
+you, join the same events, and you can watch or join each other's sessions.
+Players can also send each other Gift Drops (free cars from your
+collection), and community features like shared tunes, liveries, garage
+layouts and EventLab creations let you play asynchronously. If Convoy
+options are unavailable, privacy and network settings are the documented
+things to check (online privacy permissions and NAT type).
+
+=== Shared World Meetups ===
+Game: Forza Horizon 6
+Category: Multiplayer
+What are Shared World Meetups? Shared World Meetups are drop-in shared
+sessions where players come together in the open world as part of Horizon
+Play's cooperative side — listed alongside driving together, co-op LINK
+skills and co-op campaign events as one of the documented ways to enjoy
+Forza Horizon 6 with others.
+
+=== Horizon Play ===
+Game: Forza Horizon 6
+Category: Multiplayer
+What is Horizon Play? Horizon Play is the suite of game modes designed to
+be fun and competitive:
+- The Eliminator — the open-world battle royale mode, up to 72 players.
+- Hide & Seek — a game of chases where the Hider must stay hidden from
+  their opponents (a documented 5 vs 1 challenge).
+- Touge Showdown — two-player head-to-head championships with three races.
+- Spec Racing — everyone races stock cars and the only differentiator is
+  pure skill.
+- Horizon Racing and Horizon Drift — standard free-for-all races and drift
+  events.
+- Custom Racing — matchmaking where you set the car class and race type.
+- Custom Drifting — choose the car class and drive type.
+Playing these earns XP towards Horizon Play level 100, Badges every 10
+ranks, and (up to level 25) Horizon Festival Points towards your Wristbands.
+
+=== The Eliminator ===
+Game: Forza Horizon 6
+Category: Multiplayer
+How does The Eliminator work? The Eliminator is the open-world battle royale
+mode that first appeared in Forza Horizon 4 and returns in Forza Horizon 6
+for up to 72 players. You start in the open world and face off against the
+other players — documented Festival Playlist challenges include finishing
+30th or better and completing head-to-head battles. It runs as part of
+Horizon Play, so playing it also earns Horizon Play XP and ranks.
+
+=== Hide & Seek ===
+Game: Forza Horizon 6
+Category: Multiplayer
+How does Hide & Seek work? Hide & Seek is a returning Horizon multiplayer
+mode described as a game of chases: the Hider must stay hidden from their
+opponents. Documented Festival Playlist challenges run it as "5 vs 1" —
+complete a game of Hide & Seek as one of the Horizon Play activities. It is
+part of the Horizon Play suite, so it also earns Horizon Play progression.
+
+=== Spec Racing ===
+Game: Forza Horizon 6
+Category: Multiplayer
+How does Spec Racing work? Spec Racing is a new Forza Horizon 6 mode where
+everyone races stock cars and the only differentiator is pure skill. The
+campaign side adds Spec Racing Championships as a new event type, and
+Horizon Play hosts Spec Racing with its own challenges (documented example:
+earn 3 Ultimate Clean Racing Skills in Spec Racing). Because the cars are
+standardised, it is the mode that most directly rewards driving ability.
+
+=== The Trial ===
+Game: Forza Horizon 6
+Category: Multiplayer
+What is The Trial? The Trial is a documented Horizon Life event in the
+Festival Playlist — a team-based championship against tough opposition, with
+a car reward (for example the 1986 Audi #2 Audi Sport quattro S1 for the
+"Push it to the Limit" 1980s Total Rally B-class Trial). It runs on dirt
+routes in the documented example and, like other Horizon Life content, sits
+alongside Rivals and Time Attack in the playlist's line-up.

@@ -1,0 +1,117 @@
+# Minecraft — Villagers and Trading
+
+How villagers work, every profession and workstation, how to get villagers,
+and trading strategies that turn villages into your best source of gear.
+
+=== How Villagers Work ===
+Game: Minecraft
+Category: Villagers
+Villagers are passive NPCs that live in villages, take professions from
+workstation blocks, trade with players, breed when there is enough food and
+space, and are defended by iron golems. Each villager keeps an inventory of
+trades tied to its profession and level. Villagers hide indoors at night,
+ring bells when raids come, and remember the players who trade with them.
+Killing villagers angers the village (and its golem) and is never worth it —
+their trades are far more valuable than their drops.
+
+=== Professions and Workstations ===
+Game: Minecraft
+Category: Villagers
+A villager becomes a professional when it links to an unused workstation
+block. The professions and their job sites are:
+- Librarian → lectern (sells enchanted books, including Mending)
+- Armorer → blast furnace (iron, chainmail, diamond armor)
+- Weaponsmith → grindstone (swords and axes)
+- Toolsmith → smithing table (pickaxes, shovels, axes)
+- Butcher → smoker (cooked meat trades)
+- Cartographer → cartography table (explorer maps, banners, paper trades)
+- Cleric → brewing stand (redstone, lapis, glowstone, ender pearls)
+- Farmer → composter (crops for emeralds, golden carrots)
+- Fisherman → barrel (fish, strings, cooked cod trades)
+- Fletcher → fletching table (arrows, bows, sticks-for-emeralds)
+- Leatherworker → cauldron (leather armor, horse armor, saddles)
+- Mason → stonecutter (quartz, terracotta, bricks, decorative blocks)
+- Shepherd → loom (banners, wool trades)
+- Nitwit: villagers with no profession block cannot work or trade.
+Breaking the workstation unlinks the profession until the villager links
+again — this is how trade lists can be rerolled before locking them.
+
+=== Getting Villagers ===
+Game: Minecraft
+Category: Villagers
+How do I get villagers?
+1. Find a village — they generate in plains, savannas, deserts, taigas, snowy
+   plains, and meadows.
+2. Breed them: provide extra beds and food (villagers pick up bread, carrots,
+   potatoes, or beetroot and become willing); babies grow up quickly.
+3. Move them safely: boats, minecarts, and rails carry villagers where you
+   want them — build a walled trading hall with a bed and workstation for
+   each one.
+4. Cure zombie villagers: trap one, throw a splash potion of weakness on it,
+   and feed it a golden apple; it shakes, then converts back into a normal
+   villager. Cured villagers give you heavily discounted trades.
+Tips: Keep villagers fed and housed — no beds means no breeding, and a
+villager without a bed and workstation will not settle into a profession.
+
+=== Trading Basics ===
+Game: Minecraft
+Category: Villagers
+How does villager trading work? Villagers trade items for emeralds and back.
+Each villager starts at novice level with two trades and unlocks more as you
+trade with it — novice, apprentice, journeyman, expert, master. A trade slot
+locks after several uses and restocks (the villager goes to work at its
+workstation) up to twice a day. Emeralds are the currency: farmers buy crops,
+clerics buy rotten flesh, and librarians sell enchanted books for emeralds.
+Trades once used are locked in, so choose the trades you level up carefully.
+
+=== Important Trades ===
+Game: Minecraft
+Category: Villagers
+Which trades are the most valuable?
+- Librarian: enchanted books — Mending, Unbreaking, Protection, Fortune — are
+  the most sought-after trades in the game.
+- Armorer and toolsmith: diamond gear at the master level.
+- Fletcher: sticks for emeralds early, then arrows and bows.
+- Farmer: bulk crops for emeralds and golden carrots for food.
+- Cleric: ender pearls, redstone, lapis, and glowstone for emeralds.
+- Cartographer: woodland and ocean explorer maps that lead to mansions and
+  monuments.
+Tips: A fletcher and a farmer are the easiest first emerald engines — sticks
+and crops are cheap, and both restock twice a day.
+
+=== Trading Strategies ===
+Game: Minecraft
+Category: Villagers
+How do I get the best villager trades?
+1. Build a trading hall: one cell per villager with a bed and its workstation,
+   well lit and walled so no golem or zombie gets in.
+2. Reroll librarians: before trading with a librarian, break and replace the
+   lectern until the book you want appears, then trade once to lock it.
+3. Cure zombie villagers for big discounts — prices drop dramatically for
+   cured villagers.
+4. Win a raid for the Hero of the Village effect, which gives further price
+   cuts and village gifts.
+5. Breed a second generation inside your hall so you never run out.
+6. Keep a farmer planting and a composter handy so your emerald supply never
+   stops.
+Tips: Never hit a villager or a golem in the hall — iron golems defend
+villagers and prices rise with bad reputation.
+
+=== Villagers and Raids ===
+Game: Minecraft
+Category: Villagers
+Raids tie directly into villager economics: killing a raid captain grants Bad
+Omen, and entering a village with Bad Omen starts a raid. Defeating the raid
+grants Hero of the Village, which both discounts villager trades and causes
+villagers to toss gifts (emeralds, food, and more) at you. Clear pillager
+captains near villages carefully — a raid you win pays for itself in cheaper
+diamond gear.
+
+=== Iron Golems and Village Defense ===
+Game: Minecraft
+Category: Villagers
+Each village spawns iron golems that protect villagers from zombies,
+skeletons, and pillagers. You can build your own golem from four iron blocks
+in a T shape with a carved pumpkin on top to defend your trading hall. Golems
+patrol, launch hostile mobs into the air, and ignore you unless you hurt
+villagers — keep their village peaceful and they stay on your side.

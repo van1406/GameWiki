@@ -50,7 +50,8 @@ def main() -> int:
     for name, passed in checks:
         print(f"  [{'PASS' if passed else 'FAIL'}] {name}")
         ok = ok and passed
-    print(f"\nScores: heist={r1.get('top_score')} minecraft={r3.get('top_score')}")
+    print(f"\nChunks used: heist={r1.get('retrieved_chunks')} "
+          f"minecraft={r3.get('retrieved_chunks')}")
     return 0 if ok else 1
 
 

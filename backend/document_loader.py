@@ -47,6 +47,9 @@ GAME_NAME_OVERRIDES = {
     "minecraft": "Minecraft",
 }
 
+# '=== Section Name ===' heading used throughout the knowledge base.
+SECTION_HEADING_RE = re.compile(r"^===\s*(.+?)\s*===$")
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -97,7 +100,32 @@ def _base_metadata(path: Path, game: str, doc_type: str) -> dict:
         "doc_type": doc_type,
         "page": None,
         "title": path.stem,
+        "section": None,
     }
+
+
+def split_sections(text: str) -> list[tuple[str | None, str]]:
+    """Split a document into its '=== Section ===' blocks.
+
+    Returns [(section_title_or_None, block_text), ...]. Keeping sections intact
+    means a chunk never mixes two topics, so retrieval and sources point at the
+    right section. Text before the first heading (file intro) keeps title None.
+    """
+    blocks: list[tuple[str | None, list[str]]] = []
+    current_title: str | None = None
+    current: list[str] = []
+    for line in text.split("\n"):
+        match = SECTION_HEADING_RE.match(line.strip())
+        if match:
+            if current:
+                blocks.append((current_title, current))
+            current_title = match.group(1).strip()
+            current = [line]
+        else:
+            current.append(line)
+    if current:
+        blocks.append((current_title, current))
+    return [(title, "\n".join(lines).strip()) for title, lines in blocks]
 
 
 # ---------------------------------------------------------------------------
@@ -111,10 +139,27 @@ def load_txt(path: Path, game: str) -> list[Document]:
         return []
     title = extract_title(text, fallback=path.stem)
     splitter = _make_splitter()
-    return [
-        Document(page_content=chunk, metadata={**_base_metadata(path, game, "txt"), "title": title})
-        for chunk in splitter.split_text(text)
-    ]
+    docs: list[Document] = []
+    for section, block in split_sections(text):
+        first_line = block.split("\n", 1)[0].strip()
+        heading_line = first_line if SECTION_HEADING_RE.match(first_line) else None
+        parts = splitter.split_text(block)
+        for index, chunk in enumerate(parts):
+            # Long sections span several chunks: repeat the heading on the
+            # continuation chunks so every chunk still knows (and embeds) its section.
+            if index > 0 and heading_line and not chunk.lstrip().startswith("==="):
+                chunk = f"{heading_line}\n{chunk}"
+            docs.append(
+                Document(
+                    page_content=chunk,
+                    metadata={
+                        **_base_metadata(path, game, "txt"),
+                        "title": title,
+                        "section": section,
+                    },
+                )
+            )
+    return docs
 
 
 def load_pdf(path: Path, game: str) -> list[Document]:
@@ -176,7 +221,10 @@ def load_json(path: Path, game: str) -> list[Document]:
     title = extract_title(text, fallback=path.stem)
     splitter = _make_splitter()
     return [
-        Document(page_content=chunk, metadata={**_base_metadata(path, game, "json"), "title": title})
+        Document(
+            page_content=chunk,
+            metadata={**_base_metadata(path, game, "json"), "title": title},
+        )
         for chunk in splitter.split_text(text)
     ]
 

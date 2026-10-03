@@ -6,7 +6,7 @@ async function request(path, options = {}) {
   try {
     response = await fetch(`${API_BASE}${path}`, options)
   } catch {
-    throw new Error('Cannot reach the backend. Is it running on port 8000?')
+    throw new Error('Cannot reach the server. Please make sure it is running and try again.')
   }
 
   let data = null

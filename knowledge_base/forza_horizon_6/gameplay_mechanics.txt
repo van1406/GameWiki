@@ -1,0 +1,112 @@
+# Forza Horizon 6 — Gameplay Mechanics
+
+LINK skills, side activities and the everyday systems that run underneath
+the festival.
+
+=== Gameplay Mechanics ===
+Game: Forza Horizon 6
+Category: Mechanics
+What are the core gameplay mechanics of Forza Horizon 6? The loop is:
+explore Japan and fill your Collection Journal (Stamps), race official
+festival events for Horizon Festival Points (Wristbands), play Horizon Play
+modes for online progression, and spend what you earn on cars, houses and
+upgrades. Around that sit PR stunts, Rivals, Car Meets, EventLab/CoLab
+creation, side jobs, gift-giving, photo mode and the weekly Festival
+Playlist. Seasons rotate weekly and change both the world and the playlist.
+
+=== LINK Skills ===
+Game: Forza Horizon 6
+Category: Mechanics
+What are LINK skills? LINK skills are new cooperative skills you earn with
+other players — the official feature description is "earn new co-op LINK
+skills with other players", and documented daily challenges simply ask you
+to "earn a LINK Skill" while driving with others. They fit the social side
+of Horizon Play and co-op play: doing things alongside other drivers in the
+open world or in meetups. Forza LINK phrases also appear as Festival
+Playlist rewards (QuickChat phrases you can equip), and QuickChat lets you
+fire off messages like "Oooh… Shiny!" or "Beam me up!" while driving.
+
+=== Raku-Raku Food Delivery Job ===
+Game: Forza Horizon 6
+Category: Mechanics
+Is there a job system? Yes — the Raku-Raku food delivery job is a
+documented way to earn additional income in Forza Horizon 6, and it feeds
+Discover Japan progression: earning income at the job counts towards your
+next Stamp. Seasonal versions appear in the Festival Playlist, such as
+"Tokyo City Food Delivery — complete a full shift", which pays out a reward
+car (the 1987 Nissan Be-1 in Series 01).
+
+=== Gift Drops ===
+Game: Forza Horizon 6
+Category: Mechanics
+How do Gift Drops work? Gift Drops let you send a car from your collection
+to another player — documented daily challenges ask you to "send a Gift
+Drop to another player", and some cars are handed out to the community as
+Gift Cars during windows (for example the 1987 Nissan Be-1 for players who
+played between 28 May and 18 June). It is a free way to share your spare
+cars with friends or strangers.
+
+=== Photo Mode and Murals ===
+Game: Forza Horizon 6
+Category: Mechanics
+How does photography work? The photo feature lets you capture points of
+interest, iconic landmarks and natural wonders for your Journal, and photos
+are also challenges: Festival Playlist Photo Challenges ask you to
+photograph specific spots (#TokyoTower, #FestivalVibes at the Horizon
+Festival Japan Site, #AstroToy at the Space Port) or specific cars. Murals
+by real artists (Kenji Iwasaki, Okuyama Taiki, Kazuhisa Uragami, Wakana
+Yamazaki, Tatsuro Kiuchi, Naoshi, Lady Aiko, Dragon76, Inko Takita) are
+scattered across the world — photographing them counts towards Stamps.
+
+=== Barn Finds ===
+Game: Forza Horizon 6
+Category: Mechanics
+How do Barn Finds work? Collecting Stamps for your Collection Journal
+unlocks Barn Find Rumors — hints that send you hunting for abandoned cars
+around Japan. Documented example: the 1991 Mazda #55 Mazda 787B is a barn
+find, and it is also referenced as a car suited to the R-class Goliath.
+Barn finds are a cheap way to add rare machinery to your collection.
+
+=== PR Stunts and Bonus Boards ===
+Game: Forza Horizon 6
+Category: Mechanics
+How do PR stunts and bonus boards work? Speed Traps, Speed Zones, Danger
+Signs, Trailblazer and Drift Zone events are scattered across the map with
+class restrictions and star ratings — earn 3 stars for the best rewards.
+Bonus Boards (XP boards) are hidden objects you smash for experience, with
+at least one deliberately hidden behind the base of Nachi Falls. PR stunts
+also count towards festival events and playlist challenges.
+
+=== Drivatars and Difficulty ===
+Game: Forza Horizon 6
+Category: Mechanics
+Who am I racing against in single player? Your AI opponents are Drivatars,
+the series' learned AI drivers. After launch, players criticised Drivatar
+difficulty even at lower settings, and Playground Games addressed the issue
+in a post-launch update alongside other fixes — so if the AI feels too
+aggressive, difficulty settings and updates are the documented answer.
+
+=== Character Customization ===
+Game: Forza Horizon 6
+Category: Mechanics
+Can I customise my character? Yes — your character is customised and shown
+off with your cars at Car Meets, where meets are documented as places to
+"showcase your cars and characters". Character items also appear among the
+Festival Playlist's documented reward types (alongside cars, credits,
+horns, QuickChat and LINK phrases), so cosmetics for your driver are
+awarded through seasonal play. The knowledge base does not have a full list
+of character customization options.
+
+=== Side Content Overview ===
+Game: Forza Horizon 6
+Category: Mechanics
+What else is there to do besides racing? Documented side content:
+- Discover Japan: landmarks, murals, Day Trips, roads and regions tracked
+  by the Journal's fog-of-war map.
+- Car culture: Car Meets, Drag Meets, touge nights and street routes.
+- Creation: EventLab and Horizon CoLab.
+- Economy: food delivery jobs, Auction House trading, Gift Drops.
+- Stunts: PR stunt boards, bonus boards, treasure hunts.
+- Social: Convoys, LINK skills, Shared World Meetups.
+- Competition: Rivals, Time Attack leaderboards, Series Standing
+  Leaderboards, The Trial.

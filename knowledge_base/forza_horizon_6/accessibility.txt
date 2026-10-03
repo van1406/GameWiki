@@ -1,0 +1,76 @@
+# Forza Horizon 6 — Accessibility and Assistance Features
+
+The accessibility options Forza Horizon 6 ships with, and the driving
+assistance features that make the game approachable.
+
+=== Accessibility ===
+Game: Forza Horizon 6
+Category: Accessibility
+What accessibility features does Forza Horizon 6 have? Forza Horizon 6 is
+described as the most approachable Horizon game yet, and its documented
+accessibility and assistance options include:
+- Granular High Contrast Mode — a customizable high-contrast display mode.
+- Car Proximity Radar — a proximity sensor that detects the cars around
+  you.
+- American and British Sign Language support (ASL and BSL).
+- AutoDrive — select a destination and have the car driven there for you.
+These sit alongside the usual controller and wheel support, ultrawide
+monitor support, and Quality/Performance graphics modes so players can tune
+the experience to their setup.
+
+=== Accessibility Features ===
+Game: Forza Horizon 6
+Category: Accessibility
+What are the accessibility features in detail? Documented details:
+- Granular High Contrast Mode: customizable high contrast so on-screen
+  elements are easier to distinguish — "granular" means the mode can be
+  adjusted rather than simply switched on.
+- Car Proximity Radar: a proximity sensor that detects other cars around
+  you, helping with spatial awareness in traffic and crowded streets.
+- American and British Sign Language: sign language support is listed among
+  the customization options that let everyone experience the cars, music
+  and locations of the festival.
+- AutoDrive: the car drives itself to a chosen destination (see the
+  AutoDrive entry).
+The official framing: "our customization options include Granular High
+Contrast Mode, Car Proximity Radar, American and British Sign Language, and
+AutoDrive, allowing everyone to experience the beautiful cars, hit music
+and spectacular locations of the Horizon Festival."
+
+=== AutoDrive ===
+Game: Forza Horizon 6
+Category: Accessibility
+How does AutoDrive work? AutoDrive is a driving assistance feature: you
+select a destination, and the car is driven there for you. It reduces the
+demand of manual driving for players who want to reach a location without
+navigating the whole way — useful for long stretches of Japan's highways or
+when you simply want to arrive somewhere and start an event. It is listed
+as one of the four headline accessibility/approachability options in Forza
+Horizon 6.
+
+=== Car Proximity Radar ===
+Game: Forza Horizon 6
+Category: Accessibility
+How does the Car Proximity Radar work? The Car Proximity Radar is a
+proximity sensor that detects the cars around you — a spatial-awareness aid
+for dense traffic, Tokyo City streets and crowded meetup areas. It is one
+of the documented customization options designed to make the game playable
+by more people.
+
+=== High Contrast Mode ===
+Game: Forza Horizon 6
+Category: Accessibility
+Is there a high contrast mode? Yes — Forza Horizon 6 includes a Granular
+High Contrast Mode, documented as customizable rather than a single fixed
+preset, so players can adjust contrast to suit their vision needs.
+
+=== Performance and Display Options ===
+Game: Forza Horizon 6
+Category: Accessibility
+What display options are there? On Xbox consoles you can pick a Quality
+mode (native 4K at 30 fps on Series X, 1440p at 30 fps on Series S) or a
+Performance mode (targeting 60 fps with dynamic resolution on both). On PC
+the game supports high uncapped framerates, 4K via DLSS 4, FSR 3+3 and
+XeSS 2.1, ultrawide monitors, robust controller and wheel support, and
+runs on Steam Deck and ROG Ally handhelds. These options let players favour
+frame rate or fidelity depending on their display and hardware.

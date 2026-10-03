@@ -60,7 +60,7 @@ weapon, so stock up before heists and big firefights.
 === Weapon Categories ===
 Game: GTA 5
 Category: Game Mechanics
-What weapon categories exist in GTA 5? Melee, Pistols, Submachine Guns, Shotguns,
+What weapons are available in GTA 5, and which categories exist? Melee, Pistols, Submachine Guns, Shotguns,
 Assault Rifles, Sniper Rifles, Heavy Weapons (RPG, grenade launcher, minigun), and
 Throwables (grenades, sticky bombs, Molotovs, tear gas). Each category has its own
 slot on the weapon wheel, and Ammu-Nation sells attachments — scopes, suppressors,

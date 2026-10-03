@@ -1,0 +1,93 @@
+# Forza Horizon 6 — Game Overview
+
+What Forza Horizon 6 is, where and when it released, what the Horizon Festival
+is, and how the world of Japan is put together.
+
+=== Game Overview ===
+Game: Forza Horizon 6
+Category: Overview
+Forza Horizon 6 (abbreviated FH6) is an open-world racing game developed by
+Playground Games with assistance from Turn 10 Studios and published by Xbox
+Game Studios. It is the sixth Forza Horizon title and the fourteenth main
+instalment in the Forza franchise. The game is set in a fictionalised
+representation of Japan and revolves around the Horizon Festival: you start
+as a tourist, qualify for the festival as a rookie driver, and rise through
+the ranks by racing in progressively faster cars until you become a Horizon
+Legend. It launched with over 550 real-world cars, a campaign playable solo
+or in co-op with friends, and a large suite of multiplayer modes.
+
+=== Horizon Festival ===
+Game: Forza Horizon 6
+Category: Overview
+The Horizon Festival is the travelling racing festival at the heart of
+Forza Horizon 6, and this time it is held in Japan. You begin the game as a
+tourist visiting Japan, not as a festival driver: you must first prove you
+have what it takes by completing the Horizon Qualifiers and the Horizon
+Invitational to be accepted as a rookie driver. Official events of the
+Horizon Festival include Road, Dirt and Cross Country Races with specialised
+car themes, plus Time Attack Circuits, Drag Meets, PR Stunts and Bonus
+Boards. As you earn Wristbands you are invited to events with higher car
+class restrictions. The festival has a main site — the Horizon Festival
+Japan Site — and a second Horizon Festival Site that opens on Legend Island
+once you reach Horizon Legend status. The story also introduces you to the
+Legends of the Horizon Festival, the veteran drivers whose careers you follow.
+
+=== The Japan Setting ===
+Game: Forza Horizon 6
+Category: Overview
+Forza Horizon 6 is set in Japan, with Mount Fuji and Tokyo confirmed
+locations, and the game world is described as the franchise's largest map.
+It is not a one-to-one recreation of the country: the team aimed to capture
+Japan's cultural essence, connecting real landmarks in an arrangement that
+works for driving. The map contrasts dense urban Japan — Tokyo City, the
+largest urban area ever in a Forza Horizon game — with rural countryside,
+alpine hills, coasts and mountains. Kyoko Yamashita worked as cultural
+consultant, and the team travelled to Japan for location research, including
+experiencing Japanese car culture first hand. Seasonal changes matter:
+cherry blossom blooms, heavy snowfall and other seasonal shifts change how
+the world looks and drives.
+
+=== Release Date and Platforms ===
+Game: Forza Horizon 6
+Category: Overview
+Forza Horizon 6 was announced at the 2025 Tokyo Game Show on 25 September
+2025 and released on 19 May 2026 for Xbox Series X|S, Windows PC (Microsoft
+Store and Steam) and Xbox Cloud Gaming, as an Xbox Play Anywhere title. It
+was playable day one with Xbox Game Pass (Game Pass Ultimate and PC Game
+Pass). Buyers of the Premium Edition got four days of early access starting
+15 May 2026. A PlayStation 5 release is planned for later in 2026. Cross-play
+and cross-save are supported between PC and Xbox, and cross-save also works
+between Xbox, Steam and PlayStation 5.
+
+=== Development ===
+Game: Forza Horizon 6
+Category: Overview
+Forza Horizon 6 was developed by Playground Games in Leamington Spa with
+assistance from Turn 10 Studios, which paused its work on Forza Motorsport to
+focus on helping polish FH6. The game runs on the ForzaTech engine, is the
+first Forza Horizon title built only for ninth-generation hardware (Xbox One
+support was dropped), and introduces ray-traced global illumination on PC
+alongside traditional lighting. On Xbox consoles players can choose a Quality
+mode (30 fps) or a Performance mode (60 fps).
+
+=== Single-Player and Co-op ===
+Game: Forza Horizon 6
+Category: Overview
+The campaign can be played entirely solo, and most of it can also be played
+in co-op with friends: Horizon Festival and Discover Japan events support
+co-op play, you can drive together around the open world, earn cooperative
+LINK skills, take part in Shared World Meetups, and build custom races
+together in CoLab. Online console multiplayer requires a Game Pass
+subscription that includes online multiplayer.
+
+=== Discover Japan and the Journal ===
+Game: Forza Horizon 6
+Category: Overview
+Exploration is a core part of the game. The Journal feature encourages you
+to document the world: a fog-of-war layer on the map shows where you have
+been and where you have yet to visit, and a photography feature lets you
+capture points of interest, iconic landmarks and natural wonders for your
+Journal. Discovering things across Japan — landmarks, murals, cars and more —
+progresses your Collection Journal and earns Stamps. Day Trip missions are
+bite-sized activities scattered around the map, inspired by the trips real
+visitors to Japan often take, with a Horizon twist.

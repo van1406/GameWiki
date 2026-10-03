@@ -24,8 +24,10 @@ chunk verbatim, so the app still works end-to-end without any API key.
 from __future__ import annotations
 
 import json
+import math
 import os
 import re
+import time
 from pathlib import Path
 
 import requests
@@ -53,7 +55,9 @@ SYSTEM_PROMPT = (
     "objectives, locations, or facts the question asks for, in plain conversational "
     "language. Do not quote raw document blocks, do not mention how the answer was "
     "produced, and never refer to AI, models, prompts, scores, chunks, embeddings, or "
-    "any system internals. The user should only see the useful game answer. "
+    "any system internals. Never use the word \"model\" anywhere in your answer — say "
+    "\"car\", \"vehicle\" or \"version\" instead. "
+    "The user should only see the useful game answer. "
     "Keep answers concise and factual; use short numbered steps or bullet points when "
     "the context describes a process."
 )
@@ -124,15 +128,38 @@ def _call_llm(system_prompt: str, user_prompt: str) -> str:
     headers = {"Authorization": f"Bearer {api_key}"} if api_key else {}
     timeout = float(os.getenv("LLM_TIMEOUT", "60"))
 
-    try:
-        response = requests.post(
-            f"{info['api_base'].rstrip('/')}/chat/completions",
-            json=payload,
-            headers=headers,
-            timeout=timeout,
-        )
-    except requests.RequestException as exc:
-        raise LLMError(f"Could not reach the LLM at {info['api_base']}: {exc}") from exc
+    # Free tiers are rate-limited (HTTP 429). Retry with a backoff instead of
+    # failing the user's question on a transient limit.
+    max_attempts = 4
+    response = None
+    for attempt in range(max_attempts):
+        try:
+            response = requests.post(
+                f"{info['api_base'].rstrip('/')}/chat/completions",
+                json=payload,
+                headers=headers,
+                timeout=timeout,
+            )
+        except requests.RequestException as exc:
+            # Transient connection failures (DNS blip, refused socket) get the
+            # same backoff treatment as rate limits; timeouts still fail fast.
+            if isinstance(exc, requests.ConnectionError) and attempt < max_attempts - 1:
+                time.sleep(min(3.0 * (2 ** attempt), 60.0))
+                continue
+            raise LLMError(f"Could not reach the LLM at {info['api_base']}: {exc}") from exc
+
+        if response.status_code == 429 or response.status_code >= 500:
+            if attempt < max_attempts - 1:
+                delay = 3.0 * (2 ** attempt)  # 3s, 6s, 12s
+                retry_after = response.headers.get("retry-after")
+                if retry_after:
+                    try:
+                        delay = max(delay, float(retry_after))
+                    except ValueError:
+                        pass
+                time.sleep(min(delay, 60.0))
+                continue
+        break
 
     if response.status_code != 200:
         detail = response.text[:300]
@@ -157,16 +184,17 @@ def _join_overlap(first: str, second: str) -> str:
 
 
 def _polish_answer(text: str) -> str:
-    """Turn a raw chunk into answer text: drop the '=== Heading ===' marker and
-    metadata lines (Game:/Category:) so only the useful content remains."""
+    """Turn a raw chunk into answer text: drop every '=== Heading ===' marker and
+    metadata line (Game:/Category:) so only the useful content remains."""
     title: str | None = None
     lines: list[str] = []
     for line in text.splitlines():
         stripped = line.strip()
         match = re.match(r"^===\s*(.+?)\s*===$", stripped)
-        if match and title is None:
-            title = match.group(1)
-            continue
+        if match:
+            if title is None:
+                title = match.group(1)  # first heading doubles as the answer title
+            continue  # later headings would be raw document markers
         if re.match(r"^(Game|Category):\s*\S", stripped):
             continue
         lines.append(line)
@@ -183,18 +211,21 @@ def _extractive_answer(results: list[tuple]) -> str:
     mission walkthroughs come out complete instead of truncated.
     """
     top_doc, _score = results[0]
-    section = _section_of(top_doc.page_content)
+    section = _section_of_doc(top_doc)
     parts = [top_doc.page_content]
     if section is not None:
         for doc, _s in results[1:]:
             if (
                 doc.metadata.get("source") == top_doc.metadata.get("source")
-                and _section_of(doc.page_content) == section
+                and _section_of_doc(doc) == section
             ):
                 parts.append(doc.page_content)
 
     text = parts[0]
     for part in parts[1:]:
+        # Continuation chunks repeat the section heading — drop it before joining
+        # so the overlap merge and the final answer stay clean.
+        part = re.sub(r"^===\s*.+?\s*===\s*\n?", "", part)
         text = _join_overlap(text, part)
     if len(text) > 2800:
         text = text[:2800].rsplit(" ", 1)[0] + " ..."
@@ -211,6 +242,15 @@ def _section_of(chunk_text: str) -> str | None:
     return match.group(1).strip() if match else None
 
 
+def _section_of_doc(doc) -> str | None:
+    """Section of a document: metadata set at ingestion time, with the
+    in-text heading as a fallback (PDFs and older indexes)."""
+    section = (doc.metadata or {}).get("section")
+    if section:
+        return str(section)
+    return _section_of(doc.page_content)
+
+
 def _build_context(results: list[tuple]) -> tuple[str, list[str]]:
     """Join retrieved chunks into one context string, keeping source labels."""
     blocks: list[str] = []
@@ -219,7 +259,7 @@ def _build_context(results: list[tuple]) -> tuple[str, list[str]]:
         label = f"{meta.get('game', '?')}/{meta.get('source', '?')}"
         if meta.get("page"):
             label += f" (page {meta['page']})"
-        section = _section_of(doc.page_content)
+        section = _section_of_doc(doc)
         if section:
             label += f" — {section}"
         blocks.append(f"[Source: {label}]\n{doc.page_content}")
@@ -233,7 +273,7 @@ def _build_sources(results: list[tuple]) -> list[dict]:
     for doc, _score in results:
         meta = doc.metadata
         key = (meta.get("source"), meta.get("page"))
-        section = _section_of(doc.page_content)
+        section = _section_of_doc(doc)
         if key not in index_by_key:
             index_by_key[key] = len(sources)
             sources.append(
@@ -253,6 +293,125 @@ def _build_sources(results: list[tuple]) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Lexical re-ranking (works WITH the embedding search, never instead of it)
+# ---------------------------------------------------------------------------
+#
+# Dense embeddings are great at paraphrases but weak at small distinguishing
+# words ("5-star" vs "4-star", "Trevor" vs "Franklin"). After FAISS similarity
+# search and the unchanged relevance threshold, surviving candidates are
+# re-weighted by how much of the question's distinctive vocabulary they cover:
+# terms that appear in only a few candidates (IDF) count much more than terms
+# that appear in every candidate. This only reorders already-relevant chunks.
+
+_STOPWORDS = {
+    "the", "a", "an", "and", "or", "but", "if", "of", "in", "on", "at", "to",
+    "for", "with", "from", "by", "is", "are", "was", "were", "be", "been", "am",
+    "do", "does", "did", "done", "can", "could", "should", "would", "will",
+    "shall", "may", "might", "must", "i", "you", "he", "she", "it", "we",
+    "they", "me", "my", "your", "his", "her", "its", "our", "their", "this",
+    "that", "these", "those", "what", "which", "who", "whom", "whose", "when",
+    "where", "why", "how", "not", "no", "so", "than", "then", "there", "here",
+    "about", "into", "over", "under", "again", "very", "just", "also", "up",
+}
+
+
+# Extra weight given when the question's terms appear in the section heading
+# (identifies "5-Star" vs "1-Star" or "Trevor" vs "Franklin" at a glance).
+_HEADING_WEIGHT = 0.15
+
+
+def _normalize_token(token: str) -> str:
+    """Very light stemmer applied to BOTH the question and the chunks so that
+    craft/crafting/crafted, remove/removed, trade/trading all line up."""
+    if token.isdigit():
+        return token
+    t = token
+    if len(t) > 4 and t.endswith("ies"):
+        t = t[:-3] + "y"
+    elif len(t) > 4 and t.endswith("ing"):
+        t = t[:-3]
+    elif len(t) > 3 and t.endswith("ed"):
+        t = t[:-2]
+    elif len(t) > 3 and t.endswith("es"):
+        t = t[:-2]
+    elif len(t) > 3 and t.endswith("s") and not t.endswith("ss"):
+        t = t[:-1]
+    if len(t) > 3 and t.endswith("e"):
+        t = t[:-1]
+    return t
+
+
+def _token_set(text: str) -> set[str]:
+    """Normalized content tokens of a text (stopwords removed, numbers kept)."""
+    tokens = set()
+    for raw in re.findall(r"[a-z0-9]+", text.lower()):
+        if raw in _STOPWORDS:
+            continue
+        norm = _normalize_token(raw)
+        if not norm or norm in _STOPWORDS:
+            continue
+        if len(norm) < 2 and not norm.isdigit():
+            continue  # drop fragments like "s" from "Trevor's"
+        tokens.add(norm)
+    return tokens
+
+
+def _content_tokens(text: str) -> set[str]:
+    """Tokens used for lexical matching, ignoring document metadata lines
+    ("Game: GTA 5" / "Category: ...") that are identical across chunks and
+    would otherwise drown out the words that actually distinguish sections."""
+    cleaned = "\n".join(
+        line for line in text.splitlines()
+        if not re.match(r"^\s*(Game|Category):\s*\S", line)
+    )
+    return _token_set(cleaned)
+
+
+def _lexical_scores(
+    question: str, chunk_texts: list[str], headings: list[str | None]
+) -> tuple[list[float], list[float]]:
+    """IDF-weighted lexical scores for each candidate.
+
+    Returns (body_coverage, heading_coverage), both in 0..1:
+      * body_coverage    — fraction of the question's distinctive terms the
+        chunk contains (terms in every candidate contribute nothing).
+      * heading_coverage — the same fraction counted only in the chunk's
+        '=== Section ===' heading, which strongly identifies the section a
+        question is really about ("5-Star" vs "1-Star", "Trevor" vs "Franklin").
+
+    Returns all-zeros when the question shares no content terms with the
+    candidates.
+    """
+    if not chunk_texts:
+        return [], []
+    query_tokens = _content_tokens(question)
+    if not query_tokens:
+        return [0.0] * len(chunk_texts), [0.0] * len(chunk_texts)
+    chunk_tokens = [_content_tokens(text) for text in chunk_texts]
+    n = len(chunk_tokens)
+    idf: dict[str, float] = {}
+    for term in query_tokens:
+        df = sum(1 for tokens in chunk_tokens if term in tokens)
+        if df:
+            weight = math.log(n / df)  # term in every candidate -> 0
+            if weight > 0:
+                idf[term] = weight
+    total = sum(idf.values())
+    if total <= 0:
+        return [0.0] * n, [0.0] * n
+    body = [
+        sum(w for t, w in idf.items() if t in tokens) / total
+        for tokens in chunk_tokens
+    ]
+    heading_tokens = [_content_tokens(heading or "") for heading in headings]
+    heading = [
+        sum(w for t, w in idf.items() if t in tokens) / total
+        for tokens in heading_tokens
+    ]
+    return body, heading
+
+
+# ---------------------------------------------------------------------------
 # The pipeline
 # ---------------------------------------------------------------------------
 
@@ -263,6 +422,8 @@ class GameWikiRAG:
         self._vectorstore = None
         self.min_score = float(os.getenv("RETRIEVAL_MIN_SCORE", "0.30"))
         self.top_k = int(os.getenv("RETRIEVAL_TOP_K", "4"))
+        # Strength of the lexical re-ranking bonus (0 = pure cosine ranking).
+        self.lexical_weight = float(os.getenv("RETRIEVAL_LEXICAL_WEIGHT", "0.45"))
 
     # -- retrieval stage -----------------------------------------------------
 
@@ -294,23 +455,46 @@ class GameWikiRAG:
     def retrieve(self, game: str, question: str) -> list[tuple]:
         """
         Return [(Document, cosine_score)] for `game` only, above the relevance
-        threshold, sorted by score descending, at most top_k items.
+        threshold, sorted by relevance descending, at most top_k items.
+
+        Stage 1 is unchanged: embed the question, FAISS similarity search, drop
+        other games, drop everything below the cosine threshold (this is the
+        hallucination gate and it always uses the RAW cosine score).
+        Stage 2 only re-orders the survivors with an IDF-weighted lexical
+        coverage bonus, so paraphrases land on the right section while the
+        threshold semantics stay exactly as before.
         """
         vectorstore = self._get_vectorstore()
         search_k = max(self.top_k * 10, 40)
         raw = vectorstore.similarity_search_with_score(question, k=search_k)
 
-        scored = []
+        survivors: list[tuple] = []
         for doc, distance in raw:
             if doc.metadata.get("game") != game:
                 continue  # never mix games
             cosine = self._to_cosine(distance)
             if cosine < self.min_score:
                 continue  # drop unrelated chunks before they reach the LLM
-            scored.append((doc, cosine))
+            survivors.append((doc, cosine))
 
-        scored.sort(key=lambda pair: -pair[1])
-        return scored[: self.top_k]
+        if not survivors:
+            return []
+
+        body_cov, head_cov = _lexical_scores(
+            question,
+            [doc.page_content for doc, _ in survivors],
+            [_section_of_doc(doc) for doc, _ in survivors],
+        )
+        ranked = []
+        for (doc, cosine), b_cov, h_cov in zip(survivors, body_cov, head_cov):
+            # Weakly-relevant chunks only get a part of the bonus: the lexical
+            # signal may re-order well-matching chunks, but it can never lift a
+            # barely-eligible chunk above clearly better-matching ones.
+            gate = min(1.0, max(0.0, (cosine - self.min_score) / 0.2))
+            bonus = gate * (self.lexical_weight * b_cov + _HEADING_WEIGHT * h_cov)
+            ranked.append((doc, cosine, cosine + bonus))
+        ranked.sort(key=lambda item: -item[2])
+        return [(doc, cosine) for doc, cosine, _ in ranked[: self.top_k]]
 
     # -- generation stage ----------------------------------------------------
 
@@ -361,7 +545,6 @@ class GameWikiRAG:
             "sources": _build_sources(results),
             "found": True,
             "retrieved_chunks": len(results),
-            "top_score": round(float(results[0][1]), 4),
         }
 
 

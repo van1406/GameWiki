@@ -1,0 +1,85 @@
+# Forza Horizon 6 — Upgrades
+
+What the Upgrade Shop covers, how conversions work, and how upgrade choices
+interact with the Performance Index.
+
+=== Upgrades ===
+Game: Forza Horizon 6
+Category: Tuning
+How do upgrades work? Upgrades are the parts you buy and install in the
+Upgrade Shop to make a car faster, lighter or more adjustable. Every part
+costs Performance Index, so builds are a balance: spend PI on the changes
+that matter for your discipline rather than maxing every category. The main
+documented upgrade groups are Platform & Handling (springs and dampers,
+anti-roll bars, brakes, weight reduction and chassis reinforcement/roll
+cage), drivetrain parts, tires and compounds, and aerodynamic options.
+
+=== How Do I Upgrade My Car ===
+Game: Forza Horizon 6
+Category: Tuning
+How do I upgrade my car? Steps:
+1. Open the Upgrade Shop from the festival menus or your garage.
+2. Pick the category that matches your goal: Platform & Handling for grip
+   and balance, drivetrain for power delivery, tires for traction, and aero
+   for downforce.
+3. Watch the Performance Index readout — if the car crosses into the next
+   class it may no longer fit the events you want, so upgrade within your
+   target class.
+4. Fit Race-tier parts where you want tuning sliders (Race Springs & Dampers,
+   Race anti-roll bars, Race brakes).
+5. Consider conversions — engine swaps, drivetrain conversions and body
+   kits — when the stock engine cannot reach your target class.
+6. After upgrading, open the Tune menu to set up the new parts, or download
+   a community tune.
+Spending 10,000 credits on upgrades for a Japanese car even counts as a
+festival challenge, so upgrades are part of normal progression.
+
+=== Upgrade Categories ===
+Game: Forza Horizon 6
+Category: Tuning
+What upgrade categories exist? Documented options include:
+- Springs & Dampers (Stock, Street, Sport, Race, Rally, Off-Road) — the
+  most important choice, because Race tier unlocks the full tuning suite.
+- Anti-Roll Bars (Stock through Race, front and rear independently).
+- Brakes (Stock, Street, Sport, Race — Race unlocks brake balance and
+  pressure tuning).
+- Weight Reduction (Stock, Street, Sport, Race) — strips weight for
+  acceleration, braking and cornering gains.
+- Chassis Reinforcement / Roll Cage (Stock through Race) — stiffer body,
+  more precision, added weight; great for dirt and cross-country builds,
+  usually skipped for drag builds.
+- Drivetrain parts (clutch, driveline, transmission, differential) for
+  power delivery and gearing.
+- Tires and tire compounds for grip.
+- Aerodynamics: body kits and new Forza Aero options for downforce.
+
+=== Engine Swaps and Drivetrain Conversion ===
+Game: Forza Horizon 6
+Category: Tuning
+Can I swap engines or change drivetrain? Yes. Engine Swap and drivetrain
+conversion are documented upgrade paths in Forza Horizon 6. The documented
+extreme example is the 1985 Toyota Sprinter Trueno (AE86) Forza Edition,
+which reaches top speeds exceeding 322 mph when fully upgraded with a 2JZ
+engine swap, an all-wheel-drive conversion and a specialised drag tune.
+Conversions change the car's character completely — and its Performance
+Index — so check your class budget after installing one.
+
+=== Body Kits and Forza Aero ===
+Game: Forza Horizon 6
+Category: Tuning
+What cosmetic-performance upgrades are new? Forza Horizon 6 lets your
+favourite cars be upgraded with body kits and new Forza Aero options, and
+adds the ability to paint custom liveries on windows. Forza Aero parts
+(front and rear aero) also matter in tuning because they add adjustable
+downforce — the balance between top speed on Japan's highways and grip in
+the corners of Touge and circuit races.
+
+=== Weight Reduction ===
+Game: Forza Horizon 6
+Category: Tuning
+When should I use weight reduction? Documented guidance: always on heavy
+cars (trucks, luxury sedans, classic muscle) where Race tier pays for
+itself; selectively on mid-weight cars where Sport tier is usually the
+sweet spot; and often skipped on already-light kei cars where the PI cost
+can outweigh the benefit. Weight reduction is one of the few upgrades that
+improves acceleration, braking and cornering at the same time.

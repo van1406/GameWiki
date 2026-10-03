@@ -139,6 +139,140 @@ How to Craft: Place one plank above another in any crafting grid and take the fo
 sticks.
 Uses: Sticks are the handle for nearly every tool, weapon, and torch recipe.
 
+=== Leather Armor ===
+Game: Minecraft
+Category: Crafting
+Materials: 7 leather for a full set (helmet 5, chestplate 8, leggings 7,
+boots 4 per piece pattern)
+Recipe: Helmet = U-shape of 5 leather; chestplate = 8 leather (gap at the
+top center); leggings = 7 leather; boots = 4 leather in two columns
+How to Craft: Open a crafting table and arrange the leather in the armor
+shape shown in the recipe book for each piece.
+Uses: The first wearable armor set — weak, but craftable on day one, and it
+can be dyed any color.
+
+=== Iron Armor ===
+Game: Minecraft
+Category: Crafting
+Materials: 24 iron ingots for a full set
+Recipe: Same shapes as leather armor — helmet 5, chestplate 8, leggings 7,
+boots 4 iron ingots
+How to Craft: Smelt iron ore into ingots, then form each piece in the
+crafting table.
+Uses: 15 armor points (60% damage reduction) across the set — the practical
+mid-game armor that should carry you to diamonds.
+
+=== Diamond Armor ===
+Game: Minecraft
+Category: Crafting
+Materials: 24 diamonds for a full set
+Recipe: Helmet 5, chestplate 8, leggings 7, boots 4 diamonds in the standard
+armor patterns
+How to Craft: Mine diamonds below y 16 with an iron pickaxe or better, then
+craft each piece.
+Uses: 20 armor points (80% damage reduction) with armor toughness — the
+standard endgame set, upgradable to netherite at a smithing table.
+
+=== Bucket ===
+Game: Minecraft
+Category: Crafting
+Materials: 3 iron ingots
+Recipe: Three iron ingots in a V shape (top-left, top-right, bottom-center)
+How to Craft: Open a crafting table and place the ingots in the V pattern.
+Uses: Carries water or lava — place water to swim up vertical shafts, turn
+lava into obsidian, put out fires, and rescue yourself from falls. The
+single most valuable early-game tool: craft a bucket as soon as you have
+three iron.
+
+=== Flint and Steel ===
+Game: Minecraft
+Category: Crafting
+Materials: 1 iron ingot + 1 flint
+Recipe: Iron ingot and flint together in any two slots
+How to Craft: Dig gravel until flint drops (about a 10% chance per block),
+then combine it with an iron ingot.
+Uses: Lights Nether portals, fires, TNT, campfires, and candles —
+indispensable for the first Nether trip and for lighting builds.
+
+=== Shears ===
+Game: Minecraft
+Category: Crafting
+Materials: 2 iron ingots
+Recipe: Two iron ingots diagonal from each other
+How to Craft: Place two iron ingots in a diagonal (top-left and center, or
+top-right and center) in the crafting table.
+Uses: Cuts leaves, wool, vines, tall grass, and mushrooms without destroying
+them; strips logs; harvests cocoa and nether wart quickly.
+
+=== Brewing Stand ===
+Game: Minecraft
+Category: Crafting
+Materials: 1 blaze rod + 3 cobblestone
+Recipe: Blaze rod in the top-center slot, cobblestone across the bottom row
+How to Craft: The blaze rod comes from blazes in Nether fortresses — the
+stand itself is cheap once you have one rod.
+Uses: The station for every potion in the game — it brews from water
+bottles and ingredients, using blaze powder as fuel.
+
+=== Anvil ===
+Game: Minecraft
+Category: Crafting
+Materials: 3 iron blocks + 4 iron ingots
+Recipe: Three iron blocks across the top row, three ingots below with one in
+the center of the middle row (anvil shape)
+How to Craft: Craft nine iron ingots into blocks at a crafting table first,
+then form the anvil.
+Uses: Combines enchanted items and books, repairs gear with materials, and
+renames items — the workshop for perfecting gear.
+
+=== Bookshelf ===
+Game: Minecraft
+Category: Crafting
+Materials: 3 books + 6 planks
+Recipe: Planks on the top and bottom rows, three books across the middle row
+How to Craft: Books need leather (cows) and paper (sugar cane); craft three,
+then combine with planks.
+Uses: Fifteen arranged around an enchanting table unlock level-30 enchants —
+bookshelves are the backbone of any enchanting room.
+
+=== Hopper ===
+Game: Minecraft
+Category: Crafting
+Materials: 5 iron ingots + 1 chest
+Recipe: Iron ingots at top-left, top-right, and center, with the chest in
+the bottom-center slot (a V pouring into the chest)
+How to Craft: Sneak-click to aim a hopper at the container it should feed.
+Uses: Moves items between containers — under farms for collection, above
+furnaces for automatic smelting, and in item sorters.
+
+=== Boat ===
+Game: Minecraft
+Category: Crafting
+Materials: 5 planks of the same wood type
+Recipe: Boat shape — three planks across the bottom row with one plank above
+each end
+How to Craft: In a crafting table, place the planks in the boat pattern from
+the recipe book.
+Uses: The basic water transport — cross oceans safely, reach shipwrecks, and
+carry one passenger.
+
+=== Minecart ===
+Game: Minecraft
+Category: Crafting
+Materials: 5 iron ingots
+Recipe: U shape — three ingots across the bottom row with one above each end
+How to Craft: Arrange the ingots in the U pattern in a crafting table.
+Uses: Rides on rails; paired with rails and powered rails it forms minecart
+lines, elevators, and item transport systems.
+
+=== Flint ===
+Game: Minecraft
+Category: Crafting
+What it is: Flint is a drop from gravel blocks, not a crafted item.
+How to obtain: Dig or shovel gravel repeatedly — each block has a chance to
+drop flint instead of gravel; Fortune does not affect it.
+Uses: Crafted with an iron ingot into flint and steel for portals and fires.
+
 === Crafting Table Tips ===
 Game: Minecraft
 Category: Game Mechanics

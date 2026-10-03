@@ -1,0 +1,156 @@
+# Minecraft — Biomes
+
+The important Overworld, Nether, and End biomes: what each one contains, which
+mobs live there, and how to survive in them.
+
+=== How Biomes Work ===
+Game: Minecraft
+Category: Biomes
+A biome is a region with its own climate, terrain, plants, mobs, and
+structures. Biomes decide which trees grow, where villages and temples
+generate, which ores are common (emeralds only in mountains, extra gold in
+badlands), and which animals spawn. Use an explorer map or wander high and
+low — surface changes such as cacti, spruce trees, or coral usually announce a
+new biome.
+
+=== Forests ===
+Game: Minecraft
+Category: Biomes
+What they are: The most common biome — oak and birch trees, flowers, and
+plentiful wood.
+Resources: Wood, apples, and passive mobs; wolves can spawn in forest and
+taiga areas.
+Mobs: Hostile mobs spawn at night under the canopy, so light up your base.
+Why it matters: Forests are the classic starting biome: endless wood, flat
+build space nearby, and villages often generate in the neighboring plains.
+
+=== Plains ===
+Game: Minecraft
+Category: Biomes
+What they are: Wide open grasslands with few trees and gentle hills.
+Resources: Grass, animals (horses and cows spawn here), and flowers.
+Structures: Villages commonly generate in plains, along with the occasional
+ruined portal.
+Survival: Open sight lines make night travel safer, but there is little cover
+from skeletons — keep a shield ready and bed down in a village house.
+
+=== Deserts ===
+Game: Minecraft
+Category: Biomes
+What they are: Hot, treeless sand deserts with cacti and dead bushes.
+Resources: Sand for glass and smelting, cactus for green dye, and no wood at
+all — bring your own planks.
+Structures: Desert temples hide loot chambers under a TNT trap, and desert
+villages generate on the sand.
+Mobs: Husks (zombies that do not burn in sunlight) replace normal zombies, so
+days are not safe here.
+Survival: Never break the sand pillar under a desert temple's colored floor
+without checking for the TNT and pressure-plate trap beneath it.
+
+=== Jungles ===
+Game: Minecraft
+Category: Biomes
+What they are: Dense, tall jungles with giant trees, vines, and thick canopy.
+Resources: Cocoa beans, melons, bamboo, and parrots; jungle temples hide
+redstone puzzles and loot.
+Mobs: Ocelots and parrots appear here; hostile mobs spawn under the thick
+shade.
+Survival: Visibility is poor — cut a path or climb above the canopy, and mark
+your way with torches so you can find your base again.
+
+=== Taiga and Snowy Biomes ===
+Game: Minecraft
+Category: Biomes
+What they are: Spruce forests, sweet berry bushes, and snowy variants with
+frozen rivers and wolves.
+Resources: Spruce wood, sweet berries (an easy early food), and snow for
+snowballs.
+Structures: Villages generate in taigas, and ruined portals dot snowy areas.
+Survival: Snow and hills slow travel; carry food and a bed, and watch for
+strays (skeleton variants) that fire slowness arrows.
+
+=== Mountains ===
+Game: Minecraft
+Category: Biomes
+What they are: High peaks, steep cliffs, and snow-capped ranges (meadows,
+groves, snowy slopes, jagged peaks).
+Resources: Emerald ore generates only in mountain biomes, plus generous iron
+exposed in the cliffs.
+Mobs: Goats roam the peaks and can knock you off ledges.
+Survival: Never dig at your feet on a cliff edge, carry a water bucket for
+long drops, and build fences around high bases.
+
+=== Swamps ===
+Game: Minecraft
+Category: Biomes
+What they are: Murky, flat wetlands with lily pads, shallow water, and
+mushrooms.
+Resources: Clay, mushrooms, and slime — slimes spawn in swamps at night and
+in swamp chunks underground.
+Structures: Witch huts generate in swamps and belong to witches.
+Survival: Movement is slow in water; craft a boat, keep weapons ready for
+slimes, and light up any hut you claim as a base.
+
+=== Ocean Biomes ===
+Game: Minecraft
+Category: Biomes
+What they are: Oceans range from lukewarm to frozen, with kelp forests,
+coral reefs in warm variants, and deep trenches.
+Structures: Shipwrecks (with treasure and explorer maps), ocean ruins,
+drowned-guarded monuments, and buried treasure on beaches found via maps.
+Resources: Kelp, fish, sand, gravel, clay, and prismarine from monuments.
+Mobs: Drowned rise from the depths; dolphins and fish swim everywhere.
+Survival: Carry a boat and water breathing potions for long dives, and block
+yourself into a shipwreck at night rather than swimming in the open.
+
+=== Badlands ===
+Game: Minecraft
+Category: Biomes
+What they are: Layered red, orange, and white terracotta plateaus with mineshafts exposed on the surface.
+Resources: Terracotta and hardened clay for building, extra gold ore
+throughout, and abandoned mineshafts with wooden supports full of loot.
+Mobs: Standard hostile mobs at night; no villages generate here.
+Survival: Easy to get lost among the canyons — build landmarks, and bring
+plenty of torches when exploring the exposed mineshafts.
+
+=== Nether Biomes ===
+Game: Minecraft
+Category: Biomes
+What they are: The Nether has four main biomes:
+- Nether Wastes: Classic hellish terrain with zombified piglins, quartz ore,
+  nether gold ore, and fortresses.
+- Crimson Forest: Red crimson trees, hoglins, piglins, and fungi; hug the
+  fungi lines to keep hoglins away.
+- Warped Forest: Blue warped growth that spawns mostly endermen — the safest
+  Nether biome to pause in; collect ender pearls here.
+- Soul Sand Valley: Soul sand and soul soil with bone-fossil walls; ghasts
+  hover over the open caverns and the soul sand itself slows your movement, so
+  watch your step and keep cover overhead.
+- Basalt Deltas: Jagged basalt and blackstone with magma cubes everywhere and
+  lava pockets between nearly every safe step.
+Survival: Never sleep, always carry fire resistance, wear gold for piglins,
+and build bridges with a wall on one side.
+
+=== The End Biomes ===
+Game: Minecraft
+Category: Biomes
+What they are: The End splits into the central island (where the dragon
+fights) and the outer islands, divided into End Highlands, End Midlands, and
+End Barrens.
+Resources: Chorus fruit on the outer islands, End cities with enchanted loot,
+and end ships holding elytra.
+Mobs: Endermen everywhere (neutral unless looked at) and shulkers in the
+cities.
+Survival: Bridge carefully between islands, wear a pumpkin or avoid eye
+contact, and bring firework rockets once you claim an elytra.
+
+=== Choosing a Starting Biome ===
+Game: Minecraft
+Category: Biomes
+Which biome should I start in?
+- Plains or forest: best all-round start — wood, flat ground, nearby villages.
+- Taiga: spruce wood, sweet berries, and villages.
+- Ocean shore: shipwrecks and buried treasure for fast early loot, but food is
+  scarcer.
+- Avoid starting in deserts or badlands until you have tools: no wood and
+  tougher mobs make the first night harder.

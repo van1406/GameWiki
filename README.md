@@ -106,16 +106,25 @@ GameWiki-AI/
 │
 ├── knowledge_base/          # ← put your game documents here
 │   ├── gta5/                #    (folder name = game id)
-│   │   ├── missions.txt
-│   │   ├── characters.txt
-│   │   ├── weapons.txt
-│   │   ├── vehicles.txt
-│   │   └── locations.txt
-│   └── minecraft/
-│       ├── mobs.txt
-│       ├── crafting.txt
-│       ├── items.txt
-│       └── mechanics.txt
+│   │   ├── missions.txt · mission_guides.txt · heists.txt
+│   │   ├── characters.txt · story.txt · wanted_level.txt
+│   │   ├── weapons.txt · vehicles.txt · locations.txt
+│   │   ├── businesses.txt · activities.txt
+│   │   └── gameplay_mechanics.txt
+│   ├── minecraft/            # 17 files — crafting, tools, armor, mining,
+│   │   ├── mobs.txt · biomes.txt · structures.txt
+│   │   ├── villagers.txt · farming.txt · enchanting.txt
+│   │   ├── potions.txt · redstone.txt · transportation.txt
+│   │   ├── items.txt · dimensions.txt · progression.txt
+│   │   └── mechanics.txt · crafting.txt · mining.txt · tools_weapons.txt · armor.txt
+│   └── forza_horizon_6/      # 20 files — overview, progression, campaign,
+│       ├── overview.txt · progression.txt · campaign.txt
+│       ├── cars.txt · car_classes.txt · car_recommendations.txt
+│       ├── tuning.txt · upgrades.txt · races.txt
+│       ├── locations.txt · japan_map.txt · multiplayer.txt
+│       ├── car_meets.txt · eventlab.txt · houses_and_garages.txt
+│       ├── festival_playlist.txt · rewards.txt
+│       └── gameplay_mechanics.txt · accessibility.txt · how_to_guides.txt
 │
 ├── vector_store/            # generated FAISS index (git-ignored)
 ├── .env.example             # configuration template
@@ -142,6 +151,13 @@ GameWiki-AI/
    - chunks from **other games are dropped** (game filtering)
    - chunks below `RETRIEVAL_MIN_SCORE` (default **0.30**) are dropped (relevance gate)
    - if **nothing survives → the standard not-found message is returned and the LLM is never called**
+   - the survivors are **re-ordered with an IDF-weighted lexical bonus**
+     (`RETRIEVAL_LEXICAL_WEIGHT`, default 0.45) that favours chunks covering the
+     question's distinctive words and section headings — this is what makes
+     different phrasings ("5-star" vs "lose the cops", "recipe for a torch" vs
+     "how do I craft a torch") land on the right section. It only re-orders
+     chunks that already passed the relevance gate; the gate itself always uses
+     the raw cosine score, so hallucination protection is unchanged
    - otherwise the top `RETRIEVAL_TOP_K` (default 4) chunks become the context
 3. **Generation**
    - the LLM receives a strict system prompt: answer *only* from the context, never invent
@@ -226,6 +242,19 @@ npm run dev          # from frontend/
 ```
 
 Open **http://localhost:5173** — the Vite dev server proxies `/api` → `localhost:8000`.
+Each game keeps its **own chat history** — switching the game selector shows that
+game's conversation (or a fresh empty one), and *Clear chat* empties only the
+currently selected game.
+
+### Tests
+
+```bash
+python backend/test_pipeline.py        # RAG pipeline + guardrail checks
+python backend/test_questions.py       # end-to-end question suite (live LLM)
+python backend/test_questions.py --extractive   # offline retrieval-only run
+npm test                               # per-game chat state (from frontend/)
+node tests/ui_e2e.mjs                  # browser E2E of chat separation
+                                       # (needs dev servers + headless Chrome)
 
 ### API endpoints
 
@@ -269,6 +298,7 @@ All configuration lives in `.env` (copy it from `.env.example`). **Never hard-co
 | `LLM_API_BASE` | optional base URL override, e.g. `https://openrouter.ai/api/v1` |
 | `RETRIEVAL_MIN_SCORE` | cosine threshold 0–1, default `0.30` (raise to be stricter) |
 | `RETRIEVAL_TOP_K` | how many chunks are passed to the LLM, default `4` |
+| `RETRIEVAL_LEXICAL_WEIGHT` | strength of the phrasing/section re-ranking bonus, default `0.45` (`0` = pure embedding ranking) |
 | `EMBEDDING_MODEL` | default `sentence-transformers/all-MiniLM-L6-v2` |
 
 **Free options:**
@@ -295,6 +325,12 @@ All configuration lives in `.env` (copy it from `.env.example`). **Never hard-co
 * How do I defeat the Ender Dragon?
 * What do creepers drop?
 * How do I get netherite?
+
+**Forza Horizon 6**
+* How do I unlock Legend Island?
+* What are Wristbands?
+* What is the best drift car?
+* What are Touge Battles?
 
 **Try the guardrail too** (should return the not-found message):
 * *Who is the president of France?* → nothing in the knowledge base is remotely about

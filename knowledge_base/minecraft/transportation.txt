@@ -1,0 +1,87 @@
+# Minecraft — Transportation
+
+Boats, minecarts, horses, Nether travel, and elytra — the ways to get around
+and when to use each one.
+
+=== Boats ===
+Game: Minecraft
+Category: Transportation
+Materials: Wooden planks of a matching wood type.
+How to Craft: Five planks in a boat shape (two rows with the ends raised) in
+a crafting table — the recipe book shows the pattern.
+How to use: Place the boat in water, right-click to ride, and row with the
+movement keys; boats carry you and one passenger, and they also work on land,
+just slowly.
+Uses: Crossing oceans, exploring shipwrecks, and — packed with blue ice —
+the fastest ground travel in the game (ice-boat roads beat every other
+overland method).
+Tips: Craft a boat before your first ocean trip; a boat also saves you from
+drowning when your health is low in deep water.
+
+=== Minecarts and Rails ===
+Game: Minecraft
+Category: Transportation
+Materials: Minecart = 5 iron ingots in a U shape; rails = iron ingots and
+sticks; powered rails = gold ingots, sticks, and redstone; detector rails and
+activator rails add redstone behavior.
+How to use: Place rails on solid blocks, set minecarts down, and push to
+ride. Powered rails need a redstone signal (lever or torch) to boost carts;
+place one roughly every 8-9 powered rails on flat ground to keep speed.
+Uses: Minecart elevators, item transport lines with hopper minecarts, mob
+farms, and base-to-base rail links.
+Tips: A minecart with furnace (crafted from a furnace and a minecart) burns
+coal to pull itself and other carts along a line. Build stations with a
+powered rail at the stop so the cart launches on the way out.
+
+=== Horses and Mounts ===
+Game: Minecraft
+Category: Transportation
+How to obtain: Horses spawn in plains and savannas; tame one by repeatedly
+riding it until it accepts you (hearts appear), then equip a saddle and,
+optionally, horse armor.
+Behavior: Horses vary in speed, jump height, and health — keep the fast,
+high-jumping ones. Donkeys carry a chest for extra storage, llamas carry
+carpets and can be led in caravans, and pigs can be ridden with a carrot on a
+stick.
+Uses: Fast, fuel-free Overworld travel; horses ignore roads and climb hills.
+Tips: Always keep a saddle — it is the only item that makes a horse
+controllable, and it can be moved between mounts.
+
+=== Nether Travel ===
+Game: Minecraft
+Category: Transportation
+How does Nether travel work? One block in the Nether equals eight blocks in
+the Overworld, so a short Nether trip covers huge Overworld distances.
+How to do it safely: Build an enclosed highway from your portal — walls and a
+roof keep ghasts out, and a floor of packed or blue ice with a boat (or
+soul speed boots on soul sand) makes you extremely fast. Place your return
+portal at the matching coordinates to the destination so both portals link
+directly.
+Tips: Carry fire resistance potions, a flint and steel for relighting portals,
+and mark tunnels with cobblestone so you never lose the route.
+
+=== Elytra and Firework Rockets ===
+Game: Minecraft
+Category: Transportation
+How to get one: Elytra come from the end ship moored next to End cities after
+the Ender Dragon falls — bridge through an end gateway, spot the ship, and
+take the wings from their item frame.
+How to fly: Equip the elytra in the chestplate slot, jump from a height, and
+press jump again to glide; use a firework rocket (crafted from paper,
+gunpowder, and optionally dyes) while gliding to boost speed and climb.
+Uses: The fastest and most flexible travel in the game — base hopping,
+exploring, and quick returns from the Nether or caves.
+Tips: Bring Mending and Unbreaking on the wings, keep a stack of rockets in
+your hotbar, and land on water or use slow falling when your boost runs out.
+
+=== Choosing a Transportation Method ===
+Game: Minecraft
+Category: Transportation
+Which travel method should I use?
+- Early game: walk and boat — boats for any water crossing.
+- Mid game: horses for speed across land, rails for fixed base links.
+- Nether phase: an ice-boat highway or powered rail tunnel through the Nether
+  for continent-scale fast travel.
+- End game: elytra with firework rockets — fly anywhere, carry everything.
+Practical tip: Whichever you pick, keep a spare boat and a bed in your
+inventory: water and night are the two things that stop every journey.

@@ -1,0 +1,122 @@
+# Forza Horizon 6 — Progression and Wristbands
+
+The three progression paths (Wristbands, Stamps and Horizon Play), how the
+Wristband system and Horizon Qualifiers work, and how players level up.
+
+=== Progression Paths ===
+Game: Forza Horizon 6
+Category: Progression
+Forza Horizon 6 has three main progression paths that run alongside each
+other:
+1. Wristbands — the campaign path through the Horizon Festival: complete
+   races and special events to earn new Wristbands and access faster car
+   classes.
+2. Stamps — the Discover Japan path: everything you find, photograph and
+   collect in Japan earns Stamps for your Collection Journal.
+3. Horizon Play — the multiplayer path: play online game modes to earn XP,
+   ranks and Badges.
+These sit on top of the standard player levelling and prestige system that
+represents your overall dedication to the game.
+
+=== Wristbands ===
+Game: Forza Horizon 6
+Category: Progression
+Wristbands are your ticket to be invited to new events at the Horizon
+Festival, and each new Wristband lets you take part in races with higher car
+class restrictions. You earn them by completing races, events and stunts in
+the campaign. There are 7 Festival Wristbands to earn in total, running from
+the first Yellow Wristband up to the coveted Gold Wristband; among the tiers
+documented here are Yellow, Green, Orange (the Expert Wristband) and Blue,
+with the final tier being the Gold Wristband that marks you as a Horizon
+Legend. Once you have accumulated enough progress, a new Wristband Event
+becomes available — these are special events such as Showcase Events and new
+Horizon Rush obstacle challenges, and you must complete them to obtain your
+next Wristband.
+
+=== How Wristbands Work ===
+Game: Forza Horizon 6
+Category: Progression
+How do Wristbands work? Your campaign progress is measured in Horizon
+Festival Points. Racing in official festival events (Road, Dirt and Cross
+Country Races, Time Attack Circuits, Drag Meets, PR Stunts and Bonus Boards)
+earns you points; when you have accumulated enough, a new Wristband Event
+unlocks. Complete that special event — a Showcase or a Horizon Rush
+challenge — and you are awarded the next Wristband, which opens up invites
+to events with faster car class restrictions. In total there are 7
+Wristbands, and the 7th (Gold) unlocks Legend Island. To receive your very
+first Wristband you must complete the Horizon Qualifiers and the Horizon
+Invitational.
+
+=== Horizon Qualifiers ===
+Game: Forza Horizon 6
+Category: Progression
+What are the Horizon Qualifiers? The Horizon Qualifiers are the entry events
+you must complete as a tourist before the Horizon Festival will accept you.
+Together with the Horizon Invitational, they are the two steps that earn you
+your first Wristband and let you join the festival as a rookie driver. The
+game's introduction takes you through these opening events — including a
+race to the Urakawa Space Center — before the rest of the campaign opens up.
+
+=== Horizon Invitational ===
+Game: Forza Horizon 6
+Category: Progression
+The Horizon Invitational is the final qualifier event that decides whether
+you join the Horizon Festival. You must complete both the Horizon
+Qualifiers and the Horizon Invitational to receive your first Wristband and
+become a rookie festival driver.
+
+=== Earning Horizon Festival Points ===
+Game: Forza Horizon 6
+Category: Progression
+How do I earn Festival Points? Horizon Festival Points come from everything
+in the festival campaign: finishing Road, Dirt and Cross Country races,
+Time Attack Circuits, Drag Meets, PR Stunts and Bonus Boards, plus the
+special Wristband Events. Every Horizon Play level you reach (up to level
+25) also grants Horizon Festival Points towards your next Wristband, and
+other Horizon Play rewards can boost your campaign progression too. As a
+reference point, reaching 32,500 points on the Horizon Festival progression
+path unlocks the Horizon Legend wristband event that leads to Legend Island.
+
+=== Stamps and the Collection Journal ===
+Game: Forza Horizon 6
+Category: Progression
+Everything you find in Japan earns progress towards your next Stamp. That
+includes collecting and customising cars, photographing murals, smashing
+mascots, finding landmarks, joining Mei on her day tours of Japan, completing
+Street and Touge Races, and earning additional income at the Raku-Raku food
+delivery job. Collecting Stamps for your Collection Journal unlocks Barn Find
+Rumors and new homes to buy around Japan. There are 7 Stamps to obtain in
+Discover Japan, inspired by Japan's long-standing tradition of recording
+one's journey — a physical "proof of visit" that visualises your memories of
+the trip. After you obtain your first Stamp, Mei introduces you to her
+grandparent's long-abandoned Estate, where you can build in the open world.
+
+=== Horizon Play Progression ===
+Game: Forza Horizon 6
+Category: Progression
+How does Horizon Play progression work? Horizon Play — the suite of online
+game modes — has its own levelling system. You earn XP simply by playing
+Horizon Play modes and obtain a new Badge for every 10 ranks you achieve, up
+to Level 100. You also unlock extra Badges by completing a set number of
+each type of Horizon Play mode and by earning Skills. Horizon Play has its
+own Series Standing Leaderboards for each game mode, and they reset whenever
+a new Festival Playlist Series begins. Progression crossover: each Horizon
+Play level up to Level 25 grants Horizon Festival Points towards your next
+Wristband.
+
+=== Player Level and Prestige ===
+Game: Forza Horizon 6
+Category: Progression
+Alongside the three main paths, Forza Horizon 6 keeps the standard player
+levelling and prestige system from previous Horizon games, which represents
+your overall dedication to playing regardless of which activity you prefer.
+
+=== Wheelspins ===
+Game: Forza Horizon 6
+Category: Progression
+When do I get Wheelspins? Wheelspins return in Forza Horizon 6, but you can
+only obtain them once you have qualified for the Horizon Festival — that is,
+after completing the Horizon Qualifiers and the Horizon Invitational. They
+have been rebalanced to be rarer to earn throughout the game and more
+rewarding when you do spin them, and Super Wheelspins are especially rare.
+Wheelspins are also handed out as rewards in the Festival Playlist.

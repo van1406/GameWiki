@@ -12,6 +12,12 @@ export const EXAMPLE_QUESTIONS = {
     'What do creepers drop?',
     'How do I get netherite?',
   ],
+  forza_horizon_6: [
+    'How do I unlock Legend Island?',
+    'What are Wristbands?',
+    'What is the best drift car?',
+    'What are Touge Battles?',
+  ],
 }
 
 const DEFAULT_EXAMPLES = [

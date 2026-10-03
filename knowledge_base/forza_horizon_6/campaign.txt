@@ -1,0 +1,143 @@
+# Forza Horizon 6 — Campaign, Events and Legend Island
+
+How the campaign flows from tourist to Horizon Legend, what Showcase and
+Horizon Rush events are, and how the endgame on Legend Island unlocks.
+
+=== Campaign ===
+Game: Forza Horizon 6
+Category: Campaign
+How does the campaign work? The Forza Horizon 6 campaign is similar to the
+original Forza Horizon: you start as a tourist exploring Japan rather than a
+Horizon Superstar or rookie driver. First you complete a qualifier to join
+the Horizon Festival. After that you work your way up the ranks by racing in
+faster and faster cars, which earns you new Wristbands. After each round of
+racing you must complete a special event — such as a Showcase event or a
+Horizon Rush event — to prove you are ready for the next stage. Alongside
+the racing you are free to explore Japan, fill your Collection Journal with
+Stamps, and take on side activities such as Day Trips, food delivery jobs
+and car meets.
+
+=== How Do I Progress Through the Campaign ===
+Game: Forza Horizon 6
+Category: Campaign
+How do I progress through the campaign? Follow these steps:
+1. Complete the Horizon Qualifiers and the Horizon Invitational to join the
+   festival and earn your first Wristband.
+2. Race in official festival events — Road, Dirt and Cross Country races,
+   Time Attack Circuits, Drag Meets, PR Stunts and Bonus Boards — to earn
+   Horizon Festival Points.
+3. When enough points are banked, a Wristband Event unlocks: a Showcase
+   Event or a Horizon Rush obstacle challenge. Complete it to earn the next
+   Wristband and invites to faster events.
+4. Repeat the loop, using the higher-class events and prize credits to buy
+   and upgrade faster cars.
+5. Reach 32,500 points on the Horizon Festival path to unlock the Horizon
+   Legend wristband event, which takes you to Legend Island and opens the
+   endgame races.
+After completing a race for the first time, the Race Customizer unlocks for
+that event, letting you replay it with any car in your garage.
+
+=== Horizon Festival Events ===
+Game: Forza Horizon 6
+Category: Campaign
+What events can I play in the campaign? Official events of the Horizon
+Festival include Road, Dirt and Cross Country Races, each with specialised
+car themes, as well as Time Attack Circuits, Drag Meets, PR Stunts and Bonus
+Boards. On top of those you will find Street Races, Touge Battles, Day Trip
+missions, Showcase Events, Horizon Rush challenges, Rivals, and the seasonal
+content in the Festival Playlist. Events specify a car class (for example D,
+C, B, A, S1 or S2), and higher Wristbands open invites to events with higher
+class restrictions.
+
+=== Wristband Events ===
+Game: Forza Horizon 6
+Category: Campaign
+What is a Wristband Event? Once you have accumulated enough progress, a new
+Wristband Event becomes available. These are the special events you must
+complete to obtain your next Wristband: the classic Showcase Events and the
+new Horizon Rush obstacle challenges. They act as the gate between Wristband
+tiers, so when the campaign seems to stall, look for the Wristband Event
+marker rather than more ordinary races.
+
+=== Race Customizer ===
+Game: Forza Horizon 6
+Category: Campaign
+After a race has been completed for the first time, the Race Customizer
+unlocks for that specific event. On subsequent replays you can use any car
+in your garage (not just cars that meet the original restriction) and
+customise the experience in other ways before starting the race.
+
+=== Horizon Showcase Events ===
+Game: Forza Horizon 6
+Category: Campaign
+What is a Showcase event? Showcase Events are the large, cinematic special
+races of the Horizon series, and in Forza Horizon 6 they are one of the two
+types of Wristband Events you must complete to advance. A documented FH6
+example is the "Mech My Day" showcase, in which an Acura NSX races against
+Chaser Zero, an in-game mecha. Showcases are handed out as proof that you
+are ready for the next stage of the festival.
+
+=== Horizon Rush ===
+Game: Forza Horizon 6
+Category: Campaign
+What is Horizon Rush? Horizon Rush is a new event type in Forza Horizon 6
+where you show off your skills on various obstacles — they are obstacle
+challenges designed to be played over and over. Like Showcase Events,
+Horizon Rush events are Wristband Events you must complete to obtain your
+next Wristband, and they also appear as standalone activities — festival
+challenges routinely ask you to simply "complete a Horizon Rush event".
+
+=== Day Trips ===
+Game: Forza Horizon 6
+Category: Campaign
+Day Trip missions are bite-sized pieces of content scattered around the map,
+inspired by the things visitors to Japan often do, with a Horizon twist.
+They are part of the Discover Japan structure and lead you to tourist hot
+spots such as Ruriko-ji Temple and Hirosaki Castle, rewarding you for
+exploring.
+
+=== Legend Island ===
+Game: Forza Horizon 6
+Category: Campaign
+What is Legend Island? Legend Island is an exclusive region of the map,
+located directly east of Tokyo Docks, that opens once you earn the Gold
+Wristband and reach Horizon Legend status. It is reserved for the greatest
+drivers and features special events, exclusive areas, the Legends Island
+Circuit — a full R-class race around the island — and a second Horizon
+Festival Site. The island is also the starting point for the biggest races
+in the game, including the longest Goliath race yet.
+
+=== How Do I Unlock Legend Island ===
+Game: Forza Horizon 6
+Category: Campaign
+How do I unlock Legend Island? Do the following:
+1. Bank 32,500 points on the Horizon Festival progression path.
+2. That unlocks the Horizon Legend wristband event, which starts from the
+   same airfield as the Flight Club event that unlocked the Orange Expert
+   Wristband.
+3. Take the non-timed, non-competitive drive down to Legend Island, an
+   island directly east of Tokyo Docks, joined by the cast of characters
+   from Forza Horizon 6 and previous entries in the series. You are given a
+   Lamborghini Aventador LP 780-4 Ultimate for the journey and you keep it
+   once the race is over.
+4. After the drive you receive the Gold Wristband: you are a Horizon Legend
+   and Legend Island, its events and the huge endgame races are now open.
+
+=== Legend Island Races ===
+Game: Forza Horizon 6
+Category: Campaign
+What races does the Gold Wristband unlock? The Gold Wristband opens a group
+of enormous races echoing Forza Horizon 5's Goliath, one for each festival
+discipline:
+- The Goliath — a road racing loop around the perimeter of the entire map,
+  starting from Legend Island, for R-class cars; long straights and
+  snake-like mountain roads, and a ton of credits as the reward.
+- The Colossus — a high-speed road race on the game's Highway Loop starting
+  from Shimanoyama, limited to S2 cars, spent almost entirely above 200 mph.
+- The Titan — the largest cross-country race in the game, starting in
+  Ohtani and crossing rough terrain through many biomes, restricted to
+  Total Buggies & Offroad cars.
+- The Gauntlet — the biggest dirt race, starting in Takashiro and covering
+  Sotoyama and Hokubu, restricted to Rally Monsters.
+On Legend Island itself, the headline event is a R-class race around the
+Legend Island Circuit.

@@ -1,0 +1,209 @@
+# Forza Horizon 6 — Practical How-To Guides
+
+Direct answers to the common practical questions, phrased the way players
+ask them.
+
+=== How Do I Unlock Legend Island ===
+Game: Forza Horizon 6
+Category: Guides
+How do I unlock Legend Island? Bank 32,500 points on the Horizon Festival
+progression path, which unlocks the Horizon Legend wristband event. Drive
+from the airfield (the same one used for the Flight Club event) down to
+Legend Island, an island directly east of Tokyo Docks — the trip is a
+non-competitive celebration drive with the cast of characters, and you are
+given a Lamborghini Aventador LP 780-4 Ultimate that you keep. Finish it
+and you receive the Gold Wristband: Legend Island, the Legends Island
+Circuit and the huge endgame races (The Goliath, Colossus, Titan and
+Gauntlet) are now open to you.
+
+=== How Do I Get a New Car ===
+Game: Forza Horizon 6
+Category: Guides
+How do I get a new car? Buy it at the Autoshow with credits, bid for it at
+the Auction House, win it from races, Championships or the Festival
+Playlist, roll it from a Wheelspin (available after you qualify for the
+festival), find a rare Forza Edition or Aftermarket Car parked in the world
+and buy it discounted, receive it as a loyalty or Gift Drop reward, or get
+it weekly from the Car Pass if you own it. Your three free starter cars
+come after the introduction.
+
+=== How Do I Buy Cars ===
+Game: Forza Horizon 6
+Category: Guides
+How do I buy cars? The Autoshow is the standard way: browse the catalogue
+and pay credits. The Auction House lets you bid on other players' cars,
+often below Autoshow prices. Aftermarket Cars parked around the world can
+be test-driven then bought at a discount compared to the Autoshow. You
+also "buy" progress-based cars by spending Festival Playlist points rather
+than credits.
+
+=== How Do I Tune My Car ===
+Game: Forza Horizon 6
+Category: Guides
+How do I tune my car? Install upgrade parts that unlock tuning sliders (the
+big one is Race Springs & Dampers, plus Race anti-roll bars and Race
+brakes), open the Tune menu, then adjust tire pressure, gearing, alignment
+(camber, toe, caster), spring rates, ride height, damping (bump/rebound),
+anti-roll bar stiffness and brake balance/pressure. Test, then adjust by
+feel: understeer means soften the front, oversteer means soften the rear.
+If you would rather not tune yourself, download a community tune — at Car
+Meets you can even take a full copy of another player's car.
+
+=== How Do I Upgrade My Car ===
+Game: Forza Horizon 6
+Category: Guides
+How do I upgrade my car? Use the Upgrade Shop: Platform & Handling parts
+(springs and dampers, anti-roll bars, brakes, weight reduction, chassis
+reinforcement), drivetrain parts, tires, and aero — plus conversions
+(engine swaps, drivetrain conversions, body kits). Watch the Performance
+Index so you stay in the class you want to race, fit Race-tier parts where
+you want tuning sliders, and remember weight reduction is the upgrade that
+improves acceleration, braking and cornering at once.
+
+=== How Do I Join a Convoy ===
+Game: Forza Horizon 6
+Category: Guides
+How do I join a Convoy? Open the pause menu, go to the Online tab, select
+Convoy and Create Convoy, then invite friends from your friends list — they
+accept the invitation and appear with you. Or, if you are invited, click
+the invitation notification and agree to it to join theirs. On PC (Steam)
+you can also Shift+Tab to the friends list, right-click a friend in a
+Convoy and choose Join Game.
+
+=== What Are Touge Battles ===
+Game: Forza Horizon 6
+Category: Guides
+What are Touge Battles? Touge Battles are new Forza Horizon 6 events where
+you race down a Japanese hillside at night — mountain-pass racing inspired
+by Japan's touge culture. They also feed your Collection Journal (completing
+Street and Touge Races earns Stamps) and appear in Festival Playlist
+challenges. For multiplayer, Touge Showdown runs two-player head-to-head
+championships of three races. The documented top pick for touge is the
+Nissan S15 Silvia WTAC, thanks to its outstanding handling and braking.
+
+=== How Do I Participate in Drag Meets ===
+Game: Forza Horizon 6
+Category: Guides
+How do I participate in Drag Meets? Drive to a Drag Meet location — they
+are open-world, and one is documented at the Urakawa Space Center — and
+line up: Drag Meets hold up to twelve players, use a synchronized start
+tree, and track in-game leaderboards. Drag Meets are also official festival
+activities that earn Wristband progress, and they appear in the Festival
+Playlist Horizon Life schedule with class and time targets (for example S1
+class, 11.000 seconds at the Irokawa Quarter Mile). Bring a car with strong
+Launch and Acceleration.
+
+=== How Does the Festival Playlist Work ===
+Game: Forza Horizon 6
+Category: Guides
+How does the Festival Playlist work? Each season rotates a set of events
+and challenges — Weekly and Daily challenges, Photo Challenges, Treasure
+Hunts, Championships, PR stunt targets, Time Attack/Drag Meet targets,
+Horizon Life and Horizon Play challenges. Completing them earns playlist
+points; points unlock Season Rewards at low thresholds (15/30 in Series 01)
+and Series Rewards at high thresholds (60/120). Rewards are exclusive to
+their season, so grab them before the playlist rotates. A new Series starts
+fresh (Series 01 "Welcome To Japan", then Series 02 "Horizon Decades") and
+resets the series leaderboards.
+
+=== How Do I Earn Reward Cars ===
+Game: Forza Horizon 6
+Category: Guides
+How do I earn reward cars? Push playlist points for Season and Series
+rewards, win Championships for their listed car, complete Horizon Play
+challenge goals, progress your Wristbands (the Porsche 911 Rallye comes
+with the Orange Expert Wristband; the Aventador Ultimate comes with the
+Horizon Legend event), claim loyalty cars if you played previous Forza
+games, watch for community Gift Cars, and collect weekly Car Pass cars if
+you own it.
+
+=== What Is EventLab ===
+Game: Forza Horizon 6
+Category: Guides
+What is EventLab? EventLab is the custom-event creation suite: build your
+own races and events from anywhere on the map, then share them in the
+always-evolving catalog of community content for everyone to play. Playing
+community events even counts as a festival challenge. The CoLab upgrade
+adds multiplayer building — see the next question.
+
+=== How Does CoLab Work ===
+Game: Forza Horizon 6
+Category: Guides
+How does CoLab work? Horizon CoLab is the upgraded EventLab toolset with
+multiplayer support: up to 12 players can join the creator and help build
+an event together — a "Horizon Co-LAB" — and you can build literally
+anywhere in Japan. Finished creations are shared for everyone to discover
+and play.
+
+=== Where Is Tokyo City ===
+Game: Forza Horizon 6
+Category: Guides
+Where is Tokyo City? Tokyo City is the largest urban area ever in a Forza
+Horizon game — five times bigger than previous titles' cities — and the
+home for car enthusiasts on the Japan map. It runs from suburban outskirts
+to neon downtown streets, the docks and industrial districts, with elevated
+highways above and famous spots inside: Shibuya Crossing, Ginkgo Avenue,
+Akihabara, Daikoku and Tokyo Tower. Legend Island sits directly east of the
+Tokyo Docks.
+
+=== What Is the Horizon Festival ===
+Game: Forza Horizon 6
+Category: Guides
+What is the Horizon Festival? It is the racing festival at the heart of
+Forza Horizon 6, held in Japan. You start as a tourist, qualify through the
+Horizon Qualifiers and Horizon Invitational, and join as a rookie driver.
+Official festival events are Road, Dirt and Cross Country races plus Time
+Attack Circuits, Drag Meets, PR Stunts and Bonus Boards; earning Wristbands
+rises you through its ranks until you become a Horizon Legend with access
+to Legend Island and its second festival site.
+
+=== What Are Wristbands ===
+Game: Forza Horizon 6
+Category: Guides
+What are Wristbands? Wristbands are the campaign's progression ranks —
+your ticket to invitations for higher car-class events at the Horizon
+Festival. There are seven, from the first Yellow Wristband up to the Gold
+Wristband (Horizon Legend). You earn Horizon Festival Points by racing
+official events, then complete a Wristband Event — a Showcase or Horizon
+Rush challenge — to claim the next band. Your first band requires
+completing the Horizon Qualifiers and the Horizon Invitational.
+
+=== How Do I Progress Through the Campaign ===
+Game: Forza Horizon 6
+Category: Guides
+How do I progress through the campaign? Qualify (Qualifiers +
+Invitational), race festival events for points, complete each Wristband
+Event when it unlocks, and keep climbing the seven Wristbands while
+upgrading to faster cars. Collect Stamps alongside this to unlock homes,
+Barn Finds and the Estate, and reach 32,500 festival points to trigger the
+Horizon Legend event that opens Legend Island and the endgame races.
+
+=== How Do Car Meets Work ===
+Game: Forza Horizon 6
+Category: Guides
+How do Car Meets work? They are open-world social spaces — three
+documented locations: the Horizon Festival, the Okuibuki parking area and
+Daikoku. Drive in, park up, and showcase your car and character; download
+other players' Tunes, Liveries and full cars; take photos; then group up
+and go driving or racing together. Drag Meets are the competitive
+straight-line sibling, with twelve players, a start tree and leaderboards.
+
+=== How Do I Customize My Garage ===
+Game: Forza Horizon 6
+Category: Guides
+How do I customize my garage? Player houses come with customizable
+garages: pick which cars to display, decorate the space freely, invite
+other players in to see it — or download a layout shared by the community
+instead of starting from scratch. Your garages also store your cars and
+double as fast travel points across Japan.
+
+=== How Do I Get Aftermarket Cars ===
+Game: Forza Horizon 6
+Category: Guides
+How do I get Aftermarket Cars? Find them in the open world: they are rare
+special cars parked at fixed set positions, placed to suit their location
+— near drag strips, around city events, downstream of Nachi Falls. Test
+drive before you buy; they cost less than the same car at the Autoshow, and
+purchasing one even counts towards festival challenges. Some Forza Edition
+cars appear the same way, such as the Mazda MX-5 Forza Edition near drag
+strips and city-based events.

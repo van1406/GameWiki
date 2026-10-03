@@ -1,0 +1,169 @@
+# Minecraft — Structures and Locations
+
+Every major structure: what it contains, how to find it, and why it is worth
+the trip.
+
+=== Villages ===
+Game: Minecraft
+Category: Structure
+What it contains: Houses with beds and chests of food, iron, saplings, and
+emeralds; farming plots; workstation blocks; villagers; and a defending iron
+golem.
+How to find: Villages generate in plains, savannas, deserts, taigas, snowy
+plains, and meadows — ride or walk across open land and look for paths and
+lamp posts.
+Why it is useful: The best early-game stop — free food and beds, a trading
+hub, job sites for professions, and a safe place to sleep through the night.
+
+=== Strongholds ===
+Game: Minecraft
+Category: Structure
+What it contains: A stone-brick maze with storerooms, a library full of books
+and chests, and — on the deepest level — the portal room holding the End
+portal, a silverfish spawner, and a lava pool.
+How to find: Craft eyes of ender from ender pearls and blaze powder, throw
+one, and follow it until it stops drifting sideways; dig down at that point.
+The stronghold spawns in rings around the world spawn, so it can be thousands
+of blocks away — bring food and a water bucket for the journey.
+Why it is useful: It is the only way to reach the End and fight the Ender
+Dragon.
+
+=== Nether Fortresses ===
+Game: Minecraft
+Category: Structure
+What it contains: Long nether-brick bridges and corridors with blaze spawners,
+nether wart gardens at the bases of stairs, wither skeletons, loot chests, and
+soul sand patches.
+How to find: Fortresses generate throughout the Nether; travel in straight
+lines from your portal across open caverns and watch for the dark brick
+silhouette against the orange terrain.
+Why it is useful: Blaze rods (needed for blaze powder, eyes of ender, brewing
+stands, and ender pearls) and nether wart come almost exclusively from
+fortresses, making them mandatory for progression.
+
+=== Bastion Remnants ===
+Game: Minecraft
+Category: Structure
+What it contains: Blackstone fortress ruins inhabited by piglins and piglin
+brutes, with treasure rooms full of gold blocks, gold coins, diamond and
+netherite-tier loot, and netherite upgrade smithing templates.
+How to find: Bastions generate in most Nether biomes; look for massive
+blackstone walls and bridges, especially in nether wastes and crimson forests.
+Why it is useful: The richest loot in the Nether and the source of netherite
+upgrade templates — but piglin brutes attack on sight no matter what you
+wear. Wear gold armor for the regular piglins, never mine gold in front of
+them, and bridge around the treasure rooms rather than rushing in.
+
+=== Woodland Mansions ===
+Game: Minecraft
+Category: Structure
+What it contains: A huge multi-floor dark-oak mansion filled with vindicators
+and evokers, hidden rooms, wool mazes, and chests with emeralds and totems.
+How to find: Buy a woodland explorer map from a cartographer villager and
+follow the marked forest location — mansions generate far from spawn in dark
+forests.
+Why it is useful: Evokers drop totems of undying (a second chance at death),
+and the mansion holds large emerald loot — but the vindicators deal massive
+damage, so bring diamond gear and a good shield.
+
+=== Ocean Monuments ===
+Game: Minecraft
+Category: Structure
+What it contains: A prismarine temple guarded by guardians and three elder
+guardians, with sea lanterns, prismarine blocks, sponge rooms, and a hidden
+core of gold blocks.
+How to find: Buy an ocean explorer map from a cartographer villager and dive
+at the marked spot — monuments generate in deep oceans.
+Why it is useful: Sea lanterns, prismarine, wet sponges, and a hidden core of
+gold blocks — guardians drop prismarine shards and crystals used to craft sea
+lanterns. Elder guardians inflict Mining Fatigue, so kill them first or mine
+nothing at all. Bring water breathing potions and a solid sword.
+
+=== Ancient Cities ===
+Game: Minecraft
+Category: Structure
+What it contains: A massive dark city of deepslate at the bottom of the
+Overworld (around y -50), built around sculk growth, loot chests containing
+swift sneak books, echo shards, and disc fragments, and a central portal
+structure.
+How to find: Ancient cities generate deep underground beneath mountain and
+plains regions — dig down where the surface tells you the deep dark lies, or
+follow cave systems to the lowest levels.
+Why it is useful: Unique loot you cannot get anywhere else — but sculk
+shriekers summon the Warden, which senses vibrations and kills in one or two
+hits. Sneak everywhere, and walk on wool blocks or carpet paths since wool
+muffles your footsteps from the Warden's senses. If the Warden rises, run;
+it is meant to be survived, not fought.
+
+=== Desert Temples ===
+Game: Minecraft
+Category: Structure
+What it contains: A sandstone pyramid with a colored terracotta pattern and
+four loot chests in a hidden chamber beneath the floor.
+How to find: They generate on the surface of desert biomes — spot the orange
+and blue pattern above the dunes.
+Why it is useful: Chests can hold diamonds, emeralds, and horse armor — but
+the floor hides a stone pressure plate on TNT. Drop down the central hole
+slowly, mine the TNT or step around the plate, then loot the four side
+chests.
+
+=== Jungle Temples ===
+Game: Minecraft
+Category: Structure
+What it contains: A mossy stone-brick temple with a lever puzzle that opens a
+hidden room, an arrow-trap corridor, and chests with emeralds, diamonds, and
+lapis.
+How to find: They generate hidden in jungle biomes — watch for mossy stone
+peeking through the leaves.
+Why it is useful: Free loot plus a fun puzzle; the hidden room opens by
+pulling the correct combination of levers on the wall.
+
+=== End Cities ===
+Game: Minecraft
+Category: Structure
+What it contains: Tall purpur towers and terraces on the outer End islands,
+guarded by shulkers, with chests of enchanted diamond and netherite-tier
+loot, iron, diamonds, and shulker shells — and end ships moored nearby that
+hold the elytra.
+How to find: After defeating the Ender Dragon, an end gateway portal appears
+on the island edge; throw an ender pearl or build across into it, then bridge
+between outer islands and watch for the purple towers on the horizon.
+Why it is useful: The elytra (from the end ship) is the game's best
+transportation, and the cities are the main source of enchanted endgame loot.
+
+=== Abandoned Mineshafts ===
+Game: Minecraft
+Category: Structure
+What it contains: Wooden-support tunnels with rails, minecart chests holding
+rails, melon seeds, iron, and diamonds, plus cobwebs and cave spiders.
+How to find: They generate throughout the Overworld underground; exposed
+mineshafts also appear on the surface in badlands biomes.
+Why it is useful: Easy early loot and a ready-made tunnel network — but cave
+spiders poison, so light it up section by section and watch the webs.
+
+=== Trial Chambers ===
+Game: Minecraft
+Category: Structure
+What it contains: A copper-decorated underground dungeon with trial spawners,
+vaults that dispense loot, dispensers, and the breeze — a wind mob that fires
+wind charges.
+How to find: Trial chambers generate randomly in the Overworld underground
+(added in the 1.21 update); they are not sold on maps, so caving or exploring
+deep tunnels finds them.
+Why it is useful: Vault loot includes emeralds, diamonds, breeze rods, and
+exclusive rewards such as the flow and bolt armor trims; the combat trial is a
+good mid-game gear check. Bring a shield for the breeze's wind charges and
+food for the spawner waves.
+
+=== How to Find Structures ===
+Game: Minecraft
+Category: Structure
+What is the fastest way to find each structure?
+- Stronghold, woodland mansion, ocean monument: buy explorer maps from
+  cartographer villagers and follow them.
+- Villages, ruined portals, desert temples: explore during the day and watch
+  the horizon for paths, lamp posts, and sandstone pyramids.
+- Nether fortress, bastion: travel in straight lines from your Nether portal
+  and mark the path with cobblestone.
+- End cities: after the dragon, take the end gateway and bridge outward.
+- Trial chambers and ancient cities: dig deep and explore below y 0.

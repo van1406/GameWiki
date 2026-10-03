@@ -1,0 +1,168 @@
+# Minecraft — Tools and Weapons
+
+Every tool and weapon type: how to craft it, how it performs, durability, and
+how the tool progression works.
+
+=== Tool Tiers and Progression ===
+Game: Minecraft
+Category: Tools and Weapons
+Tool tiers from lowest to highest: wood, stone, iron, golden, diamond,
+netherite. Progression: punch a tree for wood → wooden pickaxe → stone →
+mine coal and iron → iron tools → find diamonds → diamond tools → upgrade to
+netherite at a smithing table. Each higher tier mines faster, lasts longer,
+and unlocks harder blocks. Wooden tools come from planks, stone tools from
+cobblestone, iron from iron ingots, diamond from diamonds; netherite tools are
+made by upgrading diamond tools, not from scratch.
+
+=== Pickaxes ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: 3 tool-tier items (planks, cobblestone, iron ingots, diamonds) + 2
+sticks.
+Recipe: Three material blocks across the top row, two sticks stacked in the
+middle column below them.
+How to Craft: In a crafting table, fill the top row with the material, then
+place sticks in the center and bottom-center slots.
+Uses: The pickaxe mines stone, ores, and most hard blocks. Its tier decides
+which ores drop items, so the pickaxe is the single most important tool.
+Tips: Keep a Silk Touch pickaxe for ore blocks and a Fortune pickaxe for
+breaking them later.
+
+=== Axes ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: 3 tool-tier items + 2 sticks.
+Recipe: Material blocks in the top-left corner pattern with two sticks below.
+How to Craft: Place three material blocks in the top-left corner of the
+crafting grid (two in the top row, one under the left one) and sticks in the
+middle and bottom-center slots.
+Uses: Chops logs and wooden blocks much faster than any other tool, strips
+bark from logs for decorative wood, and doubles as a heavy-hitting weapon with
+slow swings. Axes also mine their tier of copper-type blocks quickly.
+Tips: A stone axe in the early game out-damages most swords; repair axes with
+the same material on an anvil.
+
+=== Shovels ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: 1 tool-tier item + 2 sticks.
+Recipe: One material block on top of two stacked sticks in the middle column.
+How to Craft: Put the material in the top-center slot and sticks in the center
+and bottom-center slots.
+Uses: Digs dirt, sand, gravel, clay, snow, and grass paths quickly. Shovels
+are the fastest tool for terraforming and for moving large amounts of sand or
+gravel.
+Tips: A shovel with Efficiency turns digging into instant work; keep one for
+sand temples and ocean floors.
+
+=== Hoes ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: 2 tool-tier items + 2 sticks.
+Recipe: Two material blocks in the top-left with two sticks below.
+How to Craft: Place the two materials in the top-left and top-center slots,
+sticks in the center and bottom-center slots.
+Uses: Tills dirt or grass blocks into farmland for crops, and mines
+farmland-related blocks such as leaves and hay bales quickly.
+Tips: A hoe is the first tool of every farm — craft one as soon as you have a
+crafting table and spare cobblestone.
+
+=== Swords ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: 2 sword-tier items (planks, cobblestone, iron ingots, gold ingots,
+diamonds) + 1 stick.
+Recipe: Two material blocks stacked vertically in the middle column, one stick
+below them.
+How to Craft: Open a crafting table, place the two materials in the two upper
+middle slots, the stick in the bottom middle slot, and take the sword.
+Uses: The main melee weapon. Damage by tier (Java, before enchantments):
+wooden and golden 4, stone 5, iron 6, diamond 7, netherite 8 attack damage.
+Enchant with Sharpness for general damage, Smite for undead, Looting for extra
+drops, Fire Aspect to set targets alight, and Knockback for space.
+Tips: In Java combat, land full-strength swings (full cooldown) instead of
+spamming — each timed hit does maximum damage.
+
+=== Bows ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: 3 sticks + 3 string.
+Recipe: Sticks and string in a diagonal arc pattern.
+How to Craft: Arrange three sticks and three string in the bow pattern (sticks
+on the outer curve, string across) and take the bow.
+Uses: Ranged weapon — hold to draw, release to fire arrows. Enchant with
+Power for damage, Flame to ignite arrows, Punch for knockback, and Infinity to
+consume no arrows (Infinity cannot be combined with Mending).
+Tips: Keep distance from creepers and phantoms and lead fast-moving targets
+slightly. Crafting an arrow needs one flint, one stick, and one feather.
+
+=== Crossbows ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: Crafted from sticks, string, and an iron ingot.
+Recipe: Built in a crafting table with an iron ingot in the middle and sticks
+and string around it.
+How to Craft: Open a crafting table and arrange the sticks, string, and iron
+ingot in the crossbow pattern shown in the recipe book.
+Uses: Loads a bolt (arrow, firework rocket, or speckled arrow) that stays
+loaded until fired, dealing heavy single-shot damage. Enchant with Multishot
+to fire three projectiles, Quick Charge to load faster, and Piercing to hit
+several mobs in a line.
+Tips: Crossbows fire fireworks for long-range elytra-free attacks and are the
+best weapon when you need one powerful opening shot.
+
+=== Shields ===
+Game: Minecraft
+Category: Tools and Weapons
+Materials: 6 planks + 1 iron ingot.
+Recipe: Y-shaped pattern with the iron ingot at the top center.
+How to Craft: Iron ingot in the top-center slot with a plank on each side, a
+full middle row of planks, and one plank in the bottom-center slot.
+Uses: Hold the use button to block incoming melee, arrow, and most projectile
+damage from the front. A banner can be attached for decoration.
+Tips: Shields block skeleton arrows, ghast fireballs, and axe hits, and they
+are the best defense against creepers at close range — back away while
+blocking. Attacking while blocking with an axe can disable an enemy shield in
+PvP.
+
+=== Tridents ===
+Game: Minecraft
+Category: Tools and Weapons
+What it is: A powerful melee and ranged weapon that can only be obtained as a
+drop — it is not craftable.
+Where it comes from: Drowned zombies occasionally carry one and drop it when
+killed; tridents can also be found in buried treasure and ocean ruin chests.
+Uses: Deals heavy melee damage and, when thrown, flies as a ranged projectile
+that hits mobs and can trigger lightning rods; it also works underwater.
+Enchant with Loyalty to return it to you, Channeling to summon lightning in
+storms, Riptide to launch yourself in rain or water, and Impaling to deal extra
+damage to aquatic mobs.
+Tips: Keep Unbreaking and Mending on a trident — they are rare. Riptide
+tridents are the fastest water transportation in the game.
+
+=== Durability and Repair ===
+Game: Minecraft
+Category: Tools and Weapons
+Durability ranks (weakest to strongest): golden, wooden, stone, iron, diamond,
+netherite — golden gear is fast but breaks almost immediately. Every use chips
+one durability point; when durability hits zero the item breaks.
+How to repair: Combine the damaged item with its material (or an identical
+item) on an anvil, or enchant it with Unbreaking to slow wear and Mending to
+repair it automatically using experience orbs.
+Practical tips: Carry a spare pickaxe on long mining trips, put Unbreaking
+and Mending on diamond gear, and avoid using golden tools outside the Nether.
+
+=== Combat Basics ===
+Game: Minecraft
+Category: Tools and Weapons
+How do I fight mobs effectively?
+- Keep the shield in your off-hand: block first, strike during the opening.
+- In Java combat, wait for the attack cooldown to reload between sword swings
+  for full damage.
+- Use the bow or crossbow for anything that flies or keeps distance.
+- Enchant gear before hard fights: Sharpness, Protection, and Unbreaking make
+  a huge difference.
+- Bread, cooked meat, and golden apples keep health up mid-fight; healing
+  potions restore instantly.
+- Run and reset the fight when overwhelmed — losing all your gear at death is
+  far worse than retreating.

@@ -1,0 +1,755 @@
+# Forza Horizon 6 — Car Recommendations by Category
+
+Best-car recommendations for common questions — sedans, SUVs, sports cars,
+supercars, hypercars, JDM, muscle, drift, rally, off-road, drag, street,
+beginners, AWD, RWD, Tokyo City, Touge and value. Based only on documented
+Forza Horizon 6 information; nothing here is an objective ranking.
+
+=== How Recommendations Work ===
+Game: Forza Horizon 6
+Category: Recommendations
+How should I read these recommendations? Forza Horizon 6 has over 550 cars
+and no single car is objectively best for everything — different cars suit
+different classes, surfaces, drivetrains and driver skill levels. These
+recommendations follow four rules:
+1. Every pick is based on documented performance, handling, acceleration,
+   braking, top speed, drivetrain, class or intended use — never invented
+   statistics.
+2. Stock performance (straight from the Autoshow or a reward) and tuned
+   performance (after upgrades and tuning) are described separately, and
+   where a car only shines after tuning, that is stated.
+3. Where several cars are strong, several options are given with the
+   differences explained, instead of one "winner".
+4. Where the knowledge base does not have enough information to support a
+   category, it says so rather than inventing an answer.
+This file is meant to be updated as new cars and content are added.
+
+=== Best Sedans ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best sedan in Forza Horizon 6? The knowledge base does not
+document a single official "best sedan", so here are the documented strong
+options instead:
+Car: 2004 Mitsubishi Lancer Evolution VIII MR
+Manufacturer: Mitsubishi
+Type: rally-bred performance sedan
+Drivetrain: all-wheel drive
+Why it is recommended: documented as the best rally car in the game, with
+slightly stronger speed, offroad and handling stats than other cars in its
+category.
+Best use: dirt and rally events, all-weather street driving.
+Stock performance: Speed 6.9, Handling 6.5, Acceleration 7.7, Launch 4.1,
+Braking 5.1, Offroad 6.9 — competitive without any work.
+Tuned performance: additional upgrades make it far stronger and more
+competitive, and it is cheap to upgrade.
+How to obtain: cheap from the Autoshow; also the Auction House and
+Wheelspins.
+Car: 2004 Subaru Impreza WRX STI
+Manufacturer: Subaru
+Type: performance sedan
+Drivetrain: all-wheel drive
+Why it is recommended: a solid, cheap option that after upgrades handles
+offroad and rally races better than most other vehicles.
+Best use: rally, dirt and mixed conditions on a budget.
+Stock performance: documented as not the best out of the box (Speed 5.9,
+Handling 4.9, Acceleration 6.0, Offroad 5.9).
+Tuned performance: cheap to upgrade; turns into a strong competitor.
+How to obtain: Autoshow, Wheelspin, Auction House, or as an Aftermarket Car.
+
+=== Best SUVs ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best SUV? There is no single documented best SUV in Forza
+Horizon 6 — these are the documented SUV and 4x4 options and what each is
+good at:
+Car: 1970 GMC Jimmy
+Manufacturer: GMC
+Type: full-size sport utility vehicle (starter car)
+Drivetrain: four-wheel drive
+Why it is recommended: documented as the most forgiving of the three starter
+cars — large body, sturdy wheelbase, recovers from crashes and resists
+skidding; best offroad capability of the starters.
+Best use: cross-country rural racing, dirt racing, drag races (excellent
+Launch).
+Stock performance: strong traction and stability; weaker speed and handling.
+Tuned performance: speed and handling can be improved with upgrades, but it
+excels even in stock form.
+How to obtain: one of the three starter cars you receive after the
+introduction — you get all three.
+Car: 2016 Toyota Land Cruiser Arctic Trucks AT37
+Manufacturer: Toyota
+Type: heavy-duty offroad SUV
+Drivetrain: four-wheel drive
+Why it is recommended: a documented Festival Playlist Season Reward, making
+it a realistic collectable SUV for offroad events.
+Best use: offroad and cross-country events.
+Stock performance: purpose-built offroad truck.
+Tuned performance: not documented in this knowledge base.
+How to obtain: Season Reward in the Festival Playlist (15 points).
+Car: 2021 Aston Martin DBX
+Manufacturer: Aston Martin
+Type: performance SUV
+Drivetrain: not documented in this knowledge base
+Why it is recommended: featured as the reward car of the "Country Living"
+Unlimited Offroad (A Class) Championship, so it is tied directly to
+offroad championship content.
+Best use: offroad events in the A class.
+Stock performance: not documented in this knowledge base.
+How to obtain: Festival Playlist Championship reward.
+
+=== Best Sports Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best sports car? Multiple sports cars are strong choices in
+Forza Horizon 6; the right one depends on whether you value all-round
+ability or cornering precision:
+Car: 1994 Mazda MX-5 Forza Edition
+Manufacturer: Mazda
+Type: lightweight roadster
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as an all-around standout that tops
+in-game leaderboards — it corners better than many cars while reaching high
+speed quickly and consistently, and works in both road races and offroad
+cross-country events.
+Best use: mixed road and cross-country driving, drift zones, city drag
+strips.
+Stock performance: Speed 5.8, Handling 7.9, Acceleration 10, Launch 10,
+Braking 9.8 — spectacular launch and braking, low top speed stat.
+Tuned performance: a good choice especially with upgrades, which cover its
+low stock speed.
+How to obtain: Festival Playlist / Seasonal Events, or found as an
+Aftermarket Car near drag strips and city events.
+Car: 2005 Porsche Cayman GT3 WTAC
+Manufacturer: Porsche
+Type: track-focused sports coupe (S2 class)
+Drivetrain: rear-wheel drive
+Why it is recommended: documented strong handling (9.7) and braking (10);
+maintains a lead in races and takes sharp corners and windy hills with ease.
+Best use: twisty circuits and hill climbs.
+Stock performance: Speed 6.5, Handling 9.7, Acceleration 6.5, Braking 10.
+Tuned performance: its other stats can be improved, but it is already
+competitive stock.
+How to obtain: not documented in this knowledge base.
+Car: 2022 Toyota GR86
+Manufacturer: Toyota
+Type: lightweight sports coupe
+Drivetrain: rear-wheel drive
+Why it is recommended: repeatedly named by the community as the go-to early
+street racer, and featured as the opening car of the "Gazoo Racer" Weekly
+Challenge.
+Best use: street racing and road circuits.
+Stock performance: balanced and beginner-friendly.
+Tuned performance: not documented in this knowledge base.
+How to obtain: early in the game; featured in Festival Playlist challenges.
+
+=== Best Supercars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best supercar? The knowledge base does not establish a single
+best supercar; these are documented supercars with known reasons to chase
+them:
+Car: Lamborghini Aventador LP 780-4 Ultimate
+Manufacturer: Lamborghini
+Type: flagship V12 supercar
+Drivetrain: all-wheel drive
+Why it is recommended: it is the car Forza Horizon 6 gives you for the
+drive to Legend Island — and you keep it afterwards, so it doubles as an
+endgame trophy and a fast all-rounder.
+Best use: high-speed road racing once you reach Horizon Legend status.
+Stock performance: not documented in this knowledge base.
+Tuned performance: not documented in this knowledge base.
+How to obtain: given to you during the Horizon Legend wristband event.
+Car: 2021 Pagani Huayra R
+Manufacturer: Pagani
+Type: track-focused hypercar
+Drivetrain: rear-wheel drive
+Why it is recommended: handed out as the reward for the "Street Fighter"
+Modern Super Saloons (A Class) street championship — a documented high-end
+street-racing prize.
+Best use: A-class street and road racing.
+Stock performance: not documented in this knowledge base.
+How to obtain: Festival Playlist Championship reward.
+Car: 2021 Ferrari 296 GTB
+Manufacturer: Ferrari
+Type: modern supercar
+Drivetrain: not documented in this knowledge base
+Why it is recommended: a documented Horizon Play reward, tied to the
+"Floor It!" Horizon Racing challenge.
+Best use: modern supercar events.
+How to obtain: Horizon Play challenge reward; other McLarens and Lamborghinis
+(Sabre, Huracan EVO) also arrive as documented Festival Playlist rewards.
+
+=== Best Hypercars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best hypercar? Three documented hypercars stand out, each with
+clear published strengths:
+Car: 2018 Ferrari FXX-K EVO 'Welcome Pack'
+Manufacturer: Ferrari
+Type: track-focused hypercar
+Class: R
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as one of the top cars in the game —
+incredibly fast and quick around corners thanks to its perfect braking stat;
+fast cars matter most in street races.
+Best use: street races, road circuits, any event where braking and corner
+speed decide the result.
+Stock performance: Speed 8.1, Handling 9.4, Acceleration 8.7, Launch 9.4,
+Braking 10, Offroad 4.9.
+Tuned performance: already at the top in stock form; take it offroad and it
+loses grip quickly.
+How to obtain: Welcome Pack, or the Premium Edition of the game.
+Car: 2021 Mercedes-AMG One
+Manufacturer: Mercedes-AMG
+Type: Formula 1-derived hypercar
+Class: S2
+Drivetrain: rear-wheel drive
+Why it is recommended: exceptionally high acceleration — it covers huge
+distances in seconds, which suits drag strips, long straights and cross
+country races.
+Best use: drag strips, highway runs, long cross-country events.
+Stock performance: Speed 8.5, Handling 8.7, Acceleration 10, Launch 9.4,
+Braking 9.6, Offroad 5.3.
+Tuned performance: strong even stock; a tune can push it further within S2.
+How to obtain: loyalty reward if you played Forza Horizon 5 before FH6,
+plus Wheelspin, Autoshow or Auction House.
+Car: 2020 Lotus Evija Forza Edition
+Manufacturer: Lotus
+Type: electric hypercar
+Class: S2
+Drivetrain: not documented in this knowledge base
+Why it is recommended: goes beyond many other cars with exceptional
+drifting potential and tires built for it — a hypercar that doubles as a
+drift tool.
+Best use: twist circuits, streets and Drift Zone PR stunts.
+Stock performance: Speed 7.9, Handling 6.1, Acceleration 5.6, Launch 6.0,
+Braking 7.9, Offroad 4.2.
+Tuned performance: strong platform for drift builds.
+How to obtain: Wheelspin, Auction House or Autoshow.
+
+=== Best JDM Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best JDM car? Japanese domestic market cars are the heart of
+Forza Horizon 6, so the answer depends on the job — here are the documented
+standouts by use:
+Car: 2000 Nissan #36 Dream Project S15 Silvia WTAC
+Manufacturer: Nissan
+Type: time-attack tuned Silvia
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as by far the best handling car in the
+game, with exceptional handling and braking and strong speed and
+acceleration; handles Touge racing better and more consistently than
+anything else.
+Best use: touge, tight road races, handling-focused events.
+Stock performance: Speed 6.7, Handling 9.3, Acceleration 7.7, Launch 4.6,
+Braking 10.
+Tuned performance: at max power with upgrades it beats everything else at
+tight, technical driving.
+How to obtain: not documented in this knowledge base.
+Car: 1985 Toyota Sprinter Trueno (AE86) Forza Edition
+Manufacturer: Toyota
+Type: classic drift/speed icon
+Drivetrain: rear-wheel drive stock (the record build uses an AWD conversion)
+Why it is recommended: documented as the fastest car in the game — fully
+upgraded with a 2JZ engine swap, all-wheel-drive conversion and a drag tune
+it exceeds 322 mph.
+Best use: speed traps, speed zones and maximum-velocity builds.
+Stock performance: modest (Speed 5.0, Handling 5.8, Acceleration 4.5) — the
+record is a tuned build, not a stock one.
+Tuned performance: over 322 mph; this is the definition of a
+tuning-dependent pick.
+How to obtain: not documented in this knowledge base.
+Car: 2012 Nissan GT-R Black Edition R35 Forza Edition
+Manufacturer: Nissan
+Type: all-wheel-drive supercar/GT
+Drivetrain: all-wheel drive
+Why it is recommended: documented as the best drag car in the game in terms
+of pure performance, with a top speed of 305 mph and Acceleration 10.
+Best use: drag racing, speed traps, highways.
+Stock performance: Speed 9.4, Handling 6.9, Acceleration 10, Launch 4.8,
+Braking 6.7 — weak launch out of the box.
+Tuned performance: fixes the launch and reaches its 305 mph potential
+quickly; it cannot handle hills or offroad tracks.
+How to obtain: Aftermarket Car near a drag strip, Wheelspin or Auction
+House.
+Other documented JDM favourites include the 2004 Mitsubishi Lancer
+Evolution VIII MR (rally), the 1989 Nissan Silvia K's (beginner-friendly),
+the 1994 Mazda MX-5 Forza Edition (all-round) and the 1992 Honda #21
+Hardrace/JDMYard Civic WTAC (R-class asphalt racer).
+
+=== Best Muscle Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best muscle car? The current knowledge base does not have enough
+documented information to name a best muscle car in Forza Horizon 6 — there
+is no documented tier list or performance comparison for the muscle car
+category here. What is documented: "Modern Muscle" runs as an A-class car
+theme in Festival Playlist Championships (for example the "Hitting the
+Highway" Modern Muscle championship on highway routes), and community
+players report the 1969 Dodge Charger R/T as a favourite drift build
+("stock engine plus drift suspension"). American performance hardware also
+appears in documented rewards such as the 1999 Dodge Viper GTS ACR Forza
+Edition (best documented offroad car) and the 2024 Ram 1500 TRX. If you want
+muscle, these are the documented starting points — this knowledge base does
+not have enough information to rank them against each other.
+
+=== Best Drift Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best car for drifting? Several cars are strong choices, with a
+clear split between stock drifters and tuning-dependent builds:
+Car: 2023 Formula Drift #64 Forsberg Racing Nissan Z
+Manufacturer: Nissan (Formula Drift)
+Type: purpose-built competition drift car
+Class: S1 783 (stock Performance Index — the highest-rated Formula Drift
+car by stock index)
+Drivetrain: rear-wheel drive
+Why it is recommended: Chris Forsberg's 1,300 hp competition car; by stock
+Performance Index it is the top Formula Drift car in the game.
+Best use: drift events and drift zones straight out of the box.
+Stock performance: built for drifting from the factory — no conversion
+needed.
+Tuned performance: the community has pushed examples past 2,000 hp for
+extreme builds.
+How to obtain: the Formula Drift lineup is purchasable in-game; specific
+availability not documented in this knowledge base.
+Car: 1989 Nissan Silvia K's
+Manufacturer: Nissan
+Type: classic rear-drive coupe
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as the best beginner drift car, and one
+of the three starter cars — free and easy to learn on.
+Best use: learning to drift, drift zones, touge practice.
+Stock performance: approachable and forgiving.
+Tuned performance: a classic drift platform that improves a lot with drift
+suspension and upgrades.
+How to obtain: free starter car after the introduction.
+Car: 2000 Nissan #36 Dream Project S15 Silvia WTAC
+Manufacturer: Nissan
+Type: time-attack tuned Silvia
+Drivetrain: rear-wheel drive
+Why it is recommended: guides call the Nissan Silvia S15 the best all-round
+drift and touge car, with strong balance and throttle control; IGN also
+documents the Lotus Evija Forza Edition as having exceptional drifting
+potential with tires built for it.
+Best use: balanced drift and grip driving on mountain roads.
+Stock performance: Handling 9.3, Braking 10.
+Tuned performance: at max power it is the most consistent technical-driver's
+car in the game.
+How to obtain: not documented in this knowledge base.
+
+=== Best Rally Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best rally car? Documented picks, best first:
+Car: 2004 Mitsubishi Lancer Evolution VIII MR
+Manufacturer: Mitsubishi
+Type: rally-bred sedan
+Drivetrain: all-wheel drive
+Why it is recommended: documented as the best rally car in the game —
+slightly stronger speed, offroad and handling stats than others in the
+category.
+Best use: dirt races and rally events.
+Stock performance: Speed 6.9, Handling 6.5, Acceleration 7.7, Launch 4.1,
+Braking 5.1, Offroad 6.9.
+Tuned performance: upgrades make it far stronger and more competitive.
+How to obtain: cheap from the Autoshow; also Auction House and Wheelspins.
+Car: 2004 Subaru Impreza WRX STI
+Manufacturer: Subaru
+Type: rally-bred sedan
+Drivetrain: all-wheel drive
+Why it is recommended: the documented solid backup option — not the best
+stats out of the box, but cheap to upgrade and then better than most.
+Best use: dirt and rally on a budget.
+Stock performance: Speed 5.9, Handling 4.9, Acceleration 6.0, Offroad 5.9.
+Tuned performance: cheap upgrades transform it.
+How to obtain: Autoshow, Wheelspin, Auction House, or Aftermarket Car.
+Car: 2023 Porsche 911 Rallye
+Manufacturer: Porsche
+Type: rally-prepared sports car
+Drivetrain: not documented in this knowledge base
+Why it is recommended: IGN's guide explicitly recommends it for The
+Gauntlet (the biggest rally-monster dirt race); you receive it after
+getting the Orange Expert Wristband.
+Best use: Rally Monsters-class dirt races, The Gauntlet.
+How to obtain: received after the Orange Expert Wristband.
+
+=== Best Off-Road Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best off-road car? Documented picks:
+Car: 1999 Dodge Viper GTS ACR Forza Edition
+Manufacturer: Dodge
+Type: track-prepared American sports car with extreme offroad stats
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as the best offroad car in Forza Horizon 6
+— incredible launch and acceleration paired with one of the strongest
+offroad stats in the game for a regular automobile; usable in offroad races
+and Trailblazer PR stunts.
+Best use: offroad races, Trailblazers, cross-country events.
+Stock performance: Speed 8.1, Handling 4.2, Acceleration 5.7, Launch 6.0,
+Braking 4.7, Offroad 9.9.
+Tuned performance: can be upgraded to an S2 class car with even higher
+stats.
+How to obtain: VIP Membership or Premium Edition only.
+Car: Ford RS200 Evolution
+Manufacturer: Ford
+Type: rally-derived offroad special
+Drivetrain: all-wheel drive
+Why it is recommended: documented as a good secondary offroad car with a
+high offroad stat (8.0) and solid handling, and much easier to obtain.
+Best use: offroad and dirt events as an accessible alternative.
+Stock performance: Speed 5.4, Handling 5.4, Acceleration 6.9, Launch 2.3,
+Braking 5.0, Offroad 8.0 — weak launch, so pace the start.
+Tuned performance: not documented in this knowledge base.
+How to obtain: unlocked after getting the Green Wristband in the Horizon
+Festival section of the Collection Journal.
+Car: 2016 Ariel Nomad
+Manufacturer: Ariel
+Type: lightweight offroad buggy
+Drivetrain: not documented in this knowledge base
+Why it is recommended: one of the cars IGN suggests for The Titan, the
+largest cross-country race in the game (restricted to Total Buggies &
+Offroad).
+Best use: cross-country races and The Titan.
+How to obtain: not documented in this knowledge base.
+
+=== Best Drag Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best drag car? Drag cars have a bigger place in FH6 than before,
+thanks to short races, Drag Strip events and time trials. Documented picks:
+Car: 2012 Nissan GT-R Black Edition R35 Forza Edition
+Manufacturer: Nissan
+Type: high-speed GT
+Drivetrain: all-wheel drive
+Why it is recommended: documented as the fastest drag car in the game in
+terms of pure performance — more than 300 mph (305 mph) with Acceleration
+10.
+Best use: drag races, speed traps, long straights and highways.
+Stock performance: Speed 9.4, Handling 6.9, Acceleration 10, Launch 4.8,
+Braking 6.7, Offroad 4.4 — launch stat is not great out of the box, and it
+cannot handle hills or offroad.
+Tuned performance: reaches its 305 mph top speed quickly once sorted; this
+is a car that rewards a tune.
+How to obtain: Aftermarket Car near a drag strip, Wheelspin, or Auction
+House.
+Car: 2019 Toyota Tacoma TRD Pro Forza Edition
+Manufacturer: Toyota
+Type: prepped performance pickup
+Drivetrain: four-wheel drive
+Why it is recommended: documented as the best drag car you can get early —
+incredibly strong off the starting grid with Launch 10 and Acceleration 10.
+Best use: short races, time trials, drag strips where the launch wins.
+Stock performance: Speed 8.2, Handling 9.5, Acceleration 10, Launch 10,
+Braking 10, Offroad 6.0 — plus aerodynamic add-ons fitted.
+Tuned performance: already dominant off the line in stock form.
+How to obtain: Premium Edition or VIP Membership only.
+Car: Peel 1962 P50
+Manufacturer: Peel
+Type: three-wheel microcar
+Drivetrain: not documented in this knowledge base
+Why it is recommended: an off-the-wall, often excellent choice — with
+upgrades this three-wheeler is "like a lightning strike" in drag races.
+Best use: drag racing fun and beating expectations.
+Stock performance: Speed 1.1, Handling 2.8, Acceleration 1.0, Launch 2.4 —
+deliberately weak.
+Tuned performance: upgrades transform it, though it still does not quite
+compete with the top picks.
+How to obtain: not documented in this knowledge base.
+Also documented: the AE86 Forza Edition drag build (over 322 mph fully
+upgraded) and the Porsche #3 917 LH Forza Edition (almost 300 mph, Wheelspin
+or Auction House) for pure-speed drag work.
+
+=== Best Street Racing Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best car for street racing? Street races run on the road and
+dock routes around Tokyo City and Japan — speed matters, but so does
+braking into the corners:
+Car: 2018 Ferrari FXX-K EVO 'Welcome Pack'
+Manufacturer: Ferrari
+Type: track-focused hypercar
+Class: R
+Drivetrain: rear-wheel drive
+Why it is recommended: fast cars are documented as the most important
+factor in street races, and this car is unbelievably fast and quick around
+corners thanks to its perfect braking stat (10).
+Best use: street races and road circuits where late braking wins.
+Stock performance: Speed 8.1, Handling 9.4, Acceleration 8.7, Braking 10.
+Tuned performance: already at the top; it loses grip quickly offroad, so
+keep it on asphalt.
+How to obtain: Welcome Pack or Premium Edition.
+Car: 1992 Honda #21 Hardrace/JDMYard Civic WTAC
+Manufacturer: Honda
+Type: time-attack tuned Civic
+Class: R
+Drivetrain: front-wheel drive
+Why it is recommended: documented as one of the best cars for asphalt
+races, with a perfect braking stat — but it needs precision, because it
+loses grip if you take corners too fast or turn in too late.
+Best use: technical asphalt and street routes.
+Stock performance: Speed 6.5, Handling 8.6, Acceleration 6.0, Braking 10,
+Offroad 4.1.
+Tuned performance: strong in stock form; mistakes are punished either way.
+How to obtain: Time Attack Car Pack or Premium Edition.
+Car: 2022 Toyota GR86
+Manufacturer: Toyota
+Type: lightweight sports coupe
+Drivetrain: rear-wheel drive
+Why it is recommended: the community consensus pick for street races —
+described as "by far" the best street-race car for its price and
+accessibility, and the featured car of the Gazoo Racer Weekly Challenge.
+Best use: everyday street racing without spending millions of credits.
+Stock performance: balanced and forgiving.
+Tuned performance: not documented in this knowledge base.
+How to obtain: early/affordable in the game; featured in Festival Playlist
+content.
+
+=== Best Beginner Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best beginner car? After the introduction you get access to
+three starter cars — you choose which to drive off with, but you receive
+all three. Documented guidance on which is best:
+Car: 1989 Nissan Silvia K's
+Manufacturer: Nissan
+Type: classic rear-drive coupe (starter car)
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as the best overall starter car — it
+works across most types of races with no major downsides; consistent, easy
+to handle, able to keep up in races.
+Best use: street races and road racing; the all-around first car.
+Stock performance: solid acceleration, speed and braking for a low-tier
+car; no standout stats but no real weaknesses.
+Tuned performance: a classic platform that stays useful after upgrades.
+How to obtain: free — one of the three starter cars.
+Car: 1970 GMC Jimmy
+Manufacturer: GMC
+Type: full-size sport utility vehicle (starter car)
+Drivetrain: four-wheel drive
+Why it is recommended: the easiest car to drive if you are not a perfect
+driver — large body and sturdy wheelbase recover from crashes and avoid
+spinning out; best offroad of the starters; excellent Launch for drags.
+Best use: cross-country and dirt racing for nervous newcomers.
+Stock performance: good traction and launch, weaker speed and handling.
+Tuned performance: upgrades can add speed, but its stock strengths stand.
+How to obtain: free — one of the three starter cars.
+Car: 1994 Toyota Celica GT-Four ST205
+Manufacturer: Toyota
+Type: rally homologation hatch (starter car)
+Drivetrain: all-wheel drive
+Why it is recommended: the best speed, handling and acceleration package of
+the three starters with solid offroad ability — the pick if you want pace
+out of the box.
+Best use: straight-line races, asphalt road and street races, cross-country.
+Stock performance: weak braking means sharp corners at speed are its
+downside.
+Tuned performance: brake and suspension upgrades address its main weakness.
+How to obtain: free — one of the three starter cars.
+A good first goal after the starters: the 1994 Mazda MX-5 Forza Edition,
+documented as an all-around standout that is free through Festival Playlist
+activities or cheap as an Aftermarket Car.
+
+=== Best AWD Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best AWD car? All-wheel drive rewards launch and loose-surface
+grip; documented options:
+Car: 2004 Subaru Impreza WRX STI
+Manufacturer: Subaru
+Type: performance sedan
+Drivetrain: all-wheel drive (documented explicitly)
+Why it is recommended: a documented all-wheel-drive car that is cheap to
+upgrade and then handles offroad and rally races better than most.
+Best use: rally, dirt, and all-weather racing on a budget.
+Stock performance: Speed 5.9, Handling 4.9, Acceleration 6.0, Offroad 5.9.
+Tuned performance: cheap upgrades make it a strong competitor.
+How to obtain: Autoshow, Wheelspin, Auction House, or Aftermarket Car.
+Car: 2012 Nissan GT-R Black Edition R35 Forza Edition
+Manufacturer: Nissan
+Type: high-speed GT
+Drivetrain: all-wheel drive
+Why it is recommended: combines GT-R traction with the game's best documented
+drag performance — 305 mph and Acceleration 10.
+Best use: drag racing and highway speed runs.
+Stock performance: weak launch out of the box despite AWD.
+Tuned performance: transforms into the fastest drag tool in the game.
+How to obtain: Aftermarket Car near a drag strip, Wheelspin, Auction
+House.
+Car: 1994 Toyota Celica GT-Four ST205
+Manufacturer: Toyota
+Type: rally homologation hatch (starter car)
+Drivetrain: four-wheel drive
+Why it is recommended: free starter car with the best all-round stats of
+the three, and rally-bred four-wheel drive.
+Best use: beginner racing across asphalt and dirt.
+Stock performance: strong package, weak brakes.
+How to obtain: free starter car.
+Car: Ford RS200 Evolution
+Manufacturer: Ford
+Type: rally-derived offroad special
+Drivetrain: all-wheel drive
+Why it is recommended: documented offroad stat of 8.0 and solid handling,
+with an easy unlock.
+Best use: dirt and offroad events.
+How to obtain: unlocked after the Green Wristband.
+
+=== Best RWD Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best RWD car? The knowledge base does not have a documented
+rear-wheel-drive tier list, but these rear-drive cars have documented
+strengths:
+Car: 1994 Mazda MX-5 Forza Edition
+Manufacturer: Mazda
+Type: lightweight roadster
+Drivetrain: rear-wheel drive
+Why it is recommended: documented all-around standout with grip and braking
+that let it corner better than many cars — a very readable rear-drive
+platform.
+Best use: road races, drift zones, mixed events.
+Stock performance: Acceleration 10, Launch 10, Braking 9.8, Handling 7.9,
+Speed 5.8.
+Tuned performance: upgrades cover its only real weakness (top speed).
+How to obtain: Festival Playlist activities or as an Aftermarket Car near
+drag strips and city events.
+Car: 1989 Nissan Silvia K's
+Manufacturer: Nissan
+Type: classic rear-drive coupe (starter car)
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as beginner-friendly and consistent — the
+gentlest way into rear-drive car control.
+Best use: street and road racing while learning.
+Stock performance: no major downsides for a low-tier car.
+How to obtain: free starter car.
+Car: 2023 Formula Drift #64 Forsberg Racing Nissan Z
+Manufacturer: Nissan (Formula Drift)
+Type: competition drift car
+Drivetrain: rear-wheel drive
+Why it is recommended: the highest-rated Formula Drift car by stock
+Performance Index — rear drive is the whole point of this car.
+Best use: drifting.
+How to obtain: purchasable in-game (specific source not documented here).
+
+=== Best Cars for Tokyo City ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best car for Tokyo City? Tokyo City is the largest urban area in
+Forza Horizon 6, mixing dense districts, docks and an elevated highway loop,
+so the best answer depends on where you drive:
+For the districts (Shibuya Crossing, Akihabara, Daikoku):
+Car: 1993 Autozam AZ-1
+Manufacturer: Autozam (Mazda)
+Type: kei sports car
+Drivetrain: rear-wheel drive
+Why it is recommended: its tiny kei-car dimensions suit Tokyo's densest
+streets and narrow corners, and it is a documented Festival Playlist car
+(the "Lookin So Cute!" challenge asks you to park it at any Car Meet).
+Best use: city cruising, car meets, tight urban sections.
+Stock performance: not documented in this knowledge base.
+How to obtain: Festival Playlist reward / documented in challenges.
+Car: 1994 Mazda MX-5 Forza Edition
+Manufacturer: Mazda
+Type: lightweight roadster
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as a drift-zone and city favourite that is
+commonly found as an Aftermarket Car near city-based events, with superb
+braking for stop-start urban driving.
+Best use: drifting at Shibuya Crossing, city streets.
+Stock performance: Launch 10, Braking 9.8, Handling 7.9.
+How to obtain: Festival Playlist, or Aftermarket Car near city events.
+For the highways and docks (high-speed runs, Daikoku Chase, the Highway
+Loop):
+Car: 2012 Nissan GT-R Black Edition R35 Forza Edition
+Drivetrain: all-wheel drive
+Why it is recommended: 305 mph top speed and Acceleration 10 for the
+elevated highway loop.
+Best use: highway speed runs, drag events at the docks.
+Car: 2021 Mercedes-AMG One
+Drivetrain: rear-wheel drive
+Why it is recommended: Acceleration 10 — documented as able to blaze across
+Japan's highways in seconds.
+Best use: long highway sprints.
+For street-race events inside the city, the documented community pick is
+the Toyota GR86 (see Best Street Racing Cars).
+
+=== Best Cars for Touge ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best car for Touge, mountain roads and night hill climbs? Touge
+Battles are races down a Japanese hillside at night, and mountain roads
+like Mount Haruna's winding climbs demand handling above all:
+Car: 2000 Nissan #36 Dream Project S15 Silvia WTAC
+Manufacturer: Nissan
+Type: time-attack tuned Silvia
+Drivetrain: rear-wheel drive
+Why it is recommended: documented as by far the best handling car in the
+game — at max power with upgrades it handles tight corners and Touge racing
+better and more consistently than anything else.
+Best use: Touge Battles, twisty hillside circuits, technical road races.
+Stock performance: Speed 6.7, Handling 9.3, Acceleration 7.7, Braking 10.
+Tuned performance: shines brightest at max power; this is the top documented
+touge pick.
+How to obtain: not documented in this knowledge base.
+Car: 1993 Nissan #32 Skyline WTAC 'Xtreme GTR'
+Manufacturer: Nissan
+Type: time-attack tuned Skyline
+Drivetrain: all-wheel drive
+Why it is recommended: documented alternate very similar to the Silvia but
+with better offroad capabilities.
+Best use: longer cross-country and endurance events — avoid short tracks,
+because its Launch (2.1) is extremely weak.
+Stock performance: Speed 6.8, Handling 9.6, Acceleration 7.8, Braking 10.
+How to obtain: not documented in this knowledge base.
+Car: 1989 Nissan Silvia K's
+Manufacturer: Nissan
+Type: classic rear-drive coupe
+Drivetrain: rear-wheel drive
+Why it is recommended: community drift/touge guidance calls the Nissan
+Silvia S15 the best all-round drift and touge car for balance and throttle
+control, and the Silvia family is the standard recommendation for mountain
+passes; the K's is the free starter version to learn on.
+Best use: learning touge and drift technique.
+How to obtain: free starter car.
+Backup: the 2005 Porsche Cayman GT3 WTAC (Handling 9.7, Braking 10) keeps
+its speed through sharp corners and windy hills.
+
+=== Best Value Cars ===
+Game: Forza Horizon 6
+Category: Recommendations
+What is the best car for value — strong performance for few credits? The
+documented bargains:
+Car: 2004 Mitsubishi Lancer Evolution VIII MR
+Manufacturer: Mitsubishi
+Type: rally-bred performance sedan
+Drivetrain: all-wheel drive
+Why it is recommended: documented as the best rally car in the game while
+being cheap from the Autoshow — the strongest documented performance per
+credit.
+Best use: rally and dirt racing cheaply.
+Stock performance: top of its category in speed, offroad and handling.
+Tuned performance: cheap upgrades make it competitive far beyond its price.
+How to obtain: cheap from the Autoshow, Auction House, Wheelspins.
+Car: 1989 Nissan Silvia K's / 1970 GMC Jimmy / 1994 Toyota Celica GT-Four
+ST205
+Type: the three starter cars
+Why they are recommended: they are free — you receive all three after the
+introduction — and each covers a different discipline (all-round, offroad,
+speed).
+Best use: the entire opening of the game without spending credits.
+How to obtain: free after the introduction.
+Car: 2004 Subaru Impreza WRX STI
+Manufacturer: Subaru
+Type: performance sedan
+Drivetrain: all-wheel drive
+Why it is recommended: cheap to buy and cheap to upgrade, and then better
+than most in rally events.
+How to obtain: Autoshow, Wheelspin, Auction House, Aftermarket Car.
+Free-car strategy: Festival Playlist Season Rewards cost only 15 points
+(30 for the second car) each season, Series Rewards open at 60 points,
+Aftermarket Cars are discounted below Autoshow prices, and loyalty rewards
+from previous Forza games arrive free in your garage — documented free cars
+include the Mercedes-AMG One, Lamborghini Centenario, Aston Martin Vulcan,
+Lamborghini Huracan, Dodge SRT Viper GTS and Corvette E-Ray.

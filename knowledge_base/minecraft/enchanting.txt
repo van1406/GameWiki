@@ -1,0 +1,122 @@
+# Minecraft — Enchanting and Repair
+
+The full enchanting system: the table, bookshelves, experience, the important
+enchantments, anvils, mending, and a practical enchanting progression.
+
+=== The Enchanting Table ===
+Game: Minecraft
+Category: Enchanting
+Materials: 2 diamonds + 4 obsidian + 1 book.
+Recipe: Three obsidian across the bottom row; the two diamonds and the fourth
+obsidian block in the middle row; the book on top (the in-game recipe book
+fills in the exact slots).
+How to Craft: In a crafting table, fill the bottom row with obsidian, place
+the two diamonds beside the remaining obsidian in the middle row, and put the
+book in the top center slot.
+How to use: Place the table, open it, put the item to enchant in the left
+slot and lapis lazuli in the right slot, then choose one of the three offered
+enchantments. Enchanting spends experience levels plus lapis — higher-tier
+offers need more lapis and levels.
+
+=== Bookshelves and Level 30 Enchanting ===
+Game: Minecraft
+Category: Enchanting
+How do I get level 30 enchants? Surround the enchanting table with 15
+bookshelves, each exactly one block away from the table (leave the one-block
+air gap — a block between shelf and table breaks the link). The shelves
+upgrade the offers up to the maximum level 30. Bookshelves craft from three
+books and six planks; books need leather and paper (paper comes from sugar
+cane).
+Practical tips: Build the classic ring: table on a floor with a one-block
+moat of air and shelves one block out, three shelves high along the walls —
+that is 14-15 shelves and level 30 enchants.
+
+=== Experience and Levels ===
+Game: Minecraft
+Category: Enchanting
+Where does experience come from? Mining ores (coal, lapis, redstone,
+diamond, nether quartz), killing mobs, smelting in furnaces, trading with
+villagers, breeding animals, and using bottles o' enchanting. Levels are
+spent at the enchanting table, on anvils (renaming, combining, repairing),
+and on the grindstone returns some back.
+Practical tips: mobs and furnaces are the fastest XP; a spawner-based farm
+feeds level 30 quickly. You need to reach level 30 to unlock the strongest
+offer, but the enchant itself only consumes a few levels — keep enchanting to
+keep spending.
+
+=== How Enchanting Works ===
+Game: Minecraft
+Category: Enchanting
+How does enchanting work? Put the item and lapis in the enchanting table,
+pick one of the three offers, and the item gains that enchantment (plus one or
+two bonus enchantments at random). Offers are fixed per item and refresh
+after you enchant something. Enchantment outcomes depend on your experience
+level and available bookshelves. Some enchantments conflict and cannot coexist
+on one item — for example Protection and Fire Protection, or Infinity and
+Mending.
+
+=== Important Enchantments ===
+Game: Minecraft
+Category: Enchanting
+What are the most important enchantments?
+- Tools: Efficiency (mining speed), Unbreaking (durability), Fortune (more
+  ore drops), Silk Touch (mine the block itself), Mending (auto-repair).
+- Weapons: Sharpness (damage), Smite (undead bonus), Looting (more drops),
+  Knockback, Fire Aspect, and on bows Power, Flame, Punch, Infinity.
+- Armor: Protection (all damage), Fire/Blast/Projectile Protection
+  (specialized), Feather Falling (falls), Thorns (reflect damage), Respiration
+  and Aqua Affinity (underwater).
+- Trident: Loyalty, Channeling, Riptide, Impaling.
+- Crossbow: Multishot, Quick Charge, Piercing.
+Conflicts to know: Infinity and Mending cannot share a bow; the different
+Protection types cannot stack (except Thorns and Feather Falling, which pair
+normally).
+
+=== Anvils and Combining ===
+Game: Minecraft
+Category: Enchanting
+How do I combine enchantments? On an anvil (3 iron blocks + 4 iron ingots),
+put the main item in the first slot and an enchanted book or a second item in
+the second to merge their enchantments, repair the item, or rename it. Higher
+enchantments combine into stronger versions (Sharpness I + Sharpness I =
+Sharpness II).
+Costs: Every anvil use adds a prior-work penalty in levels, so combining
+deeply gets expensive; combine in a planned order and keep the total under 30
+levels per operation. Renaming costs just one level the first time.
+Tips: Use the anvil to place Mending books on your best gear — that single
+book outlives every other investment.
+
+=== The Grindstone ===
+Game: Minecraft
+Category: Enchanting
+What it does: The grindstone (2 sticks + 1 stone slab + 2 planks) removes
+enchantments from an item and refunds some experience, and it repairs two
+identical items together. Use it to strip bad table rolls before reusing the
+item, or to clean loot gear you plan to re-enchant.
+
+=== Mending and Repair ===
+Game: Minecraft
+Category: Enchanting
+What is Mending? Mending consumes experience orbs to repair the item it is on,
+up to full durability — combined with Unbreaking, gear effectively never
+breaks. Mending cannot be made at an enchanting table: get Mending books from
+librarians, chest loot, or fishing.
+Repair options: anvil with material, anvil with an identical item, grindstone
+combining, or Mending. Experience is best spent on Mending first, then
+Unbreaking.
+Tips: Put Mending and Unbreaking III on your diamond/netherite set, sword,
+pickaxe, and elytra the moment you have the books.
+
+=== Practical Enchantment Progression ===
+Game: Minecraft
+Category: Enchanting
+What is the fastest enchanting progression?
+1. Mine enough diamonds for two — one for the enchanting table, one spare.
+2. Craft a table and 15 bookshelves; grow sugar cane and keep cows for books.
+3. Reach level 30 through mining or a mob spawner, then enchant a diamond
+   pickaxe first (Efficiency, Unbreaking, or Fortune pays for everything).
+4. Enchant armor pieces at 30 until you roll Protection sets.
+5. Reroll unwanted enchants through the grindstone and try again.
+6. Trade with librarians for Mending, combine on an anvil, and finish with
+   Unbreaking III on every piece.
+7. After netherite upgrades, re-check gear — upgrades keep all enchantments.

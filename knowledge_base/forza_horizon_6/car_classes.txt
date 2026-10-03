@@ -1,0 +1,72 @@
+# Forza Horizon 6 — Car Classes and Performance
+
+The Performance Index, the class ladder including the new R class, how
+Wristbands gate class restrictions, and the difference between stock and
+tuned performance.
+
+=== Car Classes ===
+Game: Forza Horizon 6
+Category: Cars
+How do car classes work? Every car in Forza Horizon 6 is placed in a
+performance class based on its Performance Index: D, C, B, A, S1 and S2 for
+road-going machinery, plus the new R class introduced in Forza Horizon 6
+for track-focused cars. Races, Championships, Time Attacks and Drag Meets
+all specify a class restriction (for example "A Class" or "S2"), and you
+must bring a car at or below that class. Your Wristband level determines
+which class restrictions you get invited to: higher Wristbands open faster,
+higher-class events.
+
+=== Performance Index ===
+Game: Forza Horizon 6
+Category: Cars
+What is the Performance Index? The Performance Index (PI) is the numeric
+rating that decides which class a car falls into. For Forza Horizon 6 the
+Performance Index was overhauled to ensure cars are more balanced within
+each performance class, and the overhaul introduced the new R class for
+track-focused cars. Any part you install costs PI, so upgrading a car can
+push it into the next class — builds are therefore about spending PI budget
+where it matters most (tires, power or chassis) rather than maxing
+everything out.
+
+=== Class Restrictions ===
+Game: Forza Horizon 6
+Category: Cars
+Where do class restrictions apply? Events in Forza Horizon 6 are tied to
+car classes: official festival races, Festival Playlist Championships (such
+as "Retro Hot Hatch - C Class" or "Modern Supercars - S1 Class"), Time
+Attack Circuits, Drag Meets and PR Stunts all publish a class and often a
+target. Your Wristband controls the invites you receive — as you earn new
+Wristbands you participate in races with higher car class restrictions. If
+you have already beaten an event once, the Race Customizer lets you replay
+it with any car in your garage.
+
+=== Stock vs Tuned Performance ===
+Game: Forza Horizon 6
+Category: Cars
+What is the difference between stock and tuned performance? Stock
+performance is how the car behaves straight from the Autoshow or a reward,
+with factory parts, factory suspension and factory tuning sliders — its
+published stats (Speed, Handling, Acceleration, Launch, Braking, Offroad)
+describe that state. Tuned performance is what the same car can do after
+upgrades and tuning: new tires, suspension, brakes, weight reduction, engine
+swaps and slider tuning can transform a car, but tuning also changes its
+Performance Index and can move it into a higher class. When a car is
+recommended for a task, check whether the recommendation is about its stock
+state (good out of the box) or about its tuned potential (strong once built
+and tuned), because the two can be very different. For example, the 1985
+Toyota Sprinter Trueno (AE86) Forza Edition has modest stock stats but
+exceeds 322 mph when fully upgraded with an engine swap, all-wheel-drive
+conversion and a specialised drag tune.
+
+=== Drivetrain ===
+Game: Forza Horizon 6
+Category: Cars
+What drivetrains are available? Cars in Forza Horizon 6 come in front-wheel
+drive, rear-wheel drive and all-wheel drive configurations, and drivetrain
+conversion is one of the upgrade options — for instance the AE86 drag build
+mentioned above uses an all-wheel-drive conversion. Drivetrain choice
+changes how the car behaves: AWD cars generally launch harder and are more
+forgiving on loose surfaces, while RWD cars reward throttle control and are
+favourite platforms for drifting. Drivetrain is also a matchmaking filter in
+Horizon Play's Custom Drifting, where you can choose the car class and drive
+type.

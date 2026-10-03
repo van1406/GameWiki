@@ -1,0 +1,116 @@
+# Forza Horizon 6 — Rewards, Credits, Car Pass and Editions
+
+What you earn, how you earn credits and reward cars, and what each edition
+and pass contains.
+
+=== Rewards ===
+Game: Forza Horizon 6
+Category: Rewards
+What rewards are there in Forza Horizon 6? Documented rewards include:
+- Credits, the currency used for cars, houses, upgrades and Estate items.
+- Wheelspins and Super Wheelspins (rarer but more rewarding after the
+  rebalance; available once you qualify for the festival).
+- Cars — Season Rewards, Series Rewards, Championship rewards, Horizon Play
+  rewards, loyalty cars and Gift Drops from other players.
+- Car horns, QuickChat phrases and Forza LINK phrases (for example
+  "QuickChat: Oooh… Shiny!" and "QuickChat: Beam me up!").
+- Badges from Horizon Play ranks and challenge sets.
+- Character items and cosmetics as playlist rewards.
+- XP boards and player experience towards your level and prestige.
+
+=== How Do I Earn Reward Cars ===
+Game: Forza Horizon 6
+Category: Rewards
+How do I earn reward cars? Documented routes to reward cars:
+- Festival Playlist: Season Rewards at 15/30 points (Series 01 thresholds),
+  Series Rewards at 60/120 points, each handing out exclusive cars.
+- Championships: win the themed event and the listed car is yours (for
+  example the Pagani Huayra R for the Modern Super Saloons championship).
+- Horizon Play challenges: complete a mode challenge for a car (for
+  example the 2022 Ferrari 296 GTB for playing Hide & Seek).
+- Wristband progress and special events: the Porsche 911 Rallye arrives
+  after the Orange Expert Wristband, and the Lamborghini Aventador LP 780-4
+  Ultimate is given during the Horizon Legend event.
+- Loyalty rewards: free cars for accounts that played previous Forza games.
+- Festival milestones and community gifts: gift cars handed out to all
+  players during certain windows.
+- The Car Pass: 30 cars delivered one per week if you own it.
+
+=== Earning Credits ===
+Game: Forza Horizon 6
+Category: Rewards
+How do I earn credits? Documented ways to make money:
+- Finish races, Championships and events — big endgame races like The
+  Goliath reward a ton of credits.
+- Daily Challenges pay 5,000 credits each and Weekly Challenges 25,000 in
+  Series 01; Treasure Hunts pay 100,000 credits.
+- Seasonal jobs: the Raku-Raku food delivery job earns additional income,
+  and completing a full Tokyo City Food Delivery shift is itself a
+  challenge.
+- Festival Playlist point thresholds pay credits alongside cars.
+- Sell or trade cars through the Auction House.
+- Stamps unlock Barn Find Rumors — cheap barn find restorations add rare
+  cars to your collection instead of buying them at Autoshow prices.
+
+=== Wheelspins ===
+Game: Forza Horizon 6
+Category: Rewards
+How do Wheelspins work? Wheelspins are the game's prize rolls, awarded for
+progress and playlist activities (Time Attack, PR stunt and similar
+rewards in the playlist are Wheelspins). Two documented changes in Forza
+Horizon 6: you can only obtain Wheelspins once you have qualified for the
+Horizon Festival, and they have been rebalanced to be rarer to earn
+throughout the game and more rewarding when you do spin them, with Super
+Wheelspins especially rare. Prizes include credits, cars and cosmetics.
+
+=== Car Pass ===
+Game: Forza Horizon 6
+Category: Rewards
+What is the Car Pass? The Car Pass is downloadable content that adds 30
+cars to your game, delivered one per week. It is included in the Deluxe and
+Premium Editions of Forza Horizon 6 (and in the Premium Upgrade for Game
+Pass holders). Because the cars arrive weekly, a Car Pass owner keeps
+getting new cars spread across roughly 30 weeks rather than all at once.
+Other documented content packs include the Welcome Pack, the Time Attack
+Car Pack, the Italian Passion Car Pack and two premium expansions that
+arrive post-launch.
+
+=== Editions ===
+Game: Forza Horizon 6
+Category: Rewards
+What editions does Forza Horizon 6 have? Documented editions:
+- Standard Edition ($69.99): the base game only — the tier offered with
+  Xbox Game Pass Ultimate and PC Game Pass.
+- Deluxe Edition ($99.99): base game plus the Car Pass and Welcome Pack.
+- Premium Edition ($129.99): everything at launch — Car Pass, Welcome Pack,
+  Time Attack Car Pack, Italian Passion Car Pack, VIP Membership and both
+  premium expansions — plus four days of early access (from 15 May 2026).
+Pre-ordering any edition grants an exclusive, pre-tuned Ferrari J50.
+Online console multiplayer requires a Game Pass subscription that includes
+online multiplayer, sold separately.
+
+=== VIP Membership ===
+Game: Forza Horizon 6
+Category: Rewards
+What does VIP Membership include? VIP Membership is part of the Premium
+Edition (and Premium Upgrade). Its documented in-game perk in this
+knowledge base: exclusive VIP cars — the 2019 Toyota Tacoma TRD Pro Forza
+Edition is only obtainable with the VIP Membership of the Premium Edition,
+and the 1999 Dodge Viper GTS ACR Forza Edition is documented as available
+via VIP Membership or the Premium Edition.
+
+=== Loyalty Rewards ===
+Game: Forza Horizon 6
+Category: Rewards
+What loyalty reward cars can I get? If your Xbox Gamertag has played
+previous Forza titles, Forza Horizon 6 gives you their cover cars for free,
+placed in your garage after you complete the Tokyo City introductory race:
+- Forza Horizon: 2013 Dodge SRT Viper GTS
+- Forza Horizon 2: 2014 Lamborghini Huracan LP 610-4
+- Forza Horizon 3: 2016 Lamborghini Centenario LP 770-4
+- Forza Horizon 4: 2016 Aston Martin Vulcan (the McLaren Senna was not
+  included at launch due to licensing)
+- Forza Horizon 5: 2021 Mercedes-AMG ONE
+- Forza Motorsport (2023): 2024 Chevrolet Corvette E-Ray
+These arrive before you have earned much money, which makes loyalty
+accounts start with a serious car collection.

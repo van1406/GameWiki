@@ -1,0 +1,109 @@
+# Forza Horizon 6 — Tuning
+
+How tuning works in Forza Horizon 6: which upgrades unlock which sliders,
+what each tuning setting does, and how to tune step by step.
+
+=== Tuning ===
+Game: Forza Horizon 6
+Category: Tuning
+What is tuning? Tuning is the process of adjusting the settings your
+installed upgrade parts have unlocked — tire pressure, gearing, alignment,
+springs, damping, anti-roll bars, brakes and more — to make a specific car
+behave the way you want for a specific discipline. Tuning in Forza Horizon 6
+is as deep as it is rewarding: parts decide which sliders you are allowed to
+move, and the sliders decide how the car responds to your inputs, how it
+handles weight transfer through corners, and how predictable it feels at the
+limit.
+
+=== How Do I Tune My Car ===
+Game: Forza Horizon 6
+Category: Tuning
+How do I tune my car? Follow this flow:
+1. Open the Upgrade Shop and install parts that unlock the sliders you need.
+   The single biggest unlock is Race-tier Springs & Dampers, which opens the
+   full suspension tuning suite; Race anti-roll bars and Race brakes unlock
+   their own sliders.
+2. Open the Tune menu for that car.
+3. Adjust tire pressure and gearing first, then alignment (camber, toe,
+   caster), spring rates, ride height, damping (bump and rebound), anti-roll
+   bar stiffness, brake balance and brake pressure, and the differential if
+   available.
+4. Test the car on a lap or a short event, then adjust based on feel:
+   if the car understeers, soften the front; if it oversteers, soften the
+   rear.
+5. Save the tune — you can also share tunes, and download other players'
+   tunes at Car Meets and from the community.
+You can tune any car you own; stock cars with no upgraded parts have no
+sliders available to adjust.
+
+=== Tuning Settings ===
+Game: Forza Horizon 6
+Category: Tuning
+What settings can I tune? The documented tuning settings in Forza Horizon 6
+are:
+- Tire pressure — lower pressure generally gives more grip, higher pressure
+  faster steering response; the street suspension tiers are what usually
+  unlock this slider first.
+- Gearing — final drive and individual gear ratios for acceleration or top
+  speed.
+- Alignment — front and rear camber, front and rear toe, and front caster.
+  Negative camber adds cornering grip at the cost of straight-line grip;
+  slight toe-out sharpens turn-in; toe-in adds high-speed stability.
+- Spring rates (front and rear) and ride height (front and rear).
+- Damping — bump (compression) and rebound (extension) for front and rear;
+  rebound is normally stiffer than bump.
+- Anti-roll bar stiffness front and rear (roughly 1.00 soft to 65.00 stiff).
+- Brake balance (front-to-rear split) and brake pressure.
+- Differential settings where the car supports them.
+Each slider is only available if the corresponding upgraded part is fitted.
+
+=== Suspension Upgrades and Tuning Unlocks ===
+Game: Forza Horizon 6
+Category: Tuning
+Which suspension upgrades unlock tuning? Documented tiers:
+- Stock Springs & Dampers: factory suspension, no tuning sliders unlocked.
+- Street Springs & Dampers: usually unlocks the tire pressure slider but
+  keeps alignment, springs, damping and ride height locked.
+- Sport Springs & Dampers: modest improvement, typically still locked
+  sliders; saves Performance Index compared with Race.
+- Race Springs & Dampers: unlocks the full suspension tuning suite —
+  alignment (camber, toe, caster), spring rate front and rear, ride height
+  front and rear, and damping (bump and rebound) front and rear. This is
+  the standard choice for any serious build at A class and above.
+- Rally Springs & Dampers: for chassis that support off-road conversions;
+  full suite calibrated for loose surfaces.
+- Off-Road Springs & Dampers: maximum compliance, values tuned for extreme
+  terrain and cross-country builds.
+Race anti-roll bars unlock the ARB stiffness slider for that axle, and Race
+brakes unlock brake balance and brake pressure.
+
+=== Tuning Tips ===
+Game: Forza Horizon 6
+Category: Tuning
+What are good tuning tips for beginners? Documented guidance:
+- If the car understeers, soften the front anti-roll bar; don't stiffen the
+  rear to fix understeer. If it oversteers, soften the rear.
+- Don't max anti-roll bar stiffness on both ends — very stiff bars make the
+  car skip over road texture and lose grip; a middle range is typical.
+- On road racing builds, lower ride height for a lower centre of gravity;
+  raise it for dirt and cross-country so you can clear terrain.
+- Front-wheel-drive cars want more front brake bias than rear-wheel-drive
+  or all-wheel-drive cars.
+- Leave toe at 0.0 unless you need a specific fix — any non-zero toe causes
+  tire scrub.
+- Weight reduction is one of the few upgrades that simultaneously improves
+  acceleration, braking and cornering; on very light cars check whether the
+  Performance Index cost is worth it.
+- Drag builds skip chassis reinforcement — the added weight hurts the
+  launch.
+- Drift setups typically use aggressive front camber, a soft front and very
+  stiff rear anti-roll bar, and a more rearward brake bias.
+
+=== Share and Download Tunes ===
+Game: Forza Horizon 6
+Category: Tuning
+Can I use other players' tunes? Yes. Tunes can be shared with the
+community, and at Car Meets you can download other players' Tunes, Liveries
+and even full copies of their cars. Festival Playlist guides and community
+resources regularly point at shared tunes for seasonal events, so downloading
+a proven tune is a normal alternative to tuning everything yourself.

@@ -3,6 +3,60 @@
 Step-by-step how-to guides for Minecraft's main progression: first night, diamonds,
 the Nether, and the End.
 
+=== The First Few Minutes ===
+Game: Minecraft
+Category: Progression
+What do I do first in Minecraft?
+1. Punch the nearest tree: logs become planks, planks become a crafting
+   table and a wooden pickaxe.
+2. Mine stone immediately to upgrade to stone tools (stone pickaxe first).
+3. Grab coal and iron if you pass any; make torches as you go.
+4. Find animals or a village for food, and keep the wool you find.
+5. Before the sun sets, build a closed shelter or dig into a hillside and
+   seal it — then craft a bed if you have three wool.
+Tip: Everything else can wait; surviving night one is the only real
+objective.
+
+=== Getting Stone Tools ===
+Game: Minecraft
+Category: Progression
+How do I get stone tools? Mine cobblestone with a wooden pickaxe, then
+craft a stone pickaxe, axe, shovel, and hoe — the stone tier mines copper,
+iron, and lapis and lasts far longer than wood. Keep the wooden pickaxe only
+until you smelt your first iron. Stone tools unlock everything the early
+game needs: shears, a flint and steel kit, and furnace fuel loops.
+
+=== Getting Iron ===
+Game: Minecraft
+Category: Progression
+How do I get iron? Find iron ore in caves, cliff faces, or by digging at
+ey level, smelt it in a furnace, and craft in this order: pickaxe, sword,
+shield, bucket, then a full iron armor set. Iron is the most important
+mid-game resource — it enables mines down to diamond level safely (water
+bucket for lava), a shield against skeletons and creepers, and shears,
+brewing stands, and hoppers later. Iron golems, dungeons, and shipwrecks
+drop bonus ingots.
+
+=== Finding Food ===
+Game: Minecraft
+Category: Progression
+How do I keep fed? Early: kill animals for meat and cook it — cooked beef
+and porkchops restore the most hunger. Mid: plant wheat, carrots, and
+potatoes on hydrated farmland so food becomes renewable. Bread, baked
+potatoes, and cooked steak are the workhorse foods; golden apples and
+carrots are for emergencies. Keep food in the hotbar — health only
+regenerates while hunger is above half, and sprinting drains hunger fast.
+
+=== Making Armor ===
+Game: Minecraft
+Category: Progression
+What armor should I aim for? Leather or found chainmail immediately, then a
+full iron set (24 ingots) as your working armor, then diamond (24 diamonds)
+for the End. Enchant at level 30 before the dragon fight: Protection on
+every piece, Feather Falling on boots, and Unbreaking everywhere. Full
+iron with a shield comfortably handles everything up to the Nether;
+diamond with Protection handles the Nether and the dragon.
+
 === Surviving the First Night ===
 Game: Minecraft
 Category: Progression
@@ -120,3 +174,44 @@ extend the signal and add delays; comparators read container fullness and compar
 signals; pistons push blocks; and dispensers fire items. These parts build automatic
 doors, farms, lighting systems, and traps. Start simple — a lever wired to a door —
 then add repeaters and torch logic for more complex machines.
+
+=== Finding a Stronghold ===
+Game: Minecraft
+Category: Progression
+How do I find a stronghold? Craft eyes of ender from ender pearls and blaze
+powder, then throw one into the air — it floats in the direction of the
+buried stronghold and shatters, so collect it (or craft more) and throw
+again. When an eye hovers straight down instead of sideways, you are
+standing above it: dig down and explore the stone-brick corridors until you
+find the portal room. Strongholds generate in rings around the world spawn,
+so they can be thousands of blocks from home — bring a boat, food, a bed, at
+least twelve eyes of ender, and blocks for the trip.
+
+=== Getting an Elytra ===
+Game: Minecraft
+Category: Progression
+How do I get an Elytra?
+1. Defeat the Ender Dragon — the end gateway portal opens on the island's
+   edge.
+2. Throw an ender pearl through the gateway (or bridge across) to reach the
+   outer End islands.
+3. Explore outward until you spot an End city, and look for the end ship
+   moored beside it.
+4. Kill or dodge the shulkers, board the ship, and take the elytra from the
+   item frame at its center.
+5. Land, equip the wings in your chestplate slot, and glide home — use a
+   firework rocket (paper + gunpowder) in mid-air to boost.
+Tips: Bring slow falling potions (levitating shulkers can drop you to your
+death), a stack of building blocks for bridges, and a spare pickaxe — then
+enchant the wings with Mending and Unbreaking at home.
+
+=== End Cities and After the Dragon ===
+Game: Minecraft
+Category: Progression
+What comes after the Ender Dragon? Explore the outer islands for End cities:
+shulker-guarded towers hold enchanted diamond gear, diamonds, and
+experience, and end ships hold the elytra. Collect shulker shells for
+shulker boxes (portable ender-chest-like storage) and chorus fruit from the
+islands. With an elytra and rockets you have finished the progression loop —
+from there it is building, farms, trading halls, and hunting every
+achievement.

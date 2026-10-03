@@ -1,0 +1,51 @@
+# Forza Horizon 6 — EventLab and Horizon CoLab
+
+Building and sharing custom events, and the new multiplayer build mode.
+
+=== EventLab ===
+Game: Forza Horizon 6
+Category: Creation
+What is EventLab? EventLab is the custom-event creation suite, returning
+from Forza Horizon 5 with major improvements. In Forza Horizon 6 you can
+start building from anywhere on the map — create with unprecedented freedom
+anywhere in Japan — and share your finished creations for everyone to play.
+The game ships an always-evolving catalog of exciting new content created
+by the community, and festival challenges regularly ask you to play an
+EventLab event ("Community Made" is a documented daily challenge).
+
+=== How Do I Use EventLab ===
+Game: Forza Horizon 6
+Category: Creation
+How do I use EventLab? The documented flow:
+1. Enter EventLab from the game menus — you can start a build from anywhere
+   in the world rather than from a fixed hub.
+2. Build your custom event: routes, settings and structure, solo or with
+   friends via CoLab.
+3. Share the creation so other players can find and play it.
+4. Browse the always-updating catalog of community events to play other
+   people's work — playing one counts toward festival challenges.
+EventLab creations are separate from matchmaking: custom races you want to
+play with chosen rules against random opponents are handled by Custom
+Racing in Horizon Play, while EventLab is for community-built content.
+
+=== Horizon CoLab ===
+Game: Forza Horizon 6
+Category: Creation
+How does CoLab work? Horizon CoLab is the upgraded EventLab toolset, now
+featuring multiplayer support and the ability to build literally anywhere
+in the world. Up to 12 players can join the creator and assist with
+building in a "Horizon Co-LAB" — you and your friends build custom events
+together in real time, then share the result for everyone to play and
+discover. Documented as "build together, anywhere in Japan": CoLab is the
+social evolution of Forza's event editor, aimed at letting the community
+craft the game's content collaboratively instead of solo.
+
+=== Sharing Community Creations ===
+Game: Forza Horizon 6
+Category: Creation
+How do shared creations work? Everything made in EventLab and CoLab feeds
+an always-evolving catalog of community content that all players can
+discover and play. Sharing also extends beyond events: players share liveries
+and tunes (visible at Car Meets and in the tune/livery browsers), and
+customized garage layouts can be downloaded from the community in the same
+way as EventLab creations.

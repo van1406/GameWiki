@@ -92,6 +92,78 @@ Type: Utility
 Dropped by evokers in woodland mansions and raids. Holding it in the off-hand prevents
 death once, restoring health and granting absorption at the cost of the totem.
 
+=== Obsidian ===
+Game: Minecraft
+Category: Item
+Type: Block
+How to obtain: Pour water onto a lava source block to create obsidian, then
+mine it with a diamond pickaxe; it also generates naturally around lava lakes
+deep underground and in ruined portals.
+Uses: Nether portal frames (10-14 blocks), enchanting tables (four each),
+and blast-resistant building material. It takes a long time to break even
+with the best pickaxe.
+Where it is found: Everywhere lava meets water — the classic method is a
+lava pool with a water bucket.
+
+=== Eyes of Ender ===
+Game: Minecraft
+Category: Item
+Type: Material
+How to obtain: Craft four ender pearls (from endermen) with four blaze
+powder (from blaze rods) to make four eyes of ender.
+Uses: Thrown to locate the Stronghold, and placed into the twelve End portal
+frame slots to activate it; also used to craft end crystals.
+Where it is found: Ender pearls come from endermen or cleric trades; blaze
+powder from blazes in Nether fortresses.
+
+=== Elytra ===
+Game: Minecraft
+Category: Item
+Type: Utility
+What it is: A pair of wings that let you glide and boost through the air —
+the only true flight gear in survival.
+How to obtain: Taken from the item frame aboard the end ship moored next to
+End cities (after defeating the Ender Dragon); not craftable.
+Uses: Equip in the chestplate slot, jump from a height and press jump again
+to glide, and use firework rockets mid-flight to boost and climb.
+Where it is found: End ships only — the single most valuable item in the
+game.
+
+=== Firework Rocket ===
+Game: Minecraft
+Category: Item
+Type: Utility
+How to obtain: Craft paper with gunpowder (one gunpowder plus paper makes
+three rockets); no flight-duration ingredient is needed for boosting.
+Uses: Boosting elytra flight (use while gliding), celebrating, and powering
+dispenser firework launchers.
+Where it is found: Paper from sugar cane, gunpowder from creepers, ghasts,
+and witches.
+
+=== Emerald ===
+Game: Minecraft
+Category: Item
+Type: Currency
+What it is: The trading currency of villagers — every villager trade is
+priced in emeralds.
+How to obtain: Farm and sell crops to farmers, sell sticks to fletchers,
+mine emerald ore in mountains, or loot chests.
+Uses: Buying enchanted books, diamond gear, maps, potions, and every other
+villager service.
+Where it is found: Mountain biomes generate emerald ore; villagers and
+chest loot provide the rest.
+
+=== Water Bucket ===
+Game: Minecraft
+Category: Item
+Type: Tool
+How to obtain: Craft three iron ingots into a bucket, then fill it at any
+water source.
+Uses: MLG water breaks falls, water columns let you climb, lava becomes
+obsidian or cobblestone, fires go out, and farm land gets hydrated.
+Where it is found: Crafted — keep one in your hotbar at all times; it is the
+single best survival tool.
+
 === Item Stacking ===
 Game: Minecraft
 Category: Game Mechanics

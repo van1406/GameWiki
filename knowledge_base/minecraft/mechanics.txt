@@ -74,6 +74,58 @@ Killing a raid captain grants the Bad Omen effect. Entering a village with Bad O
 starts a raid with waves of pillagers, vindicators, ravagers, and evokers. Winning the
 raid grants the Hero of the Village effect, which gives discounted villager trades.
 
+=== Difficulty Modes ===
+Game: Minecraft
+Category: Game Mechanics
+Minecraft has three difficulty settings plus Peaceful: Peaceful removes all
+hostile mobs and regenerates health without food concerns; Easy, Normal, and
+Hard raise hostile damage, spawn rates, and penalties — on Hard, starvation
+can kill you and certain effects last longer. Difficulty can be changed at
+any time in settings, and it decides which mobs appear: no creepers or
+zombies exist on Peaceful.
+
+=== Death and Respawning ===
+Game: Minecraft
+Category: Game Mechanics
+What happens when I die? You drop everything you were carrying at the death
+spot (items despawn after five minutes), then respawn at your spawn point
+with an empty inventory. There are no gravestones — sprint back to your death
+spot and pick your items up before they disappear. Beds set your respawn point when you
+sleep in them, and in the Nether or End a charged respawn anchor does the
+same. Sleeping in a new bed moves your respawn — dying far from home means a
+long walk back unless you planned ahead.
+
+=== Coordinates ===
+Game: Minecraft
+Category: Game Mechanics
+How do I read coordinates? Open the debug screen with F3 (Java) to see your
+position: X runs east/west, Y is your height (bedrock starts at y -64, sea
+level is y 63), and Z runs north/south. Negative values are west and north
+of the world center.
+Practical uses: Mark your base, portal, and mine entrances at their
+coordinates so Nether portals can be linked exactly; y -59 is the best
+diamond-mining height, and y 8 to 22 is where ancient debris hides in the
+Nether.
+
+=== Inventory and Storage ===
+Game: Minecraft
+Category: Game Mechanics
+Your inventory holds 36 storage slots (nine hotbar slots plus 27 main slots)
+plus four armor slots and one off-hand slot. Chests add 27 slots each and
+two chests side by side merge into a 54-slot double chest; barrels, shulker
+boxes, and ender chests add more. Organize with labeled chests (a sign on the
+front), keep a tools chest and a food chest at home, and never carry your
+entire inventory on a mining trip — store valuables before risky expeditions.
+
+=== Beds and Spawn Points ===
+Game: Minecraft
+Category: Game Mechanics
+How do beds work? Right-click a bed (three wool over three planks) to sleep
+through the night and set your respawn point. Sleeping fails if hostile mobs
+are near or if it is not night. Beds explode in the Nether and the End — use
+a charged respawn anchor in the Nether instead. Changing beds simply moves
+your respawn to the last bed you slept in.
+
 === Day and Night Cycle ===
 Game: Minecraft
 Category: Game Mechanics

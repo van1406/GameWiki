@@ -1,0 +1,114 @@
+# Minecraft — Potions and Brewing
+
+How brewing works, every important potion, and where to find the ingredients.
+
+=== The Brewing Stand ===
+Game: Minecraft
+Category: Potions
+Materials: 1 blaze rod + 3 cobblestone.
+Recipe: Blaze rod on top, cobblestone across the bottom row.
+How to Craft: In a crafting table, place the blaze rod in the top-center
+slot and cobblestone in the three bottom slots.
+How to use: Place the stand, put blaze powder in the top-left fuel slot, add
+water bottles in the bottom slots, and ingredients in the top slot. Each
+blaze powder unit fuels several brews. A cauldron is not required — bottles go
+straight into the stand.
+
+=== Brewing Basics ===
+Game: Minecraft
+Category: Potions
+How does brewing work? Every potion starts the same way:
+1. Fill three glass bottles with water (right-click a water source).
+2. Add nether wart to the bottles to make the awkward potion — the base for
+   almost every effect potion.
+3. Add the effect ingredient (glistering melon, sugar, blaze powder, etc.) to
+   turn the awkward potion into the finished potion.
+4. Modify it: redstone extends duration, glowstone makes it stronger,
+   gunpowder makes it a splash potion, and dragon's breath makes it linger.
+5. Fermented spider eye corrupts most potions (healing becomes harming,
+   swiftness becomes slowness, night vision becomes invisibility).
+Practical tips: Always brew in batches of three — one set of bottles makes
+three potions from a single ingredient.
+
+=== Base Potions ===
+Game: Minecraft
+Category: Potions
+- Water bottle: filled from any water source.
+- Awkward potion: water bottle + nether wart; the base of nearly every effect
+  potion in the game.
+- Mundane and thick potions: other early intermediates that are rarely useful
+  on their own — almost every recipe you want starts from awkward.
+Practical tips: Keep a chest of awkward potions ready so every new brew only
+needs its effect ingredient.
+
+=== Important Potions ===
+Game: Minecraft
+Category: Potions
+What are the most useful potions?
+- Healing (glistering melon): restores health instantly; splash healing is the
+  best mid-fight heal.
+- Regeneration (ghast tear): heals over time.
+- Strength (blaze powder): adds melee damage — essential for boss fights.
+- Swiftness (sugar): faster movement and mining speed.
+- Night Vision (golden carrot): see in the dark for eight minutes; add
+  fermented spider eye for invisibility.
+- Fire Resistance (magma cream): immune to fire and lava — the single most
+  important Nether potion.
+- Water Breathing (pufferfish): underwater exploration and monuments.
+- Slow Falling (phantom membrane): negates fall damage — perfect for the End
+  and for elytra travel.
+- Poison (spider eye): drains health over time (offensive).
+- Leaping (rabbit's foot): jump higher.
+- Weakness (fermented spider eye in awkward base): lowers melee damage —
+  also used to cure zombie villagers with a splash potion.
+Practical tips: Splash versions of healing and strength belong in your hotbar
+during every hard fight.
+
+=== Splash, Lingering, and Tipped Arrows ===
+Game: Minecraft
+Category: Potions
+- Splash potions: add gunpowder — throw to affect yourself or mobs in an area.
+- Lingering potions: add dragon's breath — create a cloud that applies the
+  effect to anything inside; dragon's breath is collected with glass bottles
+  during the Ender Dragon fight.
+- Tipped arrows: craft arrows with lingering potions — shoot the effect from
+  range.
+Practical tips: Lingering healing clouds let you heal allies (or yourself)
+by walking through them, while lingering harming clouds soften a fight before
+it starts.
+
+=== How to Obtain Brewing Ingredients ===
+Game: Minecraft
+Category: Potions
+Where do I get brewing ingredients?
+- Nether wart: grown on soul sand; found in fortress stair gardens and bastion
+  chests — the first thing to grab in the Nether.
+- Blaze powder: craft blaze rods (dropped by blazes in fortresses); it is also
+  the brewing stand fuel.
+- Glistering melon: melon slices + gold nuggets.
+- Golden carrot: carrot + 8 gold nuggets.
+- Magma cream: dropped by magma cubes, or crafted from blaze powder + slimeball.
+- Ghast tear and gunpowder: dropped by ghasts.
+- Rabbit's foot: dropped by rabbits.
+- Pufferfish: caught by fishing or found in warm oceans.
+- Phantom membrane: dropped by phantoms.
+- Spider eye: dropped by spiders; fermented with brown mushroom and sugar.
+- Dragon's breath: collected with glass bottles during the dragon fight.
+- Sugar: crafted from sugar cane; redstone, glowstone, and gunpowder come
+  from mining, the Nether, and creepers respectively.
+
+=== Practical Brewing Tips ===
+Game: Minecraft
+Category: Potions
+- Build a brewing room near your Nether portal with stands, a water source,
+  and labeled chests for ingredients.
+- Brew Fire Resistance before every Nether trip and Slow Falling before the
+  End.
+- Splash healing is faster to use in combat than eating — keep two stacks.
+- Redstone doubles potion duration at the cost of potency; glowstone
+  upgrades potency but shortens duration — pick one, they conflict.
+- Witches drop potions and brewing ingredients when killed; their huts are
+  free early loot.
+- Fermented spider eye (brown mushroom + sugar + spider eye) is the
+  corruption ingredient — keep it stocked to flip potions into their reverse
+  effects.
